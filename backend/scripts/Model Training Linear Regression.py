@@ -1,4 +1,5 @@
 import pandas as pd
+import pickle
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import PolynomialFeatures
 from sklearn.linear_model import LinearRegression
@@ -67,3 +68,6 @@ r2_poly = r2_score(y_test, y_pred_poly)
 # Print the evaluation metrics
 print(f"Mean Squared Error (Polynomial Model): {mse_poly:.2f}")
 print(f"R-squared (Polynomial Model): {r2_poly:.2f}")
+
+with open('ml_models/linear_regression_model.pkl', 'wb') as file:
+    pickle.dump(poly_model, file)

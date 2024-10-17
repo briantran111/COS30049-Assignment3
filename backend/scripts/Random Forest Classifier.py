@@ -1,4 +1,5 @@
 import pandas as pd
+import pickle
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report
@@ -61,3 +62,7 @@ y_pred = rf_model.predict(X_test)
 accuracy = accuracy_score(y_test, y_pred)
 print("Accuracy:", accuracy)
 print(classification_report(y_test, y_pred))
+
+# Assuming 'rf_model' is already trained
+with open('ml_models/random_forest_model.pkl', 'wb') as file:
+    pickle.dump(rf_model, file)
