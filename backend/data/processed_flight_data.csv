@@ -1,0 +1,2346 @@
+Airline,Aircraft,Day,Time,Price ( AUD ),Scheduled Time,Actual Time
+jetstar,jq500,02 aug 2024,14.0,230.0,6:00 AM,6:24 AM
+jetstar,jq500,03 aug 2024,14.0,230.0,6:00 AM,6:11 AM
+jetstar,jq500,04 aug 2024,14.0,230.0,6:00 AM,6:11 AM
+jetstar,jq500,05 aug 2024,14.0,230.0,6:00 AM,6:11 AM
+jetstar,jq500,06 aug 2024,14.0,230.0,6:00 AM,6:10 AM
+jetstar,jq500,07 aug 2024,14.0,230.0,6:00 AM,6:04 AM
+jetstar,jq500,08 aug 2024,14.0,230.0,6:00 AM,6:06 AM
+jetstar,jq500,09 aug 2024,14.0,230.0,6:00 AM,6:03 AM
+jetstar,jq500,1 aug 2024,14.0,230.0,6:00 AM,6:07 AM
+jetstar,jq500,1 oct 2024,6.0,79.0,6:00 AM,6:07 AM
+jetstar,jq500,10 aug 2024,14.0,230.0,6:00 AM,6:18 AM
+jetstar,jq500,11 aug 2024,14.0,230.0,6:00 AM,6:22 AM
+jetstar,jq500,12 aug 2024,14.0,230.0,6:00 AM,6:06 AM
+jetstar,jq500,13 aug 2024,14.0,230.0,6:00 AM,6:06 AM
+jetstar,jq500,14 aug 2024,14.0,230.0,6:00 AM,6:15 AM
+jetstar,jq500,15 aug 2024,14.0,230.0,6:00 AM,6:14 AM
+jetstar,jq500,16 aug 2024,14.0,230.0,6:00 AM,6:11 AM
+jetstar,jq500,17 aug 2024,14.0,230.0,6:00 AM,6:52 AM
+jetstar,jq500,18 aug 2024,14.0,230.0,6:00 AM,6:04 AM
+jetstar,jq500,19 aug 2024,14.0,230.0,6:00 AM,6:19 AM
+jetstar,jq500,2 oct 2024,6.0,84.0,6:00 AM,6:19 AM
+jetstar,jq500,20 aug 2024,14.0,230.0,6:00 AM,6:04 AM
+jetstar,jq500,21 aug 2024,14.0,230.0,6:00 AM,6:10 AM
+jetstar,jq500,22 aug 2024,14.0,230.0,6:00 AM,6:02 AM
+jetstar,jq500,22 sep 2024,6.0,473.0,6:00 AM,6:02 AM
+jetstar,jq500,23 aug 2024,14.0,230.0,6:00 AM,6:08 AM
+jetstar,jq500,23 sep 2024,6.0,394.0,6:00 AM,6:08 AM
+jetstar,jq500,24 aug 2024,14.0,230.0,6:00 AM,6:17 AM
+jetstar,jq500,24 sep 2024,6.0,230.0,6:00 AM,6:17 AM
+jetstar,jq500,25 aug 2024,14.0,230.0,6:00 AM,6:17 AM
+jetstar,jq500,25 sep 2024,6.0,141.0,6:00 AM,6:17 AM
+jetstar,jq500,26 aug 2024,14.0,230.0,6:00 AM,6:01 AM
+jetstar,jq500,26 sep 2024,6.0,141.0,6:00 AM,6:01 AM
+jetstar,jq500,27 aug 2024,14.0,230.0,6:00 AM,6:06 AM
+jetstar,jq500,27 sep 2024,6.0,198.0,6:00 AM,6:06 AM
+jetstar,jq500,28 aug 2024,14.0,230.0,6:00 AM,6:32 AM
+jetstar,jq500,28 sep 2024,6.0,113.0,6:00 AM,6:32 AM
+jetstar,jq500,29 aug 2024,14.0,230.0,6:00 AM,6:05 AM
+jetstar,jq500,29 sep 2024,6.0,270.0,6:00 AM,6:05 AM
+jetstar,jq500,3 oct 2024,6.0,141.0,6:00 AM,6:05 AM
+jetstar,jq500,30 aug 2024,14.0,230.0,6:00 AM,6:14 AM
+jetstar,jq500,30 sep 2024,6.0,158.0,6:00 AM,6:14 AM
+jetstar,jq500,31 aug 2024,14.0,230.0,6:00 AM,6:18 AM
+jetstar,jq500,4 oct 2024,6.0,176.0,6:00 AM,6:18 AM
+jetstar,jq500,5 oct 2024,6.0,158.0,6:00 AM,6:18 AM
+jetstar,jq500,6 oct 2024,6.0,127.0,6:00 AM,6:18 AM
+jetstar,jq502,02 aug 2024,14.0,230.0,7:30 AM,7:56 AM
+jetstar,jq502,03 aug 2024,14.0,230.0,7:30 AM,7:37 AM
+jetstar,jq502,04 aug 2024,14.0,230.0,7:30 AM,7:35 AM
+jetstar,jq502,05 aug 2024,14.0,230.0,7:30 AM,7:46 AM
+jetstar,jq502,06 aug 2024,14.0,230.0,7:30 AM,7:38 AM
+jetstar,jq502,07 aug 2024,14.0,230.0,7:30 AM,7:49 AM
+jetstar,jq502,08 aug 2024,14.0,230.0,7:30 AM,7:55 AM
+jetstar,jq502,09 aug 2024,14.0,230.0,7:30 AM,7:47 AM
+jetstar,jq502,1 aug 2024,14.0,230.0,7:30 AM,7:48 AM
+jetstar,jq502,1 oct 2024,7.0,84.0,7:30 AM,7:48 AM
+jetstar,jq502,10 aug 2024,14.0,230.0,7:30 AM,7:48 AM
+jetstar,jq502,11 aug 2024,14.0,230.0,7:30 AM,7:58 AM
+jetstar,jq502,12 aug 2024,14.0,230.0,7:30 AM,8:13 AM
+jetstar,jq502,13 aug 2024,14.0,230.0,7:25 AM,7:52 AM
+jetstar,jq502,14 aug 2024,14.0,230.0,7:30 AM,8:12 AM
+jetstar,jq502,15 aug 2024,14.0,230.0,7:30 AM,8:12 AM
+jetstar,jq502,16 aug 2024,14.0,230.0,7:30 AM,8:05 AM
+jetstar,jq502,17 aug 2024,14.0,230.0,7:30 AM,7:40 AM
+jetstar,jq502,18 aug 2024,14.0,230.0,7:30 AM,7:42 AM
+jetstar,jq502,19 aug 2024,14.0,230.0,7:30 AM,7:45 AM
+jetstar,jq502,2 oct 2024,7.0,90.0,7:30 AM,7:45 AM
+jetstar,jq502,20 aug 2024,14.0,230.0,7:25 AM,7:31 AM
+jetstar,jq502,21 aug 2024,14.0,230.0,7:30 AM,7:57 AM
+jetstar,jq502,22 aug 2024,14.0,230.0,7:30 AM,7:41 AM
+jetstar,jq502,22 sep 2024,7.0,394.0,7:30 AM,7:41 AM
+jetstar,jq502,23 aug 2024,14.0,230.0,7:30 AM,7:40 AM
+jetstar,jq502,23 sep 2024,7.0,327.0,7:30 AM,7:40 AM
+jetstar,jq502,24 aug 2024,14.0,230.0,7:30 AM,7:33 AM
+jetstar,jq502,24 sep 2024,7.0,198.0,7:30 AM,7:33 AM
+jetstar,jq502,25 aug 2024,14.0,230.0,7:30 AM,7:39 AM
+jetstar,jq502,25 sep 2024,7.0,127.0,7:30 AM,7:39 AM
+jetstar,jq502,26 aug 2024,14.0,230.0,7:30 AM,7:46 AM
+jetstar,jq502,26 sep 2024,7.0,158.0,7:30 AM,7:46 AM
+jetstar,jq502,27 aug 2024,14.0,230.0,7:25 AM,7:46 AM
+jetstar,jq502,27 sep 2024,7.0,198.0,7:25 AM,7:46 AM
+jetstar,jq502,28 aug 2024,14.0,230.0,7:30 AM,8:01 AM
+jetstar,jq502,28 sep 2024,7.0,113.0,7:30 AM,8:01 AM
+jetstar,jq502,29 aug 2024,14.0,230.0,7:30 AM,7:42 AM
+jetstar,jq502,29 sep 2024,7.0,394.0,7:30 AM,7:42 AM
+jetstar,jq502,3 oct 2024,7.0,127.0,7:30 AM,7:42 AM
+jetstar,jq502,30 aug 2024,14.0,230.0,7:30 AM,7:50 AM
+jetstar,jq502,30 sep 2024,7.0,141.0,7:30 AM,7:50 AM
+jetstar,jq502,31 aug 2024,14.0,230.0,7:30 AM,8:03 AM
+jetstar,jq502,4 oct 2024,7.0,198.0,7:30 AM,8:03 AM
+jetstar,jq502,5 oct 2024,7.0,158.0,7:30 AM,8:03 AM
+jetstar,jq502,6 oct 2024,7.0,127.0,7:30 AM,8:03 AM
+jetstar,jq504,02 aug 2024,14.0,230.0,8:15 AM,9:26 AM
+jetstar,jq504,03 aug 2024,14.0,230.0,8:15 AM,9:10 AM
+jetstar,jq504,04 aug 2024,14.0,230.0,8:15 AM,8:18 AM
+jetstar,jq504,05 aug 2024,14.0,230.0,8:15 AM,8:26 AM
+jetstar,jq504,06 aug 2024,14.0,230.0,8:15 AM,8:31 AM
+jetstar,jq504,07 aug 2024,14.0,230.0,8:15 AM,8:27 AM
+jetstar,jq504,08 aug 2024,14.0,230.0,8:15 AM,8:20 AM
+jetstar,jq504,09 aug 2024,14.0,230.0,8:15 AM,8:22 AM
+jetstar,jq504,1 aug 2024,14.0,230.0,8:15 AM,9:01 AM
+jetstar,jq504,1 oct 2024,8.0,99.0,8:15 AM,9:01 AM
+jetstar,jq504,10 aug 2024,14.0,230.0,8:15 AM,8:21 AM
+jetstar,jq504,11 aug 2024,14.0,230.0,8:15 AM,8:18 AM
+jetstar,jq504,12 aug 2024,14.0,230.0,8:15 AM,8:31 AM
+jetstar,jq504,13 aug 2024,14.0,230.0,8:15 AM,8:27 AM
+jetstar,jq504,14 aug 2024,14.0,230.0,8:15 AM,8:30 AM
+jetstar,jq504,15 aug 2024,14.0,230.0,8:15 AM,8:21 AM
+jetstar,jq504,16 aug 2024,14.0,230.0,8:15 AM,8:47 AM
+jetstar,jq504,17 aug 2024,14.0,230.0,8:15 AM,8:15 AM
+jetstar,jq504,18 aug 2024,14.0,230.0,8:15 AM,8:28 AM
+jetstar,jq504,19 aug 2024,14.0,230.0,8:15 AM,8:24 AM
+jetstar,jq504,2 oct 2024,8.0,90.0,8:15 AM,8:24 AM
+jetstar,jq504,20 aug 2024,14.0,230.0,8:15 AM,8:34 AM
+jetstar,jq504,21 aug 2024,14.0,230.0,8:15 AM,8:22 AM
+jetstar,jq504,22 aug 2024,14.0,230.0,8:15 AM,8:29 AM
+jetstar,jq504,22 sep 2024,8.0,230.0,8:15 AM,8:29 AM
+jetstar,jq504,23 aug 2024,14.0,230.0,8:15 AM,9:07 AM
+jetstar,jq504,23 sep 2024,8.0,270.0,8:15 AM,9:07 AM
+jetstar,jq504,24 aug 2024,14.0,230.0,8:15 AM,8:21 AM
+jetstar,jq504,24 sep 2024,8.0,198.0,8:15 AM,8:21 AM
+jetstar,jq504,25 aug 2024,14.0,230.0,8:15 AM,8:26 AM
+jetstar,jq504,25 sep 2024,8.0,127.0,8:15 AM,8:26 AM
+jetstar,jq504,26 aug 2024,14.0,230.0,8:15 AM,8:30 AM
+jetstar,jq504,26 sep 2024,8.0,158.0,8:15 AM,8:30 AM
+jetstar,jq504,27 aug 2024,14.0,230.0,8:15 AM,8:27 AM
+jetstar,jq504,27 sep 2024,8.0,198.0,8:15 AM,8:27 AM
+jetstar,jq504,28 aug 2024,14.0,230.0,8:15 AM,9:19 AM
+jetstar,jq504,28 sep 2024,8.0,99.0,8:15 AM,9:19 AM
+jetstar,jq504,29 aug 2024,14.0,230.0,8:15 AM,8:29 AM
+jetstar,jq504,29 sep 2024,8.0,394.0,8:15 AM,8:29 AM
+jetstar,jq504,3 oct 2024,8.0,127.0,8:15 AM,8:29 AM
+jetstar,jq504,30 aug 2024,14.0,230.0,8:15 AM,8:34 AM
+jetstar,jq504,30 sep 2024,8.0,141.0,8:15 AM,8:34 AM
+jetstar,jq504,31 aug 2024,14.0,230.0,8:15 AM,8:31 AM
+jetstar,jq504,4 oct 2024,8.0,230.0,8:15 AM,8:31 AM
+jetstar,jq504,5 oct 2024,8.0,198.0,8:15 AM,8:31 AM
+jetstar,jq504,6 oct 2024,8.0,141.0,8:15 AM,8:31 AM
+jetstar,jq508,02 aug 2024,14.0,230.0,9:25 AM,8:31 AM
+jetstar,jq508,03 aug 2024,14.0,230.0,9:25 AM,9:48 AM
+jetstar,jq508,04 aug 2024,14.0,230.0,9:25 AM,9:30 AM
+jetstar,jq508,05 aug 2024,14.0,230.0,9:25 AM,9:35 AM
+jetstar,jq508,06 aug 2024,14.0,230.0,9:25 AM,9:31 AM
+jetstar,jq508,07 aug 2024,14.0,230.0,9:25 AM,9:38 AM
+jetstar,jq508,08 aug 2024,14.0,230.0,9:25 AM,9:38 AM
+jetstar,jq508,09 aug 2024,14.0,230.0,9:25 AM,9:51 AM
+jetstar,jq508,1 aug 2024,14.0,230.0,9:25 AM,9:52 AM
+jetstar,jq508,1 oct 2024,9.0,90.0,9:25 AM,9:52 AM
+jetstar,jq508,10 aug 2024,14.0,230.0,9:25 AM,9:39 AM
+jetstar,jq508,11 aug 2024,14.0,230.0,9:25 AM,9:37 AM
+jetstar,jq508,12 aug 2024,14.0,230.0,9:25 AM,9:44 AM
+jetstar,jq508,13 aug 2024,14.0,230.0,9:25 AM,9:42 AM
+jetstar,jq508,14 aug 2024,14.0,230.0,9:25 AM,9:45 AM
+jetstar,jq508,15 aug 2024,14.0,230.0,9:25 AM,10:11 AM
+jetstar,jq508,16 aug 2024,14.0,230.0,9:25 AM,9:54 AM
+jetstar,jq508,17 aug 2024,14.0,230.0,9:25 AM,9:56 AM
+jetstar,jq508,18 aug 2024,14.0,230.0,9:25 AM,9:38 AM
+jetstar,jq508,19 aug 2024,14.0,230.0,9:25 AM,9:43 AM
+jetstar,jq508,2 oct 2024,9.0,113.0,9:25 AM,9:43 AM
+jetstar,jq508,20 aug 2024,14.0,230.0,9:25 AM,9:47 AM
+jetstar,jq508,21 aug 2024,14.0,230.0,9:25 AM,9:36 AM
+jetstar,jq508,22 aug 2024,14.0,230.0,9:25 AM,10:13 AM
+jetstar,jq508,22 sep 2024,9.0,473.0,9:25 AM,10:13 AM
+jetstar,jq508,23 aug 2024,14.0,230.0,9:25 AM,9:48 AM
+jetstar,jq508,23 sep 2024,9.0,327.0,9:25 AM,9:48 AM
+jetstar,jq508,24 aug 2024,14.0,230.0,9:25 AM,9:42 AM
+jetstar,jq508,24 sep 2024,9.0,176.0,9:25 AM,9:42 AM
+jetstar,jq508,25 aug 2024,14.0,230.0,9:25 AM,10:37 AM
+jetstar,jq508,25 sep 2024,9.0,141.0,9:25 AM,10:37 AM
+jetstar,jq508,26 aug 2024,14.0,230.0,9:25 AM,9:41 AM
+jetstar,jq508,26 sep 2024,9.0,176.0,9:25 AM,9:41 AM
+jetstar,jq508,27 aug 2024,14.0,230.0,9:25 AM,9:37 AM
+jetstar,jq508,27 sep 2024,9.0,176.0,9:25 AM,9:37 AM
+jetstar,jq508,28 aug 2024,14.0,230.0,9:25 AM,9:37 AM
+jetstar,jq508,28 sep 2024,9.0,113.0,9:25 AM,9:37 AM
+jetstar,jq508,29 aug 2024,14.0,230.0,9:25 AM,9:56 AM
+jetstar,jq508,29 sep 2024,9.0,473.0,9:25 AM,9:56 AM
+jetstar,jq508,3 oct 2024,9.0,141.0,9:25 AM,9:56 AM
+jetstar,jq508,30 aug 2024,14.0,230.0,9:25 AM,9:46 AM
+jetstar,jq508,30 sep 2024,9.0,158.0,9:25 AM,9:46 AM
+jetstar,jq508,31 aug 2024,14.0,230.0,9:25 AM,9:38 AM
+jetstar,jq508,4 oct 2024,9.0,198.0,9:25 AM,9:38 AM
+jetstar,jq508,5 oct 2024,9.0,176.0,9:25 AM,9:38 AM
+jetstar,jq508,6 oct 2024,9.0,158.0,9:25 AM,9:38 AM
+jetstar,jq512,02 aug 2024,14.0,230.0,12:25 PM,1:06 PM
+jetstar,jq512,03 aug 2024,14.0,230.0,12:25 PM,12:41 PM
+jetstar,jq512,04 aug 2024,14.0,230.0,12:25 PM,12:43 PM
+jetstar,jq512,05 aug 2024,14.0,230.0,12:25 PM,12:42 PM
+jetstar,jq512,06 aug 2024,14.0,230.0,12:25 PM,12:33 PM
+jetstar,jq512,07 aug 2024,14.0,230.0,12:25 PM,12:39 PM
+jetstar,jq512,08 aug 2024,14.0,230.0,12:25 PM,12:38 PM
+jetstar,jq512,09 aug 2024,14.0,230.0,12:25 PM,12:30 PM
+jetstar,jq512,1 aug 2024,14.0,230.0,12:25 PM,12:52 PM
+jetstar,jq512,1 oct 2024,12.0,113.0,12:25 PM,12:52 PM
+jetstar,jq512,10 aug 2024,14.0,230.0,12:25 PM,12:55 PM
+jetstar,jq512,11 aug 2024,14.0,230.0,12:25 PM,12:38 PM
+jetstar,jq512,12 aug 2024,14.0,230.0,12:25 PM,12:58 PM
+jetstar,jq512,13 aug 2024,14.0,230.0,12:25 PM,1:16 PM
+jetstar,jq512,14 aug 2024,14.0,230.0,12:25 PM,1:11 PM
+jetstar,jq512,15 aug 2024,14.0,230.0,12:25 PM,1:28 PM
+jetstar,jq512,16 aug 2024,14.0,230.0,12:25 PM,1:01 PM
+jetstar,jq512,17 aug 2024,14.0,230.0,12:25 PM,12:35 PM
+jetstar,jq512,18 aug 2024,14.0,230.0,12:25 PM,12:39 PM
+jetstar,jq512,19 aug 2024,14.0,230.0,12:25 PM,12:54 PM
+jetstar,jq512,2 oct 2024,12.0,99.0,12:25 PM,12:54 PM
+jetstar,jq512,20 aug 2024,14.0,230.0,12:25 PM,12:52 PM
+jetstar,jq512,21 aug 2024,14.0,230.0,12:25 PM,12:31 PM
+jetstar,jq512,22 aug 2024,14.0,230.0,12:25 PM,1:31 PM
+jetstar,jq512,22 sep 2024,12.0,394.0,12:25 PM,1:31 PM
+jetstar,jq512,23 aug 2024,14.0,230.0,12:25 PM,12:32 PM
+jetstar,jq512,23 sep 2024,12.0,327.0,12:25 PM,12:32 PM
+jetstar,jq512,24 aug 2024,14.0,230.0,12:25 PM,12:51 PM
+jetstar,jq512,24 sep 2024,12.0,176.0,12:25 PM,12:51 PM
+jetstar,jq512,25 aug 2024,14.0,230.0,12:25 PM,12:51 PM
+jetstar,jq512,25 sep 2024,12.0,141.0,12:25 PM,12:51 PM
+jetstar,jq512,26 aug 2024,14.0,230.0,12:25 PM,12:52 PM
+jetstar,jq512,26 sep 2024,12.0,230.0,12:25 PM,12:52 PM
+jetstar,jq512,27 aug 2024,14.0,230.0,12:25 PM,1:01 PM
+jetstar,jq512,27 sep 2024,12.0,176.0,12:25 PM,1:01 PM
+jetstar,jq512,28 aug 2024,14.0,230.0,12:25 PM,1:38 PM
+jetstar,jq512,28 sep 2024,12.0,113.0,12:25 PM,1:38 PM
+jetstar,jq512,29 aug 2024,14.0,230.0,12:25 PM,12:47 PM
+jetstar,jq512,29 sep 2024,12.0,566.0,12:25 PM,12:47 PM
+jetstar,jq512,3 oct 2024,12.0,158.0,12:25 PM,12:47 PM
+jetstar,jq512,30 aug 2024,14.0,230.0,12:25 PM,12:47 PM
+jetstar,jq512,30 sep 2024,12.0,176.0,12:25 PM,12:47 PM
+jetstar,jq512,31 aug 2024,14.0,230.0,12:25 PM,12:53 PM
+jetstar,jq512,4 oct 2024,12.0,198.0,12:25 PM,12:53 PM
+jetstar,jq512,5 oct 2024,12.0,176.0,12:25 PM,12:53 PM
+jetstar,jq512,6 oct 2024,12.0,176.0,12:25 PM,12:53 PM
+jetstar,jq518,02 aug 2024,14.0,230.0,2:25 PM,2:45 PM
+jetstar,jq518,03 aug 2024,14.0,230.0,2:25 PM,3:07 PM
+jetstar,jq518,04 aug 2024,14.0,230.0,2:25 PM,2:49 PM
+jetstar,jq518,05 aug 2024,14.0,230.0,2:25 PM,3:15 PM
+jetstar,jq518,06 aug 2024,14.0,230.0,2:25 PM,2:50 PM
+jetstar,jq518,07 aug 2024,14.0,230.0,2:25 PM,3:24 PM
+jetstar,jq518,08 aug 2024,14.0,230.0,2:25 PM,2:51 PM
+jetstar,jq518,09 aug 2024,14.0,230.0,2:25 PM,2:37 PM
+jetstar,jq518,1 aug 2024,14.0,230.0,2:25 PM,2:53 PM
+jetstar,jq518,1 oct 2024,14.0,99.0,2:25 PM,2:53 PM
+jetstar,jq518,10 aug 2024,14.0,230.0,2:25 PM,2:50 PM
+jetstar,jq518,11 aug 2024,14.0,230.0,2:25 PM,2:40 PM
+jetstar,jq518,12 aug 2024,14.0,230.0,2:25 PM,2:56 PM
+jetstar,jq518,13 aug 2024,14.0,230.0,2:25 PM,2:35 PM
+jetstar,jq518,14 aug 2024,14.0,230.0,2:25 PM,3:30 PM
+jetstar,jq518,15 aug 2024,14.0,230.0,2:25 PM,2:53 PM
+jetstar,jq518,16 aug 2024,14.0,230.0,2:25 PM,2:58 PM
+jetstar,jq518,17 aug 2024,14.0,230.0,2:25 PM,3:26 PM
+jetstar,jq518,18 aug 2024,14.0,230.0,2:25 PM,2:38 PM
+jetstar,jq518,19 aug 2024,14.0,230.0,2:25 PM,3:02 PM
+jetstar,jq518,2 oct 2024,14.0,99.0,2:25 PM,3:02 PM
+jetstar,jq518,20 aug 2024,14.0,230.0,2:25 PM,2:55 PM
+jetstar,jq518,21 aug 2024,14.0,230.0,2:25 PM,3:27 PM
+jetstar,jq518,22 aug 2024,14.0,230.0,2:25 PM,2:58 PM
+jetstar,jq518,22 sep 2024,14.0,394.0,2:25 PM,2:58 PM
+jetstar,jq518,23 aug 2024,14.0,230.0,2:25 PM,2:35 PM
+jetstar,jq518,23 sep 2024,14.0,270.0,2:25 PM,2:35 PM
+jetstar,jq518,24 aug 2024,14.0,230.0,2:25 PM,2:45 PM
+jetstar,jq518,24 sep 2024,14.0,176.0,2:25 PM,2:45 PM
+jetstar,jq518,25 aug 2024,14.0,230.0,2:25 PM,3:21 PM
+jetstar,jq518,25 sep 2024,14.0,141.0,2:25 PM,3:21 PM
+jetstar,jq518,26 aug 2024,14.0,230.0,2:25 PM,2:48 PM
+jetstar,jq518,26 sep 2024,14.0,230.0,2:25 PM,2:48 PM
+jetstar,jq518,27 aug 2024,14.0,230.0,2:25 PM,3:13 PM
+jetstar,jq518,27 sep 2024,14.0,141.0,2:25 PM,3:13 PM
+jetstar,jq518,28 aug 2024,14.0,230.0,2:25 PM,3:38 PM
+jetstar,jq518,28 sep 2024,14.0,113.0,2:25 PM,3:38 PM
+jetstar,jq518,29 aug 2024,14.0,230.0,2:25 PM,4:02 PM
+jetstar,jq518,29 sep 2024,14.0,566.0,2:25 PM,4:02 PM
+jetstar,jq518,3 oct 2024,14.0,141.0,2:25 PM,4:02 PM
+jetstar,jq518,30 aug 2024,14.0,230.0,2:25 PM,3:44 PM
+jetstar,jq518,30 sep 2024,14.0,141.0,2:25 PM,3:44 PM
+jetstar,jq518,31 aug 2024,14.0,230.0,2:25 PM,2:36 PM
+jetstar,jq518,4 oct 2024,14.0,230.0,2:25 PM,2:36 PM
+jetstar,jq518,5 oct 2024,14.0,158.0,2:25 PM,2:36 PM
+jetstar,jq518,6 oct 2024,14.0,176.0,2:25 PM,2:36 PM
+jetstar,jq520,02 aug 2024,14.0,230.0,3:25 PM,2:36 PM
+jetstar,jq520,03 aug 2024,14.0,230.0,3:25 PM,3:48 PM
+jetstar,jq520,04 aug 2024,14.0,230.0,3:25 PM,3:53 PM
+jetstar,jq520,05 aug 2024,14.0,230.0,3:25 PM,3:39 PM
+jetstar,jq520,06 aug 2024,14.0,230.0,3:25 PM,3:47 PM
+jetstar,jq520,07 aug 2024,14.0,230.0,3:25 PM,3:49 PM
+jetstar,jq520,08 aug 2024,14.0,230.0,3:25 PM,4:28 PM
+jetstar,jq520,09 aug 2024,14.0,230.0,3:25 PM,3:34 PM
+jetstar,jq520,1 aug 2024,14.0,230.0,3:25 PM,3:30 PM
+jetstar,jq520,1 oct 2024,15.0,79.0,3:25 PM,3:30 PM
+jetstar,jq520,10 aug 2024,14.0,230.0,3:25 PM,3:45 PM
+jetstar,jq520,11 aug 2024,14.0,230.0,3:25 PM,3:41 PM
+jetstar,jq520,12 aug 2024,14.0,230.0,3:25 PM,3:51 PM
+jetstar,jq520,13 aug 2024,14.0,230.0,3:25 PM,3:45 PM
+jetstar,jq520,14 aug 2024,14.0,230.0,3:25 PM,3:42 PM
+jetstar,jq520,15 aug 2024,14.0,230.0,3:25 PM,3:39 PM
+jetstar,jq520,16 aug 2024,14.0,230.0,3:25 PM,4:09 PM
+jetstar,jq520,17 aug 2024,14.0,230.0,3:25 PM,3:40 PM
+jetstar,jq520,18 aug 2024,14.0,230.0,3:25 PM,3:41 PM
+jetstar,jq520,19 aug 2024,14.0,230.0,3:25 PM,3:32 PM
+jetstar,jq520,2 oct 2024,15.0,90.0,3:25 PM,3:32 PM
+jetstar,jq520,20 aug 2024,14.0,230.0,3:25 PM,3:46 PM
+jetstar,jq520,21 aug 2024,14.0,230.0,3:25 PM,3:50 PM
+jetstar,jq520,22 aug 2024,14.0,230.0,3:25 PM,3:56 PM
+jetstar,jq520,22 sep 2024,15.0,394.0,3:25 PM,3:56 PM
+jetstar,jq520,23 aug 2024,14.0,230.0,3:25 PM,3:59 PM
+jetstar,jq520,23 sep 2024,15.0,270.0,3:25 PM,3:59 PM
+jetstar,jq520,24 aug 2024,14.0,230.0,3:25 PM,3:37 PM
+jetstar,jq520,24 sep 2024,15.0,176.0,3:25 PM,3:37 PM
+jetstar,jq520,25 aug 2024,14.0,230.0,3:25 PM,4:29 PM
+jetstar,jq520,25 sep 2024,15.0,141.0,3:25 PM,4:29 PM
+jetstar,jq520,26 aug 2024,14.0,230.0,3:25 PM,4:10 PM
+jetstar,jq520,26 sep 2024,15.0,230.0,3:25 PM,4:10 PM
+jetstar,jq520,27 aug 2024,14.0,230.0,3:25 PM,3:43 PM
+jetstar,jq520,27 sep 2024,15.0,127.0,3:25 PM,3:43 PM
+jetstar,jq520,28 aug 2024,14.0,230.0,3:25 PM,3:43 PM
+jetstar,jq520,28 sep 2024,15.0,127.0,3:25 PM,3:43 PM
+jetstar,jq520,29 aug 2024,14.0,230.0,3:25 PM,4:06 PM
+jetstar,jq520,29 sep 2024,15.0,473.0,3:25 PM,4:06 PM
+jetstar,jq520,3 oct 2024,15.0,141.0,3:25 PM,4:06 PM
+jetstar,jq520,30 aug 2024,14.0,230.0,3:25 PM,3:58 PM
+jetstar,jq520,30 sep 2024,15.0,141.0,3:25 PM,3:58 PM
+jetstar,jq520,4 oct 2024,15.0,198.0,3:25 PM,3:58 PM
+jetstar,jq520,5 oct 2024,15.0,158.0,3:25 PM,3:58 PM
+jetstar,jq520,6 oct 2024,15.0,198.0,3:25 PM,3:58 PM
+jetstar,jq522,02 aug 2024,14.0,230.0,3:40 PM,4:50 PM
+jetstar,jq522,03 aug 2024,14.0,230.0,4:15 PM,4:27 PM
+jetstar,jq522,04 aug 2024,14.0,230.0,4:15 PM,4:49 PM
+jetstar,jq522,05 aug 2024,14.0,230.0,3:55 PM,4:06 PM
+jetstar,jq522,06 aug 2024,14.0,230.0,3:55 PM,4:06 PM
+jetstar,jq522,07 aug 2024,14.0,230.0,4:15 PM,4:37 PM
+jetstar,jq522,08 aug 2024,14.0,230.0,3:55 PM,4:01 PM
+jetstar,jq522,09 aug 2024,14.0,230.0,3:40 PM,3:48 PM
+jetstar,jq522,1 aug 2024,14.0,230.0,3:55 PM,4:33 PM
+jetstar,jq522,1 oct 2024,16.0,84.0,3:55 PM,4:33 PM
+jetstar,jq522,10 aug 2024,14.0,230.0,4:15 PM,4:35 PM
+jetstar,jq522,11 aug 2024,14.0,230.0,4:15 PM,4:36 PM
+jetstar,jq522,12 aug 2024,14.0,230.0,3:55 PM,4:10 PM
+jetstar,jq522,13 aug 2024,14.0,230.0,4:15 PM,4:27 PM
+jetstar,jq522,14 aug 2024,14.0,230.0,4:15 PM,4:48 PM
+jetstar,jq522,15 aug 2024,14.0,230.0,3:55 PM,4:03 PM
+jetstar,jq522,16 aug 2024,14.0,230.0,3:55 PM,4:03 PM
+jetstar,jq522,17 aug 2024,14.0,230.0,4:15 PM,4:19 PM
+jetstar,jq522,18 aug 2024,14.0,230.0,4:15 PM,5:09 PM
+jetstar,jq522,19 aug 2024,14.0,230.0,3:55 PM,4:10 PM
+jetstar,jq522,2 oct 2024,16.0,84.0,3:55 PM,4:10 PM
+jetstar,jq522,20 aug 2024,14.0,230.0,4:15 PM,4:46 PM
+jetstar,jq522,21 aug 2024,14.0,230.0,4:15 PM,5:17 PM
+jetstar,jq522,22 aug 2024,14.0,230.0,3:55 PM,4:16 PM
+jetstar,jq522,22 sep 2024,16.0,394.0,3:55 PM,4:16 PM
+jetstar,jq522,23 aug 2024,14.0,230.0,3:40 PM,3:54 PM
+jetstar,jq522,23 sep 2024,15.0,230.0,3:40 PM,3:54 PM
+jetstar,jq522,24 aug 2024,14.0,230.0,4:15 PM,4:31 PM
+jetstar,jq522,24 sep 2024,16.0,198.0,4:15 PM,4:31 PM
+jetstar,jq522,25 aug 2024,14.0,230.0,4:15 PM,5:13 PM
+jetstar,jq522,25 sep 2024,16.0,127.0,4:15 PM,5:13 PM
+jetstar,jq522,26 aug 2024,14.0,230.0,3:55 PM,4:04 PM
+jetstar,jq522,26 sep 2024,15.0,230.0,3:55 PM,4:04 PM
+jetstar,jq522,27 aug 2024,14.0,230.0,4:15 PM,4:18 PM
+jetstar,jq522,27 sep 2024,15.0,127.0,4:15 PM,4:18 PM
+jetstar,jq522,28 aug 2024,14.0,230.0,4:15 PM,6:17 PM
+jetstar,jq522,28 sep 2024,16.0,127.0,4:15 PM,6:17 PM
+jetstar,jq522,29 aug 2024,14.0,230.0,3:55 PM,4:53 PM
+jetstar,jq522,29 sep 2024,16.0,473.0,3:55 PM,4:53 PM
+jetstar,jq522,3 oct 2024,15.0,158.0,3:55 PM,4:53 PM
+jetstar,jq522,30 aug 2024,14.0,230.0,3:40 PM,4:09 PM
+jetstar,jq522,30 sep 2024,15.0,141.0,3:40 PM,4:09 PM
+jetstar,jq522,31 aug 2024,14.0,230.0,4:15 PM,6:22 PM
+jetstar,jq522,4 oct 2024,15.0,198.0,4:15 PM,6:22 PM
+jetstar,jq522,5 oct 2024,16.0,158.0,4:15 PM,6:22 PM
+jetstar,jq522,6 oct 2024,16.0,176.0,4:15 PM,6:22 PM
+jetstar,jq524,02 aug 2024,14.0,230.0,5:40 PM,5:52 PM
+jetstar,jq524,03 aug 2024,14.0,230.0,5:40 PM,5:53 PM
+jetstar,jq524,04 aug 2024,14.0,230.0,5:40 PM,5:50 PM
+jetstar,jq524,05 aug 2024,14.0,230.0,5:40 PM,6:05 PM
+jetstar,jq524,06 aug 2024,14.0,230.0,5:40 PM,5:48 PM
+jetstar,jq524,07 aug 2024,14.0,230.0,5:40 PM,6:31 PM
+jetstar,jq524,08 aug 2024,14.0,230.0,5:40 PM,5:52 PM
+jetstar,jq524,09 aug 2024,14.0,230.0,5:40 PM,5:58 PM
+jetstar,jq524,1 aug 2024,14.0,230.0,5:40 PM,5:57 PM
+jetstar,jq524,1 oct 2024,17.0,79.0,5:40 PM,5:57 PM
+jetstar,jq524,10 aug 2024,14.0,230.0,5:40 PM,5:50 PM
+jetstar,jq524,11 aug 2024,14.0,230.0,5:40 PM,5:58 PM
+jetstar,jq524,12 aug 2024,14.0,230.0,5:40 PM,5:57 PM
+jetstar,jq524,13 aug 2024,14.0,230.0,5:40 PM,5:54 PM
+jetstar,jq524,14 aug 2024,14.0,230.0,5:40 PM,5:53 PM
+jetstar,jq524,15 aug 2024,14.0,230.0,5:40 PM,6:02 PM
+jetstar,jq524,16 aug 2024,14.0,230.0,5:40 PM,8:34 PM
+jetstar,jq524,17 aug 2024,14.0,230.0,5:40 PM,5:52 PM
+jetstar,jq524,18 aug 2024,14.0,230.0,5:40 PM,7:37 PM
+jetstar,jq524,19 aug 2024,14.0,230.0,5:40 PM,5:55 PM
+jetstar,jq524,2 oct 2024,17.0,84.0,5:40 PM,5:55 PM
+jetstar,jq524,20 aug 2024,14.0,230.0,5:40 PM,6:20 PM
+jetstar,jq524,21 aug 2024,14.0,230.0,5:40 PM,6:00 PM
+jetstar,jq524,22 aug 2024,14.0,230.0,5:40 PM,5:57 PM
+jetstar,jq524,22 sep 2024,17.0,230.0,5:40 PM,5:57 PM
+jetstar,jq524,23 aug 2024,14.0,230.0,5:40 PM,6:00 PM
+jetstar,jq524,23 sep 2024,17.0,394.0,5:40 PM,6:00 PM
+jetstar,jq524,24 aug 2024,14.0,230.0,5:40 PM,5:57 PM
+jetstar,jq524,24 sep 2024,17.0,230.0,5:40 PM,5:57 PM
+jetstar,jq524,25 aug 2024,14.0,230.0,5:40 PM,6:02 PM
+jetstar,jq524,25 sep 2024,17.0,127.0,5:40 PM,6:02 PM
+jetstar,jq524,26 aug 2024,14.0,230.0,5:40 PM,6:09 PM
+jetstar,jq524,26 sep 2024,17.0,230.0,5:40 PM,6:09 PM
+jetstar,jq524,27 aug 2024,14.0,230.0,5:40 PM,5:57 PM
+jetstar,jq524,27 sep 2024,17.0,113.0,5:40 PM,5:57 PM
+jetstar,jq524,28 aug 2024,14.0,230.0,5:40 PM,7:43 PM
+jetstar,jq524,28 sep 2024,17.0,127.0,5:40 PM,7:43 PM
+jetstar,jq524,29 aug 2024,14.0,230.0,5:40 PM,5:58 PM
+jetstar,jq524,29 sep 2024,17.0,327.0,5:40 PM,5:58 PM
+jetstar,jq524,3 oct 2024,17.0,158.0,5:40 PM,5:58 PM
+jetstar,jq524,30 aug 2024,14.0,230.0,5:40 PM,5:56 PM
+jetstar,jq524,30 sep 2024,17.0,141.0,5:40 PM,5:56 PM
+jetstar,jq524,31 aug 2024,14.0,230.0,5:40 PM,6:28 PM
+jetstar,jq524,4 oct 2024,17.0,230.0,5:40 PM,6:28 PM
+jetstar,jq524,5 oct 2024,17.0,141.0,5:40 PM,6:28 PM
+jetstar,jq524,6 oct 2024,17.0,230.0,5:40 PM,6:28 PM
+jetstar,jq528,02 aug 2024,14.0,230.0,7:15 PM,7:23 PM
+jetstar,jq528,03 aug 2024,14.0,230.0,7:15 PM,7:21 PM
+jetstar,jq528,04 aug 2024,14.0,230.0,7:15 PM,7:23 PM
+jetstar,jq528,05 aug 2024,14.0,230.0,7:15 PM,7:20 PM
+jetstar,jq528,06 aug 2024,14.0,230.0,7:15 PM,7:19 PM
+jetstar,jq528,07 aug 2024,14.0,230.0,7:15 PM,7:35 PM
+jetstar,jq528,08 aug 2024,14.0,230.0,7:15 PM,7:36 PM
+jetstar,jq528,09 aug 2024,14.0,230.0,7:15 PM,7:21 PM
+jetstar,jq528,1 aug 2024,14.0,230.0,7:15 PM,7:22 PM
+jetstar,jq528,1 oct 2024,19.0,84.0,7:15 PM,7:22 PM
+jetstar,jq528,10 aug 2024,14.0,230.0,7:15 PM,7:27 PM
+jetstar,jq528,11 aug 2024,14.0,230.0,7:15 PM,7:19 PM
+jetstar,jq528,12 aug 2024,14.0,230.0,7:15 PM,7:16 PM
+jetstar,jq528,13 aug 2024,14.0,230.0,7:15 PM,7:29 PM
+jetstar,jq528,14 aug 2024,14.0,230.0,7:15 PM,7:39 PM
+jetstar,jq528,15 aug 2024,14.0,230.0,7:15 PM,7:39 PM
+jetstar,jq528,16 aug 2024,14.0,230.0,7:15 PM,7:39 PM
+jetstar,jq528,17 aug 2024,14.0,230.0,7:15 PM,7:22 PM
+jetstar,jq528,18 aug 2024,14.0,230.0,7:15 PM,7:39 PM
+jetstar,jq528,19 aug 2024,14.0,230.0,7:15 PM,7:23 PM
+jetstar,jq528,2 oct 2024,19.0,90.0,7:15 PM,7:23 PM
+jetstar,jq528,20 aug 2024,14.0,230.0,7:15 PM,7:22 PM
+jetstar,jq528,21 aug 2024,14.0,230.0,7:15 PM,7:19 PM
+jetstar,jq528,22 aug 2024,14.0,230.0,7:15 PM,7:33 PM
+jetstar,jq528,22 sep 2024,19.0,394.0,7:15 PM,7:33 PM
+jetstar,jq528,23 aug 2024,14.0,230.0,7:15 PM,7:29 PM
+jetstar,jq528,23 sep 2024,19.0,230.0,7:15 PM,7:29 PM
+jetstar,jq528,24 aug 2024,14.0,230.0,7:15 PM,7:29 PM
+jetstar,jq528,24 sep 2024,19.0,176.0,7:15 PM,7:29 PM
+jetstar,jq528,25 aug 2024,14.0,230.0,7:15 PM,8:39 PM
+jetstar,jq528,25 sep 2024,19.0,141.0,7:15 PM,8:39 PM
+jetstar,jq528,26 aug 2024,14.0,230.0,7:15 PM,7:24 PM
+jetstar,jq528,26 sep 2024,19.0,270.0,7:15 PM,7:24 PM
+jetstar,jq528,27 aug 2024,14.0,230.0,7:15 PM,7:29 PM
+jetstar,jq528,27 sep 2024,19.0,127.0,7:15 PM,7:29 PM
+jetstar,jq528,28 aug 2024,14.0,230.0,7:15 PM,8:51 PM
+jetstar,jq528,28 sep 2024,19.0,141.0,7:15 PM,8:51 PM
+jetstar,jq528,29 aug 2024,14.0,230.0,7:15 PM,8:30 PM
+jetstar,jq528,29 sep 2024,19.0,327.0,7:15 PM,8:30 PM
+jetstar,jq528,3 oct 2024,19.0,158.0,7:15 PM,8:30 PM
+jetstar,jq528,30 aug 2024,14.0,230.0,7:15 PM,8:14 PM
+jetstar,jq528,30 sep 2024,19.0,127.0,7:15 PM,8:14 PM
+jetstar,jq528,31 aug 2024,14.0,230.0,7:15 PM,8:02 PM
+jetstar,jq528,4 oct 2024,19.0,198.0,7:15 PM,8:02 PM
+jetstar,jq528,5 oct 2024,19.0,141.0,7:15 PM,8:02 PM
+jetstar,jq528,6 oct 2024,19.0,158.0,7:15 PM,8:02 PM
+jetstar,jq530,02 aug 2024,14.0,230.0,8:15 PM,8:34 PM
+jetstar,jq530,03 aug 2024,14.0,230.0,8:15 PM,8:21 PM
+jetstar,jq530,04 aug 2024,14.0,230.0,8:15 PM,9:07 PM
+jetstar,jq530,05 aug 2024,14.0,230.0,8:15 PM,8:31 PM
+jetstar,jq530,06 aug 2024,14.0,230.0,8:15 PM,8:18 PM
+jetstar,jq530,07 aug 2024,14.0,230.0,8:15 PM,8:23 PM
+jetstar,jq530,08 aug 2024,14.0,230.0,8:15 PM,9:01 PM
+jetstar,jq530,09 aug 2024,14.0,230.0,8:15 PM,8:16 PM
+jetstar,jq530,1 aug 2024,14.0,230.0,8:15 PM,8:21 PM
+jetstar,jq530,1 oct 2024,20.0,84.0,8:15 PM,8:21 PM
+jetstar,jq530,10 aug 2024,14.0,230.0,8:15 PM,8:29 PM
+jetstar,jq530,11 aug 2024,14.0,230.0,8:15 PM,8:29 PM
+jetstar,jq530,12 aug 2024,14.0,230.0,8:15 PM,8:23 PM
+jetstar,jq530,13 aug 2024,14.0,230.0,8:15 PM,8:16 PM
+jetstar,jq530,14 aug 2024,14.0,230.0,8:15 PM,8:43 PM
+jetstar,jq530,15 aug 2024,14.0,230.0,8:15 PM,8:32 PM
+jetstar,jq530,16 aug 2024,14.0,230.0,8:15 PM,8:32 PM
+jetstar,jq530,17 aug 2024,14.0,230.0,8:15 PM,8:53 PM
+jetstar,jq530,18 aug 2024,14.0,230.0,8:15 PM,8:22 PM
+jetstar,jq530,19 aug 2024,14.0,230.0,8:15 PM,8:18 PM
+jetstar,jq530,2 oct 2024,20.0,90.0,8:15 PM,8:18 PM
+jetstar,jq530,20 aug 2024,14.0,230.0,8:15 PM,8:20 PM
+jetstar,jq530,21 aug 2024,14.0,230.0,8:15 PM,8:32 PM
+jetstar,jq530,22 aug 2024,14.0,230.0,8:15 PM,8:29 PM
+jetstar,jq530,22 sep 2024,20.0,394.0,8:15 PM,8:29 PM
+jetstar,jq530,23 aug 2024,14.0,230.0,8:15 PM,8:22 PM
+jetstar,jq530,23 sep 2024,20.0,198.0,8:15 PM,8:22 PM
+jetstar,jq530,24 aug 2024,14.0,230.0,8:15 PM,8:19 PM
+jetstar,jq530,24 sep 2024,20.0,158.0,8:15 PM,8:19 PM
+jetstar,jq530,25 aug 2024,14.0,230.0,8:15 PM,9:49 PM
+jetstar,jq530,25 sep 2024,20.0,127.0,8:15 PM,9:49 PM
+jetstar,jq530,26 aug 2024,14.0,230.0,8:15 PM,8:52 PM
+jetstar,jq530,26 sep 2024,20.0,270.0,8:15 PM,8:52 PM
+jetstar,jq530,27 aug 2024,14.0,230.0,8:15 PM,8:22 PM
+jetstar,jq530,27 sep 2024,20.0,99.0,8:15 PM,8:22 PM
+jetstar,jq530,28 aug 2024,14.0,230.0,8:15 PM,9:00 PM
+jetstar,jq530,28 sep 2024,20.0,198.0,8:15 PM,9:00 PM
+jetstar,jq530,29 aug 2024,14.0,230.0,8:15 PM,8:43 PM
+jetstar,jq530,29 sep 2024,20.0,327.0,8:15 PM,8:43 PM
+jetstar,jq530,3 oct 2024,20.0,141.0,8:15 PM,8:43 PM
+jetstar,jq530,30 aug 2024,14.0,230.0,8:15 PM,8:45 PM
+jetstar,jq530,30 sep 2024,20.0,127.0,8:15 PM,8:45 PM
+jetstar,jq530,31 aug 2024,14.0,230.0,8:15 PM,8:29 PM
+jetstar,jq530,4 oct 2024,20.0,198.0,8:15 PM,8:29 PM
+jetstar,jq530,5 oct 2024,20.0,141.0,8:15 PM,8:29 PM
+jetstar,jq530,6 oct 2024,20.0,158.0,8:15 PM,8:29 PM
+jetstar,jq532,02 aug 2024,14.0,230.0,8:50 PM,9:06 PM
+jetstar,jq532,03 aug 2024,14.0,230.0,8:50 PM,8:56 PM
+jetstar,jq532,04 aug 2024,14.0,230.0,8:50 PM,8:53 PM
+jetstar,jq532,05 aug 2024,14.0,230.0,8:50 PM,8:57 PM
+jetstar,jq532,06 aug 2024,14.0,230.0,8:50 PM,8:49 PM
+jetstar,jq532,07 aug 2024,14.0,230.0,8:50 PM,8:55 PM
+jetstar,jq532,08 aug 2024,14.0,230.0,8:50 PM,9:17 PM
+jetstar,jq532,09 aug 2024,14.0,230.0,8:50 PM,9:10 PM
+jetstar,jq532,1 aug 2024,14.0,230.0,8:50 PM,9:20 PM
+jetstar,jq532,1 oct 2024,20.0,84.0,8:50 PM,9:20 PM
+jetstar,jq532,10 aug 2024,14.0,230.0,8:50 PM,8:53 PM
+jetstar,jq532,11 aug 2024,14.0,230.0,8:50 PM,9:02 PM
+jetstar,jq532,12 aug 2024,14.0,230.0,8:50 PM,8:51 PM
+jetstar,jq532,13 aug 2024,14.0,230.0,8:50 PM,8:50 PM
+jetstar,jq532,14 aug 2024,14.0,230.0,8:50 PM,8:50 PM
+jetstar,jq532,15 aug 2024,14.0,230.0,8:50 PM,8:58 PM
+jetstar,jq532,16 aug 2024,14.0,230.0,8:50 PM,8:58 PM
+jetstar,jq532,17 aug 2024,14.0,230.0,8:50 PM,9:06 PM
+jetstar,jq532,18 aug 2024,14.0,230.0,8:50 PM,8:58 PM
+jetstar,jq532,19 aug 2024,14.0,230.0,8:50 PM,8:54 PM
+jetstar,jq532,2 oct 2024,20.0,99.0,8:50 PM,8:54 PM
+jetstar,jq532,20 aug 2024,14.0,230.0,8:50 PM,9:08 PM
+jetstar,jq532,21 aug 2024,14.0,230.0,8:50 PM,9:17 PM
+jetstar,jq532,22 aug 2024,14.0,230.0,8:50 PM,9:09 PM
+jetstar,jq532,22 sep 2024,20.0,394.0,8:50 PM,9:09 PM
+jetstar,jq532,23 aug 2024,14.0,230.0,8:50 PM,9:09 PM
+jetstar,jq532,23 sep 2024,20.0,198.0,8:50 PM,9:09 PM
+jetstar,jq532,24 aug 2024,14.0,230.0,8:50 PM,8:51 PM
+jetstar,jq532,24 sep 2024,20.0,158.0,8:50 PM,8:51 PM
+jetstar,jq532,25 aug 2024,14.0,230.0,8:50 PM,9:43 PM
+jetstar,jq532,25 sep 2024,20.0,127.0,8:50 PM,9:43 PM
+jetstar,jq532,26 aug 2024,14.0,230.0,8:50 PM,8:54 PM
+jetstar,jq532,26 sep 2024,20.0,270.0,8:50 PM,8:54 PM
+jetstar,jq532,27 aug 2024,14.0,230.0,8:50 PM,9:19 PM
+jetstar,jq532,27 sep 2024,20.0,84.0,8:50 PM,9:19 PM
+jetstar,jq532,28 aug 2024,14.0,230.0,8:50 PM,9:19 PM
+jetstar,jq532,28 sep 2024,20.0,198.0,8:50 PM,9:19 PM
+jetstar,jq532,29 aug 2024,14.0,230.0,8:50 PM,9:25 PM
+jetstar,jq532,29 sep 2024,20.0,270.0,8:50 PM,9:25 PM
+jetstar,jq532,3 oct 2024,20.0,141.0,8:50 PM,9:25 PM
+jetstar,jq532,30 aug 2024,14.0,230.0,8:50 PM,9:35 PM
+jetstar,jq532,30 sep 2024,20.0,127.0,8:50 PM,9:35 PM
+jetstar,jq532,31 aug 2024,14.0,230.0,8:50 PM,9:05 PM
+jetstar,jq532,4 oct 2024,20.0,176.0,8:50 PM,9:05 PM
+jetstar,jq532,5 oct 2024,20.0,127.0,8:50 PM,9:05 PM
+jetstar,jq532,6 oct 2024,20.0,141.0,8:50 PM,9:05 PM
+quantas,qf402,02 aug 2024,14.0,230.0,6:00 AM,6:06 AM
+quantas,qf402,03 aug 2024,14.0,230.0,6:00 AM,6:07 AM
+quantas,qf402,04 aug 2024,14.0,230.0,6:00 AM,6:18 AM
+quantas,qf402,05 aug 2024,14.0,230.0,6:00 AM,6:09 AM
+quantas,qf402,06 aug 2024,14.0,230.0,6:00 AM,6:14 AM
+quantas,qf402,07 aug 2024,14.0,230.0,6:00 AM,6:09 AM
+quantas,qf402,08 aug 2024,14.0,230.0,6:00 AM,6:11 AM
+quantas,qf402,09 aug 2024,14.0,230.0,6:00 AM,6:14 AM
+quantas,qf402,1 aug 2024,14.0,230.0,6:00 AM,6:50 AM
+quantas,qf402,1 oct 2024,6.0,179.0,6:00 AM,6:50 AM
+quantas,qf402,10 aug 2024,14.0,230.0,6:00 AM,6:06 AM
+quantas,qf402,11 aug 2024,14.0,230.0,6:00 AM,6:25 AM
+quantas,qf402,12 aug 2024,14.0,230.0,6:00 AM,6:05 AM
+quantas,qf402,13 aug 2024,14.0,230.0,6:00 AM,6:05 AM
+quantas,qf402,14 aug 2024,14.0,230.0,6:00 AM,6:14 AM
+quantas,qf402,15 aug 2024,14.0,230.0,6:00 AM,6:10 AM
+quantas,qf402,16 aug 2024,14.0,230.0,6:00 AM,6:13 AM
+quantas,qf402,17 aug 2024,14.0,230.0,6:00 AM,6:30 AM
+quantas,qf402,18 aug 2024,14.0,230.0,6:00 AM,6:06 AM
+quantas,qf402,19 aug 2024,14.0,230.0,6:00 AM,6:03 AM
+quantas,qf402,2 oct 2024,6.0,215.0,6:00 AM,6:03 AM
+quantas,qf402,20 aug 2024,14.0,230.0,6:00 AM,6:07 AM
+quantas,qf402,21 aug 2024,14.0,230.0,6:00 AM,6:04 AM
+quantas,qf402,22 aug 2024,14.0,230.0,6:00 AM,6:04 AM
+quantas,qf402,22 sep 2024,6.0,681.0,6:00 AM,6:04 AM
+quantas,qf402,23 aug 2024,14.0,230.0,6:00 AM,6:09 AM
+quantas,qf402,23 sep 2024,6.0,508.0,6:00 AM,6:09 AM
+quantas,qf402,24 aug 2024,14.0,230.0,6:00 AM,6:14 AM
+quantas,qf402,24 sep 2024,6.0,436.0,6:00 AM,6:14 AM
+quantas,qf402,25 aug 2024,14.0,230.0,6:00 AM,6:09 AM
+quantas,qf402,25 sep 2024,6.0,320.0,6:00 AM,6:09 AM
+quantas,qf402,26 aug 2024,14.0,230.0,6:00 AM,6:05 AM
+quantas,qf402,26 sep 2024,6.0,179.0,6:00 AM,6:05 AM
+quantas,qf402,27 aug 2024,14.0,230.0,6:00 AM,6:08 AM
+quantas,qf402,27 sep 2024,6.0,179.0,6:00 AM,6:08 AM
+quantas,qf402,28 aug 2024,14.0,230.0,6:00 AM,6:09 AM
+quantas,qf402,28 sep 2024,6.0,179.0,6:00 AM,6:09 AM
+quantas,qf402,29 aug 2024,14.0,230.0,6:00 AM,6:02 AM
+quantas,qf402,29 sep 2024,6.0,436.0,6:00 AM,6:02 AM
+quantas,qf402,3 oct 2024,6.0,179.0,6:00 AM,6:02 AM
+quantas,qf402,30 aug 2024,14.0,230.0,6:00 AM,6:07 AM
+quantas,qf402,30 sep 2024,6.0,508.0,6:00 AM,6:07 AM
+quantas,qf402,31 aug 2024,14.0,230.0,6:00 AM,6:11 AM
+quantas,qf402,4 oct 2024,6.0,215.0,6:00 AM,6:11 AM
+quantas,qf402,5 oct 2024,6.0,320.0,6:00 AM,6:11 AM
+quantas,qf402,6 oct 2024,6.0,270.0,6:00 AM,6:11 AM
+quantas,qf406,02 aug 2024,14.0,230.0,6:30 AM,6:42 AM
+quantas,qf406,03 aug 2024,14.0,230.0,6:30 AM,6:50 AM
+quantas,qf406,04 aug 2024,14.0,230.0,6:30 AM,6:50 AM
+quantas,qf406,05 aug 2024,14.0,230.0,6:30 AM,6:39 AM
+quantas,qf406,06 aug 2024,14.0,230.0,6:30 AM,6:39 AM
+quantas,qf406,07 aug 2024,14.0,230.0,6:30 AM,6:33 AM
+quantas,qf406,08 aug 2024,14.0,230.0,6:30 AM,6:49 AM
+quantas,qf406,09 aug 2024,14.0,230.0,6:30 AM,6:39 AM
+quantas,qf406,1 aug 2024,14.0,230.0,6:30 AM,7:04 AM
+quantas,qf406,1 oct 2024,6.0,179.0,6:30 AM,7:04 AM
+quantas,qf406,10 aug 2024,14.0,230.0,6:30 AM,6:33 AM
+quantas,qf406,11 aug 2024,14.0,230.0,6:30 AM,6:33 AM
+quantas,qf406,12 aug 2024,14.0,230.0,6:30 AM,6:38 AM
+quantas,qf406,13 aug 2024,14.0,230.0,6:30 AM,6:46 AM
+quantas,qf406,14 aug 2024,14.0,230.0,6:30 AM,6:39 AM
+quantas,qf406,15 aug 2024,14.0,230.0,6:30 AM,6:39 AM
+quantas,qf406,16 aug 2024,14.0,230.0,6:30 AM,6:43 AM
+quantas,qf406,17 aug 2024,14.0,230.0,6:30 AM,6:50 AM
+quantas,qf406,18 aug 2024,14.0,230.0,6:30 AM,6:50 AM
+quantas,qf406,19 aug 2024,14.0,230.0,6:30 AM,6:41 AM
+quantas,qf406,2 oct 2024,6.0,179.0,6:30 AM,6:41 AM
+quantas,qf406,20 aug 2024,14.0,230.0,6:30 AM,6:33 AM
+quantas,qf406,21 aug 2024,14.0,230.0,6:30 AM,6:44 AM
+quantas,qf406,22 aug 2024,14.0,230.0,6:30 AM,6:36 AM
+quantas,qf406,22 sep 2024,6.0,230.0,6:30 AM,6:36 AM
+quantas,qf406,23 aug 2024,14.0,230.0,6:30 AM,6:36 AM
+quantas,qf406,23 sep 2024,6.0,508.0,6:30 AM,6:36 AM
+quantas,qf406,24 aug 2024,14.0,230.0,6:30 AM,6:35 AM
+quantas,qf406,24 sep 2024,6.0,590.0,6:30 AM,6:35 AM
+quantas,qf406,25 aug 2024,14.0,230.0,6:30 AM,6:35 AM
+quantas,qf406,25 sep 2024,6.0,320.0,6:30 AM,6:35 AM
+quantas,qf406,26 aug 2024,14.0,230.0,6:30 AM,6:41 AM
+quantas,qf406,26 sep 2024,6.0,179.0,6:30 AM,6:41 AM
+quantas,qf406,27 aug 2024,14.0,230.0,6:30 AM,6:48 AM
+quantas,qf406,27 sep 2024,6.0,179.0,6:30 AM,6:48 AM
+quantas,qf406,28 aug 2024,14.0,230.0,6:30 AM,6:42 AM
+quantas,qf406,28 sep 2024,6.0,179.0,6:30 AM,6:42 AM
+quantas,qf406,29 aug 2024,14.0,230.0,6:30 AM,6:39 AM
+quantas,qf406,29 sep 2024,6.0,230.0,6:30 AM,6:39 AM
+quantas,qf406,3 oct 2024,6.0,179.0,6:30 AM,6:39 AM
+quantas,qf406,30 aug 2024,14.0,230.0,6:30 AM,6:36 AM
+quantas,qf406,30 sep 2024,6.0,320.0,6:30 AM,6:36 AM
+quantas,qf406,31 aug 2024,14.0,230.0,6:30 AM,6:36 AM
+quantas,qf406,4 oct 2024,6.0,215.0,6:30 AM,6:36 AM
+quantas,qf406,5 oct 2024,6.0,179.0,6:30 AM,6:36 AM
+quantas,qf406,6 oct 2024,6.0,230.0,6:30 AM,6:36 AM
+quantas,qf410,02 aug 2024,14.0,230.0,7:00 AM,7:08 AM
+quantas,qf410,03 aug 2024,14.0,230.0,7:00 AM,7:15 AM
+quantas,qf410,04 aug 2024,14.0,230.0,7:00 AM,7:10 AM
+quantas,qf410,05 aug 2024,14.0,230.0,7:00 AM,7:18 AM
+quantas,qf410,06 aug 2024,14.0,230.0,7:00 AM,7:02 AM
+quantas,qf410,07 aug 2024,14.0,230.0,7:00 AM,7:08 AM
+quantas,qf410,08 aug 2024,14.0,230.0,7:00 AM,7:12 AM
+quantas,qf410,09 aug 2024,14.0,230.0,7:00 AM,7:19 AM
+quantas,qf410,1 aug 2024,14.0,230.0,7:00 AM,7:38 AM
+quantas,qf410,1 oct 2024,7.0,375.0,7:00 AM,7:38 AM
+quantas,qf410,10 aug 2024,14.0,230.0,7:00 AM,7:15 AM
+quantas,qf410,11 aug 2024,14.0,230.0,7:00 AM,7:21 AM
+quantas,qf410,12 aug 2024,14.0,230.0,7:00 AM,7:21 AM
+quantas,qf410,13 aug 2024,14.0,230.0,7:00 AM,7:09 AM
+quantas,qf410,14 aug 2024,14.0,230.0,7:00 AM,7:39 AM
+quantas,qf410,15 aug 2024,14.0,230.0,7:00 AM,7:16 AM
+quantas,qf410,16 aug 2024,14.0,230.0,7:00 AM,7:09 AM
+quantas,qf410,17 aug 2024,14.0,230.0,7:00 AM,7:06 AM
+quantas,qf410,18 aug 2024,14.0,230.0,7:00 AM,7:04 AM
+quantas,qf410,19 aug 2024,14.0,230.0,7:00 AM,7:28 AM
+quantas,qf410,2 oct 2024,7.0,215.0,7:00 AM,7:28 AM
+quantas,qf410,20 aug 2024,14.0,230.0,7:00 AM,7:13 AM
+quantas,qf410,21 aug 2024,14.0,230.0,7:00 AM,7:05 AM
+quantas,qf410,22 aug 2024,14.0,230.0,7:00 AM,7:16 AM
+quantas,qf410,22 sep 2024,7.0,436.0,7:00 AM,7:16 AM
+quantas,qf410,23 aug 2024,14.0,230.0,7:00 AM,7:19 AM
+quantas,qf410,23 sep 2024,7.0,590.0,7:00 AM,7:19 AM
+quantas,qf410,24 aug 2024,14.0,230.0,7:00 AM,7:05 AM
+quantas,qf410,24 sep 2024,7.0,508.0,7:00 AM,7:05 AM
+quantas,qf410,25 aug 2024,14.0,230.0,7:00 AM,7:10 AM
+quantas,qf410,25 sep 2024,7.0,436.0,7:00 AM,7:10 AM
+quantas,qf410,26 aug 2024,14.0,230.0,7:00 AM,7:28 AM
+quantas,qf410,26 sep 2024,7.0,320.0,7:00 AM,7:28 AM
+quantas,qf410,27 aug 2024,14.0,230.0,7:00 AM,7:35 AM
+quantas,qf410,27 sep 2024,7.0,215.0,7:00 AM,7:35 AM
+quantas,qf410,28 aug 2024,14.0,230.0,7:00 AM,7:10 AM
+quantas,qf410,28 sep 2024,7.0,179.0,7:00 AM,7:10 AM
+quantas,qf410,29 aug 2024,14.0,230.0,7:00 AM,7:15 AM
+quantas,qf410,29 sep 2024,7.0,508.0,7:00 AM,7:15 AM
+quantas,qf410,3 oct 2024,7.0,179.0,7:00 AM,7:15 AM
+quantas,qf410,30 aug 2024,14.0,230.0,7:00 AM,7:00 AM
+quantas,qf410,30 sep 2024,7.0,215.0,7:00 AM,7:00 AM
+quantas,qf410,31 aug 2024,14.0,230.0,7:00 AM,7:15 AM
+quantas,qf410,4 oct 2024,7.0,270.0,7:00 AM,7:15 AM
+quantas,qf410,5 oct 2024,7.0,179.0,7:00 AM,7:15 AM
+quantas,qf410,6 oct 2024,7.0,270.0,7:00 AM,7:15 AM
+quantas,qf414,02 aug 2024,14.0,230.0,7:30 AM,7:53 AM
+quantas,qf414,03 aug 2024,14.0,230.0,7:30 AM,8:02 AM
+quantas,qf414,04 aug 2024,14.0,230.0,7:30 AM,8:02 AM
+quantas,qf414,05 aug 2024,14.0,230.0,7:30 AM,7:42 AM
+quantas,qf414,06 aug 2024,14.0,230.0,7:30 AM,7:39 AM
+quantas,qf414,07 aug 2024,14.0,230.0,7:30 AM,7:47 AM
+quantas,qf414,08 aug 2024,14.0,230.0,7:30 AM,7:57 AM
+quantas,qf414,09 aug 2024,14.0,230.0,7:30 AM,7:38 AM
+quantas,qf414,1 aug 2024,14.0,230.0,7:30 AM,7:56 AM
+quantas,qf414,1 oct 2024,7.0,320.0,7:30 AM,7:56 AM
+quantas,qf414,10 aug 2024,14.0,230.0,7:30 AM,7:50 AM
+quantas,qf414,11 aug 2024,14.0,230.0,7:30 AM,7:50 AM
+quantas,qf414,12 aug 2024,14.0,230.0,7:30 AM,7:58 AM
+quantas,qf414,13 aug 2024,14.0,230.0,7:30 AM,7:41 AM
+quantas,qf414,14 aug 2024,14.0,230.0,7:30 AM,7:56 AM
+quantas,qf414,15 aug 2024,14.0,230.0,7:30 AM,7:50 AM
+quantas,qf414,16 aug 2024,14.0,230.0,7:30 AM,7:49 AM
+quantas,qf414,17 aug 2024,14.0,230.0,7:30 AM,7:45 AM
+quantas,qf414,18 aug 2024,14.0,230.0,7:30 AM,7:45 AM
+quantas,qf414,19 aug 2024,14.0,230.0,7:30 AM,7:45 AM
+quantas,qf414,2 oct 2024,7.0,179.0,7:30 AM,7:45 AM
+quantas,qf414,20 aug 2024,14.0,230.0,7:30 AM,7:48 AM
+quantas,qf414,21 aug 2024,14.0,230.0,7:30 AM,8:02 AM
+quantas,qf414,22 aug 2024,14.0,230.0,7:30 AM,7:43 AM
+quantas,qf414,22 sep 2024,7.0,230.0,7:30 AM,7:43 AM
+quantas,qf414,23 aug 2024,14.0,230.0,7:30 AM,7:45 AM
+quantas,qf414,23 sep 2024,7.0,508.0,7:30 AM,7:45 AM
+quantas,qf414,24 aug 2024,14.0,230.0,7:30 AM,7:44 AM
+quantas,qf414,24 sep 2024,7.0,508.0,7:30 AM,7:44 AM
+quantas,qf414,25 aug 2024,14.0,230.0,7:30 AM,7:44 AM
+quantas,qf414,25 sep 2024,7.0,320.0,7:30 AM,7:44 AM
+quantas,qf414,26 aug 2024,14.0,230.0,7:30 AM,7:44 AM
+quantas,qf414,26 sep 2024,7.0,215.0,7:30 AM,7:44 AM
+quantas,qf414,27 aug 2024,14.0,230.0,7:30 AM,7:54 AM
+quantas,qf414,27 sep 2024,7.0,215.0,7:30 AM,7:54 AM
+quantas,qf414,28 aug 2024,14.0,230.0,7:30 AM,7:40 AM
+quantas,qf414,28 sep 2024,7.0,179.0,7:30 AM,7:40 AM
+quantas,qf414,29 aug 2024,14.0,230.0,7:30 AM,7:41 AM
+quantas,qf414,29 sep 2024,7.0,230.0,7:30 AM,7:41 AM
+quantas,qf414,3 oct 2024,7.0,179.0,7:30 AM,7:41 AM
+quantas,qf414,30 aug 2024,14.0,230.0,7:30 AM,7:34 AM
+quantas,qf414,30 sep 2024,7.0,215.0,7:30 AM,7:34 AM
+quantas,qf414,31 aug 2024,14.0,230.0,7:30 AM,7:34 AM
+quantas,qf414,4 oct 2024,7.0,270.0,7:30 AM,7:34 AM
+quantas,qf414,5 oct 2024,7.0,179.0,7:30 AM,7:34 AM
+quantas,qf414,6 oct 2024,7.0,230.0,7:30 AM,7:34 AM
+quantas,qf418,02 aug 2024,14.0,230.0,8:00 AM,8:07 AM
+quantas,qf418,03 aug 2024,14.0,230.0,8:00 AM,8:12 AM
+quantas,qf418,04 aug 2024,14.0,230.0,8:00 AM,8:12 AM
+quantas,qf418,05 aug 2024,14.0,230.0,8:00 AM,8:11 AM
+quantas,qf418,06 aug 2024,14.0,230.0,8:00 AM,8:06 AM
+quantas,qf418,07 aug 2024,14.0,230.0,8:00 AM,8:06 AM
+quantas,qf418,08 aug 2024,14.0,230.0,8:00 AM,8:16 AM
+quantas,qf418,09 aug 2024,14.0,230.0,8:00 AM,8:18 AM
+quantas,qf418,1 aug 2024,14.0,230.0,8:00 AM,8:36 AM
+quantas,qf418,1 oct 2024,8.0,179.0,8:00 AM,8:36 AM
+quantas,qf418,10 aug 2024,14.0,230.0,8:00 AM,8:09 AM
+quantas,qf418,11 aug 2024,14.0,230.0,8:00 AM,8:05 AM
+quantas,qf418,12 aug 2024,14.0,230.0,8:00 AM,8:17 AM
+quantas,qf418,13 aug 2024,14.0,230.0,8:00 AM,8:17 AM
+quantas,qf418,14 aug 2024,14.0,230.0,8:00 AM,8:14 AM
+quantas,qf418,15 aug 2024,14.0,230.0,8:00 AM,8:39 AM
+quantas,qf418,16 aug 2024,14.0,230.0,8:00 AM,8:39 AM
+quantas,qf418,17 aug 2024,14.0,230.0,8:00 AM,9:02 AM
+quantas,qf418,18 aug 2024,14.0,230.0,8:00 AM,8:10 AM
+quantas,qf418,19 aug 2024,14.0,230.0,8:00 AM,8:19 AM
+quantas,qf418,2 oct 2024,8.0,179.0,8:00 AM,8:19 AM
+quantas,qf418,20 aug 2024,14.0,230.0,8:00 AM,8:19 AM
+quantas,qf418,21 aug 2024,14.0,230.0,8:00 AM,8:13 AM
+quantas,qf418,22 aug 2024,14.0,230.0,8:00 AM,8:13 AM
+quantas,qf418,22 sep 2024,8.0,436.0,8:00 AM,8:13 AM
+quantas,qf418,23 aug 2024,14.0,230.0,8:00 AM,8:28 AM
+quantas,qf418,23 sep 2024,8.0,436.0,8:00 AM,8:28 AM
+quantas,qf418,24 aug 2024,14.0,230.0,8:00 AM,8:28 AM
+quantas,qf418,24 sep 2024,8.0,436.0,8:00 AM,8:28 AM
+quantas,qf418,25 aug 2024,14.0,230.0,8:00 AM,8:12 AM
+quantas,qf418,25 sep 2024,8.0,215.0,8:00 AM,8:12 AM
+quantas,qf418,26 aug 2024,14.0,230.0,8:00 AM,8:24 AM
+quantas,qf418,26 sep 2024,8.0,215.0,8:00 AM,8:24 AM
+quantas,qf418,27 aug 2024,14.0,230.0,8:00 AM,8:17 AM
+quantas,qf418,27 sep 2024,8.0,270.0,8:00 AM,8:17 AM
+quantas,qf418,28 aug 2024,14.0,230.0,8:00 AM,8:14 AM
+quantas,qf418,28 sep 2024,8.0,179.0,8:00 AM,8:14 AM
+quantas,qf418,29 aug 2024,14.0,230.0,8:00 AM,8:04 AM
+quantas,qf418,29 sep 2024,8.0,508.0,8:00 AM,8:04 AM
+quantas,qf418,3 oct 2024,8.0,179.0,8:00 AM,8:04 AM
+quantas,qf418,30 aug 2024,14.0,230.0,8:00 AM,8:05 AM
+quantas,qf418,30 sep 2024,8.0,215.0,8:00 AM,8:05 AM
+quantas,qf418,31 aug 2024,14.0,230.0,8:00 AM,8:12 AM
+quantas,qf418,4 oct 2024,8.0,320.0,8:00 AM,8:12 AM
+quantas,qf418,5 oct 2024,8.0,215.0,8:00 AM,8:12 AM
+quantas,qf418,6 oct 2024,8.0,270.0,8:00 AM,8:12 AM
+quantas,qf422,02 aug 2024,14.0,230.0,8:30 AM,8:42 AM
+quantas,qf422,03 aug 2024,14.0,230.0,8:30 AM,8:59 AM
+quantas,qf422,04 aug 2024,14.0,230.0,8:30 AM,8:38 AM
+quantas,qf422,05 aug 2024,14.0,230.0,8:30 AM,8:41 AM
+quantas,qf422,06 aug 2024,14.0,230.0,8:30 AM,8:41 AM
+quantas,qf422,07 aug 2024,14.0,230.0,8:30 AM,8:48 AM
+quantas,qf422,08 aug 2024,14.0,230.0,8:30 AM,8:45 AM
+quantas,qf422,09 aug 2024,14.0,230.0,8:30 AM,8:44 AM
+quantas,qf422,1 aug 2024,14.0,230.0,8:30 AM,8:43 AM
+quantas,qf422,1 oct 2024,8.0,179.0,8:30 AM,8:43 AM
+quantas,qf422,10 aug 2024,14.0,230.0,8:30 AM,9:08 AM
+quantas,qf422,11 aug 2024,14.0,230.0,8:30 AM,8:34 AM
+quantas,qf422,12 aug 2024,14.0,230.0,8:30 AM,8:42 AM
+quantas,qf422,13 aug 2024,14.0,230.0,8:30 AM,8:54 AM
+quantas,qf422,14 aug 2024,14.0,230.0,8:30 AM,8:44 AM
+quantas,qf422,15 aug 2024,14.0,230.0,8:30 AM,9:10 AM
+quantas,qf422,16 aug 2024,14.0,230.0,8:30 AM,8:45 AM
+quantas,qf422,17 aug 2024,14.0,230.0,8:30 AM,8:52 AM
+quantas,qf422,18 aug 2024,14.0,230.0,8:30 AM,8:38 AM
+quantas,qf422,19 aug 2024,14.0,230.0,8:30 AM,8:38 AM
+quantas,qf422,2 oct 2024,8.0,179.0,8:30 AM,8:38 AM
+quantas,qf422,20 aug 2024,14.0,230.0,8:30 AM,8:38 AM
+quantas,qf422,21 aug 2024,14.0,230.0,8:30 AM,8:48 AM
+quantas,qf422,22 aug 2024,14.0,230.0,8:30 AM,8:55 AM
+quantas,qf422,22 sep 2024,8.0,508.0,8:30 AM,8:55 AM
+quantas,qf422,23 aug 2024,14.0,230.0,8:30 AM,8:36 AM
+quantas,qf422,23 sep 2024,8.0,436.0,8:30 AM,8:36 AM
+quantas,qf422,24 aug 2024,14.0,230.0,8:30 AM,8:43 AM
+quantas,qf422,24 sep 2024,8.0,320.0,8:30 AM,8:43 AM
+quantas,qf422,25 aug 2024,14.0,230.0,8:30 AM,8:36 AM
+quantas,qf422,25 sep 2024,8.0,270.0,8:30 AM,8:36 AM
+quantas,qf422,26 aug 2024,14.0,230.0,8:30 AM,8:33 AM
+quantas,qf422,26 sep 2024,8.0,320.0,8:30 AM,8:33 AM
+quantas,qf422,27 aug 2024,14.0,230.0,8:30 AM,8:47 AM
+quantas,qf422,27 sep 2024,8.0,320.0,8:30 AM,8:47 AM
+quantas,qf422,28 aug 2024,14.0,230.0,8:30 AM,9:25 AM
+quantas,qf422,28 sep 2024,8.0,179.0,8:30 AM,9:25 AM
+quantas,qf422,29 aug 2024,14.0,230.0,8:30 AM,8:52 AM
+quantas,qf422,29 sep 2024,8.0,508.0,8:30 AM,8:52 AM
+quantas,qf422,3 oct 2024,8.0,179.0,8:30 AM,8:52 AM
+quantas,qf422,30 aug 2024,14.0,230.0,8:30 AM,8:41 AM
+quantas,qf422,30 sep 2024,8.0,215.0,8:30 AM,8:41 AM
+quantas,qf422,31 aug 2024,14.0,230.0,8:30 AM,8:43 AM
+quantas,qf422,4 oct 2024,8.0,320.0,8:30 AM,8:43 AM
+quantas,qf422,5 oct 2024,8.0,215.0,8:30 AM,8:43 AM
+quantas,qf422,6 oct 2024,8.0,270.0,8:30 AM,8:43 AM
+quantas,qf426,02 aug 2024,14.0,230.0,9:00 AM,9:23 AM
+quantas,qf426,03 aug 2024,14.0,230.0,9:00 AM,9:18 AM
+quantas,qf426,04 aug 2024,14.0,230.0,9:00 AM,9:15 AM
+quantas,qf426,05 aug 2024,14.0,230.0,9:00 AM,9:17 AM
+quantas,qf426,06 aug 2024,14.0,230.0,9:00 AM,9:25 AM
+quantas,qf426,07 aug 2024,14.0,230.0,9:00 AM,9:18 AM
+quantas,qf426,08 aug 2024,14.0,230.0,9:00 AM,9:15 AM
+quantas,qf426,09 aug 2024,14.0,230.0,9:00 AM,9:21 AM
+quantas,qf426,1 aug 2024,14.0,230.0,9:00 AM,9:10 AM
+quantas,qf426,1 oct 2024,9.0,179.0,9:00 AM,9:10 AM
+quantas,qf426,10 aug 2024,14.0,230.0,9:00 AM,9:05 AM
+quantas,qf426,11 aug 2024,14.0,230.0,9:00 AM,9:04 AM
+quantas,qf426,12 aug 2024,14.0,230.0,9:00 AM,9:04 AM
+quantas,qf426,13 aug 2024,14.0,230.0,9:00 AM,9:04 AM
+quantas,qf426,14 aug 2024,14.0,230.0,9:00 AM,9:16 AM
+quantas,qf426,15 aug 2024,14.0,230.0,9:00 AM,9:26 AM
+quantas,qf426,16 aug 2024,14.0,230.0,9:00 AM,9:56 AM
+quantas,qf426,17 aug 2024,14.0,230.0,9:00 AM,9:56 AM
+quantas,qf426,18 aug 2024,14.0,230.0,9:00 AM,9:05 AM
+quantas,qf426,19 aug 2024,14.0,230.0,9:00 AM,9:19 AM
+quantas,qf426,2 oct 2024,9.0,179.0,9:00 AM,9:19 AM
+quantas,qf426,20 aug 2024,14.0,230.0,9:00 AM,9:37 AM
+quantas,qf426,21 aug 2024,14.0,230.0,9:00 AM,9:13 AM
+quantas,qf426,22 aug 2024,14.0,230.0,9:00 AM,9:17 AM
+quantas,qf426,22 sep 2024,9.0,436.0,9:00 AM,9:17 AM
+quantas,qf426,23 aug 2024,14.0,230.0,9:00 AM,9:17 AM
+quantas,qf426,23 sep 2024,9.0,436.0,9:00 AM,9:17 AM
+quantas,qf426,24 aug 2024,14.0,230.0,9:00 AM,9:18 AM
+quantas,qf426,24 sep 2024,9.0,320.0,9:00 AM,9:18 AM
+quantas,qf426,25 aug 2024,14.0,230.0,9:00 AM,9:14 AM
+quantas,qf426,25 sep 2024,9.0,320.0,9:00 AM,9:14 AM
+quantas,qf426,26 aug 2024,14.0,230.0,9:00 AM,10:25 AM
+quantas,qf426,26 sep 2024,9.0,320.0,9:00 AM,10:25 AM
+quantas,qf426,27 aug 2024,14.0,230.0,9:00 AM,9:21 AM
+quantas,qf426,27 sep 2024,9.0,320.0,9:00 AM,9:21 AM
+quantas,qf426,28 aug 2024,14.0,230.0,9:00 AM,9:31 AM
+quantas,qf426,28 sep 2024,9.0,179.0,9:00 AM,9:31 AM
+quantas,qf426,29 aug 2024,14.0,230.0,9:00 AM,9:15 AM
+quantas,qf426,29 sep 2024,9.0,590.0,9:00 AM,9:15 AM
+quantas,qf426,3 oct 2024,9.0,215.0,9:00 AM,9:15 AM
+quantas,qf426,30 aug 2024,14.0,230.0,9:00 AM,9:30 AM
+quantas,qf426,30 sep 2024,9.0,270.0,9:00 AM,9:30 AM
+quantas,qf426,31 aug 2024,14.0,230.0,9:00 AM,9:10 AM
+quantas,qf426,4 oct 2024,9.0,320.0,9:00 AM,9:10 AM
+quantas,qf426,5 oct 2024,9.0,270.0,9:00 AM,9:10 AM
+quantas,qf426,6 oct 2024,9.0,320.0,9:00 AM,9:10 AM
+quantas,qf430,02 aug 2024,14.0,230.0,9:30 AM,10:03 AM
+quantas,qf430,03 aug 2024,14.0,230.0,9:30 AM,9:51 AM
+quantas,qf430,04 aug 2024,14.0,230.0,9:30 AM,9:38 AM
+quantas,qf430,05 aug 2024,14.0,230.0,9:30 AM,9:38 AM
+quantas,qf430,06 aug 2024,14.0,230.0,9:30 AM,9:55 AM
+quantas,qf430,07 aug 2024,14.0,230.0,9:30 AM,9:44 AM
+quantas,qf430,08 aug 2024,14.0,230.0,9:30 AM,9:45 AM
+quantas,qf430,09 aug 2024,14.0,230.0,9:30 AM,9:57 AM
+quantas,qf430,1 aug 2024,14.0,230.0,9:30 AM,9:59 AM
+quantas,qf430,1 oct 2024,9.0,230.0,9:30 AM,9:59 AM
+quantas,qf430,10 aug 2024,14.0,230.0,9:30 AM,9:44 AM
+quantas,qf430,11 aug 2024,14.0,230.0,9:30 AM,9:53 AM
+quantas,qf430,12 aug 2024,14.0,230.0,9:30 AM,9:56 AM
+quantas,qf430,13 aug 2024,14.0,230.0,9:30 AM,10:12 AM
+quantas,qf430,14 aug 2024,14.0,230.0,9:30 AM,10:12 AM
+quantas,qf430,15 aug 2024,14.0,230.0,9:30 AM,10:20 AM
+quantas,qf430,16 aug 2024,14.0,230.0,9:30 AM,10:04 AM
+quantas,qf430,17 aug 2024,14.0,230.0,9:30 AM,9:43 AM
+quantas,qf430,18 aug 2024,14.0,230.0,9:30 AM,9:41 AM
+quantas,qf430,19 aug 2024,14.0,230.0,9:30 AM,9:51 AM
+quantas,qf430,2 oct 2024,9.0,230.0,9:30 AM,9:51 AM
+quantas,qf430,20 aug 2024,14.0,230.0,9:30 AM,10:15 AM
+quantas,qf430,21 aug 2024,14.0,230.0,9:30 AM,9:47 AM
+quantas,qf430,22 aug 2024,14.0,230.0,9:30 AM,9:55 AM
+quantas,qf430,22 sep 2024,9.0,508.0,9:30 AM,9:55 AM
+quantas,qf430,23 aug 2024,14.0,230.0,9:30 AM,9:59 AM
+quantas,qf430,23 sep 2024,9.0,436.0,9:30 AM,9:59 AM
+quantas,qf430,24 aug 2024,14.0,230.0,9:30 AM,9:59 AM
+quantas,qf430,24 sep 2024,9.0,320.0,9:30 AM,9:59 AM
+quantas,qf430,25 aug 2024,14.0,230.0,9:30 AM,9:46 AM
+quantas,qf430,25 sep 2024,9.0,179.0,9:30 AM,9:46 AM
+quantas,qf430,26 aug 2024,14.0,230.0,9:30 AM,9:46 AM
+quantas,qf430,26 sep 2024,9.0,270.0,9:30 AM,9:46 AM
+quantas,qf430,27 aug 2024,14.0,230.0,9:30 AM,9:57 AM
+quantas,qf430,27 sep 2024,9.0,320.0,9:30 AM,9:57 AM
+quantas,qf430,28 aug 2024,14.0,230.0,9:30 AM,9:50 AM
+quantas,qf430,28 sep 2024,9.0,215.0,9:30 AM,9:50 AM
+quantas,qf430,29 aug 2024,14.0,230.0,9:30 AM,10:06 AM
+quantas,qf430,29 sep 2024,9.0,590.0,9:30 AM,10:06 AM
+quantas,qf430,3 oct 2024,9.0,230.0,9:30 AM,10:06 AM
+quantas,qf430,30 aug 2024,14.0,230.0,9:30 AM,9:39 AM
+quantas,qf430,30 sep 2024,9.0,230.0,9:30 AM,9:39 AM
+quantas,qf430,31 aug 2024,14.0,230.0,9:30 AM,9:43 AM
+quantas,qf430,4 oct 2024,9.0,375.0,9:30 AM,9:43 AM
+quantas,qf430,5 oct 2024,9.0,270.0,9:30 AM,9:43 AM
+quantas,qf430,6 oct 2024,9.0,320.0,9:30 AM,9:43 AM
+quantas,qf432,02 aug 2024,14.0,230.0,10:00 AM,10:48 AM
+quantas,qf432,03 aug 2024,14.0,230.0,10:00 AM,10:23 AM
+quantas,qf432,04 aug 2024,14.0,230.0,10:00 AM,10:17 AM
+quantas,qf432,05 aug 2024,14.0,230.0,10:00 AM,10:16 AM
+quantas,qf432,06 aug 2024,14.0,230.0,10:00 AM,10:15 AM
+quantas,qf432,07 aug 2024,14.0,230.0,10:00 AM,10:07 AM
+quantas,qf432,08 aug 2024,14.0,230.0,10:00 AM,10:13 AM
+quantas,qf432,09 aug 2024,14.0,230.0,10:00 AM,10:14 AM
+quantas,qf432,1 aug 2024,14.0,230.0,10:00 AM,10:17 AM
+quantas,qf432,1 oct 2024,10.0,215.0,10:00 AM,10:17 AM
+quantas,qf432,10 aug 2024,14.0,230.0,10:00 AM,10:13 AM
+quantas,qf432,11 aug 2024,14.0,230.0,10:00 AM,10:14 AM
+quantas,qf432,12 aug 2024,14.0,230.0,10:00 AM,10:10 AM
+quantas,qf432,13 aug 2024,14.0,230.0,10:00 AM,10:41 AM
+quantas,qf432,14 aug 2024,14.0,230.0,10:00 AM,10:12 AM
+quantas,qf432,15 aug 2024,14.0,230.0,10:00 AM,10:29 AM
+quantas,qf432,16 aug 2024,14.0,230.0,10:00 AM,10:29 AM
+quantas,qf432,17 aug 2024,14.0,230.0,10:00 AM,10:13 AM
+quantas,qf432,18 aug 2024,14.0,230.0,10:00 AM,10:09 AM
+quantas,qf432,19 aug 2024,14.0,230.0,10:00 AM,10:20 AM
+quantas,qf432,2 oct 2024,10.0,179.0,10:00 AM,10:20 AM
+quantas,qf432,20 aug 2024,14.0,230.0,10:00 AM,10:20 AM
+quantas,qf432,21 aug 2024,14.0,230.0,10:00 AM,10:57 AM
+quantas,qf432,22 aug 2024,14.0,230.0,10:00 AM,10:18 AM
+quantas,qf432,22 sep 2024,10.0,590.0,10:00 AM,10:18 AM
+quantas,qf432,23 aug 2024,14.0,230.0,10:00 AM,10:22 AM
+quantas,qf432,23 sep 2024,10.0,375.0,10:00 AM,10:22 AM
+quantas,qf432,24 aug 2024,14.0,230.0,10:00 AM,10:17 AM
+quantas,qf432,24 sep 2024,10.0,375.0,10:00 AM,10:17 AM
+quantas,qf432,25 aug 2024,14.0,230.0,10:00 AM,10:07 AM
+quantas,qf432,25 sep 2024,10.0,270.0,10:00 AM,10:07 AM
+quantas,qf432,26 aug 2024,14.0,230.0,10:00 AM,10:17 AM
+quantas,qf432,26 sep 2024,10.0,320.0,10:00 AM,10:17 AM
+quantas,qf432,27 aug 2024,14.0,230.0,10:00 AM,10:17 AM
+quantas,qf432,27 sep 2024,10.0,436.0,10:00 AM,10:17 AM
+quantas,qf432,28 aug 2024,14.0,230.0,10:00 AM,10:14 AM
+quantas,qf432,28 sep 2024,10.0,270.0,10:00 AM,10:14 AM
+quantas,qf432,29 aug 2024,14.0,230.0,10:00 AM,10:27 AM
+quantas,qf432,29 sep 2024,10.0,590.0,10:00 AM,10:27 AM
+quantas,qf432,3 oct 2024,10.0,215.0,10:00 AM,10:27 AM
+quantas,qf432,30 aug 2024,14.0,230.0,10:00 AM,10:23 AM
+quantas,qf432,30 sep 2024,10.0,320.0,10:00 AM,10:23 AM
+quantas,qf432,31 aug 2024,14.0,230.0,10:00 AM,10:10 AM
+quantas,qf432,4 oct 2024,10.0,375.0,10:00 AM,10:10 AM
+quantas,qf432,5 oct 2024,10.0,270.0,10:00 AM,10:10 AM
+quantas,qf432,6 oct 2024,10.0,320.0,10:00 AM,10:10 AM
+quantas,qf436,02 aug 2024,14.0,230.0,11:00 AM,11:20 AM
+quantas,qf436,03 aug 2024,14.0,230.0,11:00 AM,11:13 AM
+quantas,qf436,04 aug 2024,14.0,230.0,11:00 AM,11:10 AM
+quantas,qf436,05 aug 2024,14.0,230.0,11:00 AM,11:17 AM
+quantas,qf436,06 aug 2024,14.0,230.0,11:00 AM,11:17 AM
+quantas,qf436,07 aug 2024,14.0,230.0,11:00 AM,11:26 AM
+quantas,qf436,08 aug 2024,14.0,230.0,11:00 AM,11:26 AM
+quantas,qf436,09 aug 2024,14.0,230.0,11:00 AM,11:13 AM
+quantas,qf436,1 aug 2024,14.0,230.0,11:00 AM,11:18 AM
+quantas,qf436,1 oct 2024,11.0,270.0,11:00 AM,11:18 AM
+quantas,qf436,10 aug 2024,14.0,230.0,11:00 AM,11:11 AM
+quantas,qf436,11 aug 2024,14.0,230.0,11:00 AM,11:06 AM
+quantas,qf436,12 aug 2024,14.0,230.0,11:00 AM,11:08 AM
+quantas,qf436,13 aug 2024,14.0,230.0,11:00 AM,11:23 AM
+quantas,qf436,14 aug 2024,14.0,230.0,11:00 AM,11:12 AM
+quantas,qf436,15 aug 2024,14.0,230.0,11:00 AM,11:22 AM
+quantas,qf436,16 aug 2024,14.0,230.0,11:00 AM,11:22 AM
+quantas,qf436,17 aug 2024,14.0,230.0,11:00 AM,11:12 AM
+quantas,qf436,18 aug 2024,14.0,230.0,11:00 AM,11:03 AM
+quantas,qf436,19 aug 2024,14.0,230.0,11:00 AM,11:12 AM
+quantas,qf436,2 oct 2024,11.0,215.0,11:00 AM,11:12 AM
+quantas,qf436,20 aug 2024,14.0,230.0,11:00 AM,11:33 AM
+quantas,qf436,21 aug 2024,14.0,230.0,11:00 AM,11:14 AM
+quantas,qf436,22 aug 2024,14.0,230.0,11:00 AM,11:16 AM
+quantas,qf436,22 sep 2024,11.0,590.0,11:00 AM,11:16 AM
+quantas,qf436,23 aug 2024,14.0,230.0,11:00 AM,11:18 AM
+quantas,qf436,23 sep 2024,11.0,375.0,11:00 AM,11:18 AM
+quantas,qf436,24 aug 2024,14.0,230.0,11:00 AM,11:12 AM
+quantas,qf436,24 sep 2024,11.0,375.0,11:00 AM,11:12 AM
+quantas,qf436,25 aug 2024,14.0,230.0,11:00 AM,11:14 AM
+quantas,qf436,25 sep 2024,11.0,320.0,11:00 AM,11:14 AM
+quantas,qf436,26 aug 2024,14.0,230.0,11:00 AM,11:58 AM
+quantas,qf436,26 sep 2024,11.0,320.0,11:00 AM,11:58 AM
+quantas,qf436,27 aug 2024,14.0,230.0,11:00 AM,11:12 AM
+quantas,qf436,27 sep 2024,11.0,436.0,11:00 AM,11:12 AM
+quantas,qf436,28 aug 2024,14.0,230.0,11:00 AM,11:18 AM
+quantas,qf436,28 sep 2024,11.0,215.0,11:00 AM,11:18 AM
+quantas,qf436,29 aug 2024,14.0,230.0,11:00 AM,11:12 AM
+quantas,qf436,29 sep 2024,11.0,590.0,11:00 AM,11:12 AM
+quantas,qf436,3 oct 2024,11.0,270.0,11:00 AM,11:12 AM
+quantas,qf436,30 aug 2024,14.0,230.0,11:00 AM,11:09 AM
+quantas,qf436,30 sep 2024,11.0,320.0,11:00 AM,11:09 AM
+quantas,qf436,31 aug 2024,14.0,230.0,11:00 AM,11:15 AM
+quantas,qf436,4 oct 2024,11.0,375.0,11:00 AM,11:15 AM
+quantas,qf436,5 oct 2024,11.0,320.0,11:00 AM,11:15 AM
+quantas,qf436,6 oct 2024,11.0,375.0,11:00 AM,11:15 AM
+quantas,qf440,02 aug 2024,14.0,230.0,12:00 PM,12:21 PM
+quantas,qf440,03 aug 2024,14.0,230.0,12:00 PM,12:52 PM
+quantas,qf440,04 aug 2024,14.0,230.0,12:00 PM,12:52 PM
+quantas,qf440,05 aug 2024,14.0,230.0,12:00 PM,12:23 PM
+quantas,qf440,06 aug 2024,14.0,230.0,12:00 PM,12:27 PM
+quantas,qf440,07 aug 2024,14.0,230.0,12:00 PM,12:41 PM
+quantas,qf440,08 aug 2024,14.0,230.0,12:00 PM,12:27 PM
+quantas,qf440,09 aug 2024,14.0,230.0,12:00 PM,12:20 PM
+quantas,qf440,1 aug 2024,14.0,230.0,12:00 PM,12:20 PM
+quantas,qf440,1 oct 2024,12.0,270.0,12:00 PM,12:20 PM
+quantas,qf440,10 aug 2024,14.0,230.0,12:00 PM,12:34 PM
+quantas,qf440,11 aug 2024,14.0,230.0,12:00 PM,12:34 PM
+quantas,qf440,12 aug 2024,14.0,230.0,12:00 PM,12:20 PM
+quantas,qf440,13 aug 2024,14.0,230.0,12:00 PM,12:08 PM
+quantas,qf440,14 aug 2024,14.0,230.0,12:00 PM,12:42 PM
+quantas,qf440,15 aug 2024,14.0,230.0,12:00 PM,12:26 PM
+quantas,qf440,16 aug 2024,14.0,230.0,12:00 PM,12:41 PM
+quantas,qf440,17 aug 2024,14.0,230.0,12:00 PM,12:45 PM
+quantas,qf440,18 aug 2024,14.0,230.0,12:00 PM,12:45 PM
+quantas,qf440,19 aug 2024,14.0,230.0,12:00 PM,12:43 PM
+quantas,qf440,2 oct 2024,12.0,320.0,12:00 PM,12:43 PM
+quantas,qf440,20 aug 2024,14.0,230.0,12:00 PM,12:31 PM
+quantas,qf440,21 aug 2024,14.0,230.0,12:00 PM,12:20 PM
+quantas,qf440,22 aug 2024,14.0,230.0,12:00 PM,12:20 PM
+quantas,qf440,22 sep 2024,12.0,590.0,12:00 PM,12:20 PM
+quantas,qf440,23 aug 2024,14.0,230.0,12:00 PM,12:49 PM
+quantas,qf440,23 sep 2024,12.0,508.0,12:00 PM,12:49 PM
+quantas,qf440,24 aug 2024,14.0,230.0,12:00 PM,12:39 PM
+quantas,qf440,24 sep 2024,12.0,375.0,12:00 PM,12:39 PM
+quantas,qf440,25 aug 2024,14.0,230.0,12:00 PM,12:13 PM
+quantas,qf440,25 sep 2024,12.0,436.0,12:00 PM,12:13 PM
+quantas,qf440,26 aug 2024,14.0,230.0,12:00 PM,12:43 PM
+quantas,qf440,26 sep 2024,12.0,375.0,12:00 PM,12:43 PM
+quantas,qf440,27 aug 2024,14.0,230.0,12:00 PM,12:18 PM
+quantas,qf440,27 sep 2024,12.0,320.0,12:00 PM,12:18 PM
+quantas,qf440,28 aug 2024,14.0,230.0,12:00 PM,12:25 PM
+quantas,qf440,28 sep 2024,12.0,215.0,12:00 PM,12:25 PM
+quantas,qf440,29 aug 2024,14.0,230.0,12:00 PM,12:45 PM
+quantas,qf440,29 sep 2024,12.0,590.0,12:00 PM,12:45 PM
+quantas,qf440,3 oct 2024,12.0,270.0,12:00 PM,12:45 PM
+quantas,qf440,30 aug 2024,14.0,230.0,12:00 PM,12:15 PM
+quantas,qf440,30 sep 2024,12.0,436.0,12:00 PM,12:15 PM
+quantas,qf440,31 aug 2024,14.0,230.0,12:00 PM,12:20 PM
+quantas,qf440,4 oct 2024,12.0,436.0,12:00 PM,12:20 PM
+quantas,qf440,5 oct 2024,12.0,320.0,12:00 PM,12:20 PM
+quantas,qf440,6 oct 2024,12.0,436.0,12:00 PM,12:20 PM
+quantas,qf444,02 aug 2024,14.0,230.0,1:00 PM,1:11 PM
+quantas,qf444,03 aug 2024,14.0,230.0,1:00 PM,1:09 PM
+quantas,qf444,04 aug 2024,14.0,230.0,1:00 PM,2:07 PM
+quantas,qf444,05 aug 2024,14.0,230.0,1:00 PM,1:01 PM
+quantas,qf444,06 aug 2024,14.0,230.0,1:00 PM,1:17 PM
+quantas,qf444,07 aug 2024,14.0,230.0,1:00 PM,1:12 PM
+quantas,qf444,08 aug 2024,14.0,230.0,1:00 PM,1:23 PM
+quantas,qf444,09 aug 2024,14.0,230.0,1:00 PM,1:21 PM
+quantas,qf444,1 aug 2024,14.0,230.0,1:00 PM,1:31 PM
+quantas,qf444,1 oct 2024,13.0,270.0,1:00 PM,1:31 PM
+quantas,qf444,10 aug 2024,14.0,230.0,1:00 PM,1:06 PM
+quantas,qf444,11 aug 2024,14.0,230.0,1:00 PM,1:07 PM
+quantas,qf444,12 aug 2024,14.0,230.0,1:00 PM,1:19 PM
+quantas,qf444,13 aug 2024,14.0,230.0,1:00 PM,1:27 PM
+quantas,qf444,14 aug 2024,14.0,230.0,1:00 PM,1:28 PM
+quantas,qf444,15 aug 2024,14.0,230.0,1:00 PM,1:28 PM
+quantas,qf444,16 aug 2024,14.0,230.0,1:00 PM,1:12 PM
+quantas,qf444,17 aug 2024,14.0,230.0,1:00 PM,1:26 PM
+quantas,qf444,18 aug 2024,14.0,230.0,1:00 PM,1:26 PM
+quantas,qf444,19 aug 2024,14.0,230.0,1:00 PM,1:11 PM
+quantas,qf444,2 oct 2024,13.0,375.0,1:00 PM,1:11 PM
+quantas,qf444,20 aug 2024,14.0,230.0,1:00 PM,1:24 PM
+quantas,qf444,21 aug 2024,14.0,230.0,1:00 PM,1:10 PM
+quantas,qf444,22 aug 2024,14.0,230.0,1:00 PM,1:20 PM
+quantas,qf444,22 sep 2024,13.0,781.0,1:00 PM,1:20 PM
+quantas,qf444,23 aug 2024,14.0,230.0,1:00 PM,1:22 PM
+quantas,qf444,23 sep 2024,13.0,436.0,1:00 PM,1:22 PM
+quantas,qf444,24 aug 2024,14.0,230.0,1:00 PM,1:05 PM
+quantas,qf444,24 sep 2024,13.0,375.0,1:00 PM,1:05 PM
+quantas,qf444,25 aug 2024,14.0,230.0,1:00 PM,1:24 PM
+quantas,qf444,25 sep 2024,13.0,320.0,1:00 PM,1:24 PM
+quantas,qf444,26 aug 2024,14.0,230.0,1:00 PM,1:11 PM
+quantas,qf444,26 sep 2024,13.0,375.0,1:00 PM,1:11 PM
+quantas,qf444,27 aug 2024,14.0,230.0,1:00 PM,1:11 PM
+quantas,qf444,27 sep 2024,13.0,320.0,1:00 PM,1:11 PM
+quantas,qf444,28 aug 2024,14.0,230.0,1:00 PM,1:22 PM
+quantas,qf444,28 sep 2024,13.0,179.0,1:00 PM,1:22 PM
+quantas,qf444,29 aug 2024,14.0,230.0,1:00 PM,1:42 PM
+quantas,qf444,29 sep 2024,13.0,590.0,1:00 PM,1:42 PM
+quantas,qf444,3 oct 2024,13.0,320.0,1:00 PM,1:42 PM
+quantas,qf444,30 aug 2024,14.0,230.0,1:00 PM,1:27 PM
+quantas,qf444,30 sep 2024,13.0,320.0,1:00 PM,1:27 PM
+quantas,qf444,31 aug 2024,14.0,230.0,1:00 PM,1:16 PM
+quantas,qf444,4 oct 2024,12.0,436.0,1:00 PM,1:16 PM
+quantas,qf444,5 oct 2024,13.0,320.0,1:00 PM,1:16 PM
+quantas,qf444,6 oct 2024,13.0,436.0,1:00 PM,1:16 PM
+quantas,qf448,02 aug 2024,14.0,230.0,2:00 PM,2:17 PM
+quantas,qf448,03 aug 2024,14.0,230.0,2:00 PM,2:25 PM
+quantas,qf448,04 aug 2024,14.0,230.0,2:00 PM,2:06 PM
+quantas,qf448,05 aug 2024,14.0,230.0,2:00 PM,2:09 PM
+quantas,qf448,06 aug 2024,14.0,230.0,2:00 PM,2:12 PM
+quantas,qf448,07 aug 2024,14.0,230.0,2:00 PM,2:12 PM
+quantas,qf448,08 aug 2024,14.0,230.0,2:00 PM,2:15 PM
+quantas,qf448,09 aug 2024,14.0,230.0,2:00 PM,2:06 PM
+quantas,qf448,1 aug 2024,14.0,230.0,2:00 PM,2:23 PM
+quantas,qf448,1 oct 2024,14.0,270.0,2:00 PM,2:23 PM
+quantas,qf448,10 aug 2024,14.0,230.0,2:00 PM,2:12 PM
+quantas,qf448,11 aug 2024,14.0,230.0,2:00 PM,2:12 PM
+quantas,qf448,12 aug 2024,14.0,230.0,2:00 PM,2:17 PM
+quantas,qf448,13 aug 2024,14.0,230.0,2:00 PM,2:16 PM
+quantas,qf448,14 aug 2024,14.0,230.0,2:00 PM,2:26 PM
+quantas,qf448,15 aug 2024,14.0,230.0,2:00 PM,2:35 PM
+quantas,qf448,16 aug 2024,14.0,230.0,2:00 PM,2:10 PM
+quantas,qf448,17 aug 2024,14.0,230.0,2:00 PM,2:16 PM
+quantas,qf448,18 aug 2024,14.0,230.0,2:00 PM,2:09 PM
+quantas,qf448,19 aug 2024,14.0,230.0,2:00 PM,2:35 PM
+quantas,qf448,2 oct 2024,14.0,320.0,2:00 PM,2:35 PM
+quantas,qf448,20 aug 2024,14.0,230.0,2:00 PM,2:35 PM
+quantas,qf448,21 aug 2024,14.0,230.0,2:00 PM,2:10 PM
+quantas,qf448,22 aug 2024,14.0,230.0,2:00 PM,2:10 PM
+quantas,qf448,22 sep 2024,14.0,1046.0,2:00 PM,2:10 PM
+quantas,qf448,23 aug 2024,14.0,230.0,2:00 PM,2:10 PM
+quantas,qf448,23 sep 2024,14.0,508.0,2:00 PM,2:10 PM
+quantas,qf448,24 aug 2024,14.0,230.0,2:00 PM,2:14 PM
+quantas,qf448,24 sep 2024,14.0,436.0,2:00 PM,2:14 PM
+quantas,qf448,25 aug 2024,14.0,230.0,2:00 PM,2:14 PM
+quantas,qf448,25 sep 2024,14.0,320.0,2:00 PM,2:14 PM
+quantas,qf448,26 aug 2024,14.0,230.0,2:00 PM,2:55 PM
+quantas,qf448,26 sep 2024,14.0,436.0,2:00 PM,2:55 PM
+quantas,qf448,27 aug 2024,14.0,230.0,2:00 PM,2:22 PM
+quantas,qf448,27 sep 2024,14.0,320.0,2:00 PM,2:22 PM
+quantas,qf448,28 aug 2024,14.0,230.0,2:00 PM,2:45 PM
+quantas,qf448,28 sep 2024,14.0,179.0,2:00 PM,2:45 PM
+quantas,qf448,29 aug 2024,14.0,230.0,2:00 PM,2:09 PM
+quantas,qf448,29 sep 2024,14.0,590.0,2:00 PM,2:09 PM
+quantas,qf448,3 oct 2024,14.0,270.0,2:00 PM,2:09 PM
+quantas,qf448,30 aug 2024,14.0,230.0,2:00 PM,2:06 PM
+quantas,qf448,30 sep 2024,14.0,375.0,2:00 PM,2:06 PM
+quantas,qf448,31 aug 2024,14.0,230.0,2:00 PM,2:03 PM
+quantas,qf448,4 oct 2024,14.0,436.0,2:00 PM,2:03 PM
+quantas,qf448,5 oct 2024,14.0,320.0,2:00 PM,2:03 PM
+quantas,qf448,6 oct 2024,14.0,270.0,2:00 PM,2:03 PM
+quantas,qf454,02 aug 2024,14.0,230.0,3:00 PM,3:11 PM
+quantas,qf454,03 aug 2024,14.0,230.0,3:00 PM,3:06 PM
+quantas,qf454,04 aug 2024,14.0,230.0,3:00 PM,4:26 PM
+quantas,qf454,05 aug 2024,14.0,230.0,3:00 PM,3:27 PM
+quantas,qf454,06 aug 2024,14.0,230.0,3:00 PM,3:06 PM
+quantas,qf454,07 aug 2024,14.0,230.0,3:00 PM,3:15 PM
+quantas,qf454,08 aug 2024,14.0,230.0,3:00 PM,3:13 PM
+quantas,qf454,09 aug 2024,14.0,230.0,3:00 PM,3:24 PM
+quantas,qf454,1 aug 2024,14.0,230.0,3:00 PM,3:17 PM
+quantas,qf454,1 oct 2024,15.0,215.0,3:00 PM,3:17 PM
+quantas,qf454,10 aug 2024,14.0,230.0,3:00 PM,3:00 PM
+quantas,qf454,11 aug 2024,14.0,230.0,3:00 PM,3:17 PM
+quantas,qf454,12 aug 2024,14.0,230.0,3:00 PM,3:17 PM
+quantas,qf454,13 aug 2024,14.0,230.0,3:00 PM,3:39 PM
+quantas,qf454,14 aug 2024,14.0,230.0,3:00 PM,3:23 PM
+quantas,qf454,15 aug 2024,14.0,230.0,3:00 PM,3:19 PM
+quantas,qf454,16 aug 2024,14.0,230.0,3:00 PM,3:18 PM
+quantas,qf454,17 aug 2024,14.0,230.0,3:00 PM,3:18 PM
+quantas,qf454,18 aug 2024,14.0,230.0,3:00 PM,3:15 PM
+quantas,qf454,19 aug 2024,14.0,230.0,3:00 PM,3:15 PM
+quantas,qf454,2 oct 2024,15.0,320.0,3:00 PM,3:15 PM
+quantas,qf454,20 aug 2024,14.0,230.0,3:00 PM,3:19 PM
+quantas,qf454,21 aug 2024,14.0,230.0,3:00 PM,3:30 PM
+quantas,qf454,22 aug 2024,14.0,230.0,3:00 PM,3:10 PM
+quantas,qf454,22 sep 2024,15.0,590.0,3:00 PM,3:10 PM
+quantas,qf454,23 aug 2024,14.0,230.0,3:00 PM,3:17 PM
+quantas,qf454,23 sep 2024,15.0,436.0,3:00 PM,3:17 PM
+quantas,qf454,24 aug 2024,14.0,230.0,3:00 PM,3:13 PM
+quantas,qf454,24 sep 2024,15.0,436.0,3:00 PM,3:13 PM
+quantas,qf454,25 aug 2024,14.0,230.0,3:00 PM,3:34 PM
+quantas,qf454,25 sep 2024,15.0,375.0,3:00 PM,3:34 PM
+quantas,qf454,26 aug 2024,14.0,230.0,3:00 PM,3:13 PM
+quantas,qf454,26 sep 2024,15.0,436.0,3:00 PM,3:13 PM
+quantas,qf454,27 aug 2024,14.0,230.0,3:00 PM,3:11 PM
+quantas,qf454,27 sep 2024,15.0,320.0,3:00 PM,3:11 PM
+quantas,qf454,28 aug 2024,14.0,230.0,3:00 PM,3:34 PM
+quantas,qf454,28 sep 2024,15.0,215.0,3:00 PM,3:34 PM
+quantas,qf454,29 aug 2024,14.0,230.0,3:00 PM,3:16 PM
+quantas,qf454,29 sep 2024,15.0,590.0,3:00 PM,3:16 PM
+quantas,qf454,3 oct 2024,15.0,320.0,3:00 PM,3:16 PM
+quantas,qf454,30 aug 2024,14.0,230.0,3:00 PM,3:14 PM
+quantas,qf454,30 sep 2024,15.0,320.0,3:00 PM,3:14 PM
+quantas,qf454,31 aug 2024,14.0,230.0,3:00 PM,3:10 PM
+quantas,qf454,4 oct 2024,15.0,436.0,3:00 PM,3:10 PM
+quantas,qf454,5 oct 2024,15.0,320.0,3:00 PM,3:10 PM
+quantas,qf454,6 oct 2024,15.0,270.0,3:00 PM,3:10 PM
+quantas,qf462,02 aug 2024,14.0,230.0,3:55 PM,4:11 PM
+quantas,qf462,03 aug 2024,14.0,230.0,4:00 PM,4:03 PM
+quantas,qf462,04 aug 2024,14.0,230.0,4:00 PM,4:09 PM
+quantas,qf462,05 aug 2024,14.0,230.0,3:55 PM,4:14 PM
+quantas,qf462,06 aug 2024,14.0,230.0,3:55 PM,4:09 PM
+quantas,qf462,07 aug 2024,14.0,230.0,4:00 PM,4:13 PM
+quantas,qf462,08 aug 2024,14.0,230.0,3:55 PM,4:27 PM
+quantas,qf462,09 aug 2024,14.0,230.0,3:55 PM,4:27 PM
+quantas,qf462,1 aug 2024,14.0,230.0,3:55 PM,4:06 PM
+quantas,qf462,1 oct 2024,15.0,179.0,3:55 PM,4:06 PM
+quantas,qf462,10 aug 2024,14.0,230.0,4:00 PM,4:00 PM
+quantas,qf462,11 aug 2024,14.0,230.0,4:00 PM,4:17 PM
+quantas,qf462,12 aug 2024,14.0,230.0,3:55 PM,4:15 PM
+quantas,qf462,13 aug 2024,14.0,230.0,3:55 PM,4:39 PM
+quantas,qf462,14 aug 2024,14.0,230.0,4:00 PM,4:25 PM
+quantas,qf462,15 aug 2024,14.0,230.0,3:55 PM,4:25 PM
+quantas,qf462,16 aug 2024,14.0,230.0,3:55 PM,4:00 PM
+quantas,qf462,17 aug 2024,14.0,230.0,4:00 PM,4:14 PM
+quantas,qf462,18 aug 2024,14.0,230.0,4:00 PM,4:07 PM
+quantas,qf462,19 aug 2024,14.0,230.0,3:55 PM,4:34 PM
+quantas,qf462,2 oct 2024,16.0,270.0,3:55 PM,4:34 PM
+quantas,qf462,20 aug 2024,14.0,230.0,3:55 PM,4:34 PM
+quantas,qf462,21 aug 2024,14.0,230.0,4:00 PM,4:15 PM
+quantas,qf462,22 aug 2024,14.0,230.0,3:55 PM,4:30 PM
+quantas,qf462,22 sep 2024,16.0,508.0,3:55 PM,4:30 PM
+quantas,qf462,23 aug 2024,14.0,230.0,3:55 PM,4:30 PM
+quantas,qf462,23 sep 2024,15.0,375.0,3:55 PM,4:30 PM
+quantas,qf462,24 aug 2024,14.0,230.0,4:00 PM,4:07 PM
+quantas,qf462,24 sep 2024,15.0,436.0,4:00 PM,4:07 PM
+quantas,qf462,25 aug 2024,14.0,230.0,4:00 PM,4:41 PM
+quantas,qf462,25 sep 2024,16.0,320.0,4:00 PM,4:41 PM
+quantas,qf462,26 aug 2024,14.0,230.0,4:00 PM,4:41 PM
+quantas,qf462,26 sep 2024,16.0,436.0,4:00 PM,4:41 PM
+quantas,qf462,27 aug 2024,14.0,230.0,3:55 PM,4:12 PM
+quantas,qf462,27 sep 2024,15.0,179.0,3:55 PM,4:12 PM
+quantas,qf462,28 aug 2024,14.0,230.0,4:00 PM,4:48 PM
+quantas,qf462,28 sep 2024,16.0,215.0,4:00 PM,4:48 PM
+quantas,qf462,29 aug 2024,14.0,230.0,3:55 PM,4:44 PM
+quantas,qf462,29 sep 2024,16.0,590.0,3:55 PM,4:44 PM
+quantas,qf462,3 oct 2024,16.0,215.0,3:55 PM,4:44 PM
+quantas,qf462,30 aug 2024,14.0,230.0,3:55 PM,4:19 PM
+quantas,qf462,30 sep 2024,15.0,270.0,3:55 PM,4:19 PM
+quantas,qf462,31 aug 2024,14.0,230.0,4:00 PM,4:20 PM
+quantas,qf462,4 oct 2024,15.0,436.0,4:00 PM,4:20 PM
+quantas,qf462,5 oct 2024,16.0,320.0,4:00 PM,4:20 PM
+quantas,qf462,6 oct 2024,16.0,270.0,4:00 PM,4:20 PM
+quantas,qf464,02 aug 2024,14.0,230.0,4:15 PM,4:58 PM
+quantas,qf464,03 aug 2024,14.0,230.0,4:15 PM,4:58 PM
+quantas,qf464,04 aug 2024,14.0,230.0,4:15 PM,4:41 PM
+quantas,qf464,05 aug 2024,14.0,230.0,4:15 PM,4:41 PM
+quantas,qf464,06 aug 2024,14.0,230.0,4:15 PM,4:41 PM
+quantas,qf464,07 aug 2024,14.0,230.0,4:15 PM,4:33 PM
+quantas,qf464,08 aug 2024,14.0,230.0,4:15 PM,4:35 PM
+quantas,qf464,09 aug 2024,14.0,230.0,4:15 PM,4:36 PM
+quantas,qf464,1 aug 2024,14.0,230.0,4:15 PM,4:40 PM
+quantas,qf464,1 oct 2024,16.0,179.0,4:15 PM,4:40 PM
+quantas,qf464,10 aug 2024,14.0,230.0,4:15 PM,4:40 PM
+quantas,qf464,11 aug 2024,14.0,230.0,4:15 PM,4:29 PM
+quantas,qf464,12 aug 2024,14.0,230.0,4:15 PM,4:23 PM
+quantas,qf464,13 aug 2024,14.0,230.0,4:15 PM,4:36 PM
+quantas,qf464,14 aug 2024,14.0,230.0,4:15 PM,4:43 PM
+quantas,qf464,15 aug 2024,14.0,230.0,4:15 PM,4:27 PM
+quantas,qf464,16 aug 2024,14.0,230.0,4:15 PM,4:38 PM
+quantas,qf464,17 aug 2024,14.0,230.0,4:15 PM,4:38 PM
+quantas,qf464,18 aug 2024,14.0,230.0,4:15 PM,4:51 PM
+quantas,qf464,19 aug 2024,14.0,230.0,4:15 PM,4:45 PM
+quantas,qf464,2 oct 2024,16.0,179.0,4:15 PM,4:45 PM
+quantas,qf464,20 aug 2024,14.0,230.0,4:15 PM,4:41 PM
+quantas,qf464,21 aug 2024,14.0,230.0,4:15 PM,4:41 PM
+quantas,qf464,22 aug 2024,14.0,230.0,4:15 PM,4:40 PM
+quantas,qf464,22 sep 2024,16.0,436.0,4:15 PM,4:40 PM
+quantas,qf464,23 aug 2024,14.0,230.0,4:15 PM,4:37 PM
+quantas,qf464,23 sep 2024,16.0,436.0,4:15 PM,4:37 PM
+quantas,qf464,24 aug 2024,14.0,230.0,4:15 PM,4:37 PM
+quantas,qf464,24 sep 2024,16.0,508.0,4:15 PM,4:37 PM
+quantas,qf464,25 aug 2024,14.0,230.0,4:15 PM,4:51 PM
+quantas,qf464,25 sep 2024,16.0,320.0,4:15 PM,4:51 PM
+quantas,qf464,26 aug 2024,14.0,230.0,4:15 PM,4:58 PM
+quantas,qf464,26 sep 2024,16.0,436.0,4:15 PM,4:58 PM
+quantas,qf464,27 aug 2024,14.0,230.0,4:15 PM,4:46 PM
+quantas,qf464,27 sep 2024,16.0,179.0,4:15 PM,4:46 PM
+quantas,qf464,28 aug 2024,14.0,230.0,4:15 PM,5:16 PM
+quantas,qf464,28 sep 2024,16.0,230.0,4:15 PM,5:16 PM
+quantas,qf464,29 aug 2024,14.0,230.0,4:15 PM,4:56 PM
+quantas,qf464,29 sep 2024,16.0,230.0,4:15 PM,4:56 PM
+quantas,qf464,3 oct 2024,16.0,179.0,4:15 PM,4:56 PM
+quantas,qf464,30 aug 2024,14.0,230.0,4:35 PM,5:00 PM
+quantas,qf464,30 sep 2024,16.0,270.0,4:35 PM,5:00 PM
+quantas,qf464,31 aug 2024,14.0,230.0,4:15 PM,5:00 PM
+quantas,qf464,4 oct 2024,16.0,320.0,4:15 PM,5:00 PM
+quantas,qf464,5 oct 2024,16.0,230.0,4:15 PM,5:00 PM
+quantas,qf464,6 oct 2024,16.0,270.0,4:15 PM,5:00 PM
+quantas,qf466,02 aug 2024,14.0,230.0,4:30 PM,4:44 PM
+quantas,qf466,03 aug 2024,14.0,230.0,4:30 PM,4:44 PM
+quantas,qf466,04 aug 2024,14.0,230.0,4:30 PM,4:39 PM
+quantas,qf466,05 aug 2024,14.0,230.0,4:30 PM,4:37 PM
+quantas,qf466,06 aug 2024,14.0,230.0,4:30 PM,4:58 PM
+quantas,qf466,07 aug 2024,14.0,230.0,4:30 PM,4:40 PM
+quantas,qf466,08 aug 2024,14.0,230.0,4:30 PM,4:57 PM
+quantas,qf466,09 aug 2024,14.0,230.0,4:30 PM,4:40 PM
+quantas,qf466,1 aug 2024,14.0,230.0,4:30 PM,4:55 PM
+quantas,qf466,1 oct 2024,16.0,179.0,4:30 PM,4:55 PM
+quantas,qf466,10 aug 2024,14.0,230.0,4:30 PM,4:55 PM
+quantas,qf466,11 aug 2024,14.0,230.0,4:30 PM,4:51 PM
+quantas,qf466,12 aug 2024,14.0,230.0,4:30 PM,5:16 PM
+quantas,qf466,13 aug 2024,14.0,230.0,4:30 PM,4:43 PM
+quantas,qf466,14 aug 2024,14.0,230.0,4:30 PM,4:59 PM
+quantas,qf466,15 aug 2024,14.0,230.0,4:30 PM,4:59 PM
+quantas,qf466,16 aug 2024,14.0,230.0,4:10 PM,4:44 PM
+quantas,qf466,17 aug 2024,14.0,230.0,4:10 PM,4:44 PM
+quantas,qf466,18 aug 2024,14.0,230.0,4:30 PM,5:48 PM
+quantas,qf466,19 aug 2024,14.0,230.0,4:30 PM,5:48 PM
+quantas,qf466,2 oct 2024,16.0,179.0,4:30 PM,5:48 PM
+quantas,qf466,20 aug 2024,14.0,230.0,4:30 PM,4:44 PM
+quantas,qf466,21 aug 2024,14.0,230.0,4:30 PM,4:53 PM
+quantas,qf466,22 aug 2024,14.0,230.0,4:30 PM,4:49 PM
+quantas,qf466,22 sep 2024,16.0,436.0,4:30 PM,4:49 PM
+quantas,qf466,23 aug 2024,14.0,230.0,4:10 PM,4:24 PM
+quantas,qf466,23 sep 2024,16.0,436.0,4:10 PM,4:24 PM
+quantas,qf466,24 aug 2024,14.0,230.0,4:10 PM,4:24 PM
+quantas,qf466,24 sep 2024,16.0,508.0,4:10 PM,4:24 PM
+quantas,qf466,25 aug 2024,14.0,230.0,4:30 PM,5:18 PM
+quantas,qf466,25 sep 2024,16.0,270.0,4:30 PM,5:18 PM
+quantas,qf466,26 aug 2024,14.0,230.0,4:30 PM,4:48 PM
+quantas,qf466,26 sep 2024,16.0,508.0,4:30 PM,4:48 PM
+quantas,qf466,27 aug 2024,14.0,230.0,4:30 PM,4:48 PM
+quantas,qf466,27 sep 2024,16.0,179.0,4:30 PM,4:48 PM
+quantas,qf466,28 aug 2024,14.0,230.0,4:30 PM,5:10 PM
+quantas,qf466,28 sep 2024,16.0,230.0,4:30 PM,5:10 PM
+quantas,qf466,29 aug 2024,14.0,230.0,4:30 PM,4:59 PM
+quantas,qf466,29 sep 2024,16.0,590.0,4:30 PM,4:59 PM
+quantas,qf466,3 oct 2024,16.0,179.0,4:30 PM,4:59 PM
+quantas,qf466,30 aug 2024,14.0,230.0,4:10 PM,4:31 PM
+quantas,qf466,30 sep 2024,16.0,270.0,4:10 PM,4:31 PM
+quantas,qf466,31 aug 2024,14.0,230.0,4:10 PM,4:31 PM
+quantas,qf466,4 oct 2024,16.0,320.0,4:10 PM,4:31 PM
+quantas,qf466,5 oct 2024,16.0,230.0,4:10 PM,4:31 PM
+quantas,qf466,6 oct 2024,16.0,270.0,4:10 PM,4:31 PM
+quantas,qf470,02 aug 2024,14.0,230.0,5:00 PM,5:09 PM
+quantas,qf470,03 aug 2024,14.0,230.0,5:00 PM,5:21 PM
+quantas,qf470,04 aug 2024,14.0,230.0,5:00 PM,5:07 PM
+quantas,qf470,05 aug 2024,14.0,230.0,5:00 PM,5:05 PM
+quantas,qf470,06 aug 2024,14.0,230.0,5:00 PM,5:08 PM
+quantas,qf470,07 aug 2024,14.0,230.0,5:00 PM,5:14 PM
+quantas,qf470,08 aug 2024,14.0,230.0,5:00 PM,5:13 PM
+quantas,qf470,09 aug 2024,14.0,230.0,5:00 PM,5:40 PM
+quantas,qf470,1 aug 2024,14.0,230.0,5:00 PM,5:54 PM
+quantas,qf470,1 oct 2024,17.0,179.0,5:00 PM,5:54 PM
+quantas,qf470,10 aug 2024,14.0,230.0,5:00 PM,5:03 PM
+quantas,qf470,11 aug 2024,14.0,230.0,5:00 PM,5:06 PM
+quantas,qf470,12 aug 2024,14.0,230.0,5:00 PM,5:14 PM
+quantas,qf470,13 aug 2024,14.0,230.0,5:00 PM,5:29 PM
+quantas,qf470,14 aug 2024,14.0,230.0,5:00 PM,5:14 PM
+quantas,qf470,15 aug 2024,14.0,230.0,5:00 PM,5:34 PM
+quantas,qf470,16 aug 2024,14.0,230.0,5:00 PM,5:09 PM
+quantas,qf470,17 aug 2024,14.0,230.0,5:00 PM,5:04 PM
+quantas,qf470,18 aug 2024,14.0,230.0,5:00 PM,6:15 PM
+quantas,qf470,19 aug 2024,14.0,230.0,5:00 PM,5:30 PM
+quantas,qf470,2 oct 2024,17.0,270.0,5:00 PM,5:30 PM
+quantas,qf470,20 aug 2024,14.0,230.0,5:00 PM,5:09 PM
+quantas,qf470,21 aug 2024,14.0,230.0,5:00 PM,5:15 PM
+quantas,qf470,22 aug 2024,14.0,230.0,5:00 PM,5:15 PM
+quantas,qf470,22 sep 2024,17.0,508.0,5:00 PM,5:15 PM
+quantas,qf470,23 aug 2024,14.0,230.0,5:00 PM,5:43 PM
+quantas,qf470,23 sep 2024,17.0,508.0,5:00 PM,5:43 PM
+quantas,qf470,24 aug 2024,14.0,230.0,5:00 PM,5:05 PM
+quantas,qf470,24 sep 2024,17.0,681.0,5:00 PM,5:05 PM
+quantas,qf470,25 aug 2024,14.0,230.0,5:00 PM,7:01 PM
+quantas,qf470,25 sep 2024,17.0,375.0,5:00 PM,7:01 PM
+quantas,qf470,26 aug 2024,14.0,230.0,5:00 PM,5:06 PM
+quantas,qf470,26 sep 2024,17.0,508.0,5:00 PM,5:06 PM
+quantas,qf470,27 aug 2024,14.0,230.0,5:00 PM,5:07 PM
+quantas,qf470,27 sep 2024,17.0,179.0,5:00 PM,5:07 PM
+quantas,qf470,28 aug 2024,14.0,230.0,5:00 PM,6:40 PM
+quantas,qf470,28 sep 2024,17.0,320.0,5:00 PM,6:40 PM
+quantas,qf470,29 aug 2024,14.0,230.0,5:00 PM,6:40 PM
+quantas,qf470,29 sep 2024,17.0,590.0,5:00 PM,6:40 PM
+quantas,qf470,3 oct 2024,17.0,215.0,5:00 PM,6:40 PM
+quantas,qf470,30 aug 2024,14.0,230.0,5:00 PM,5:59 PM
+quantas,qf470,30 sep 2024,17.0,215.0,5:00 PM,5:59 PM
+quantas,qf470,31 aug 2024,14.0,230.0,5:00 PM,6:31 PM
+quantas,qf470,4 oct 2024,17.0,270.0,5:00 PM,6:31 PM
+quantas,qf470,5 oct 2024,17.0,320.0,5:00 PM,6:31 PM
+quantas,qf470,6 oct 2024,17.0,270.0,5:00 PM,6:31 PM
+quantas,qf472,02 aug 2024,14.0,230.0,5:15 PM,5:25 PM
+quantas,qf472,03 aug 2024,14.0,230.0,5:15 PM,5:25 PM
+quantas,qf472,04 aug 2024,14.0,230.0,5:15 PM,5:46 PM
+quantas,qf472,05 aug 2024,14.0,230.0,5:15 PM,5:18 PM
+quantas,qf472,06 aug 2024,14.0,230.0,5:15 PM,5:23 PM
+quantas,qf472,07 aug 2024,14.0,230.0,5:15 PM,5:27 PM
+quantas,qf472,08 aug 2024,14.0,230.0,6:10 PM,6:28 PM
+quantas,qf472,09 aug 2024,14.0,230.0,5:15 PM,5:24 PM
+quantas,qf472,1 aug 2024,14.0,230.0,6:10 PM,6:24 PM
+quantas,qf472,1 oct 2024,17.0,230.0,6:10 PM,6:24 PM
+quantas,qf472,10 aug 2024,14.0,230.0,6:10 PM,6:24 PM
+quantas,qf472,11 aug 2024,14.0,230.0,5:15 PM,5:36 PM
+quantas,qf472,12 aug 2024,14.0,230.0,5:15 PM,5:32 PM
+quantas,qf472,13 aug 2024,14.0,230.0,5:15 PM,5:20 PM
+quantas,qf472,14 aug 2024,14.0,230.0,5:15 PM,5:23 PM
+quantas,qf472,15 aug 2024,14.0,230.0,6:10 PM,6:51 PM
+quantas,qf472,16 aug 2024,14.0,230.0,5:15 PM,5:23 PM
+quantas,qf472,17 aug 2024,14.0,230.0,5:15 PM,5:23 PM
+quantas,qf472,18 aug 2024,14.0,230.0,5:15 PM,6:31 PM
+quantas,qf472,19 aug 2024,14.0,230.0,5:15 PM,5:48 PM
+quantas,qf472,2 oct 2024,17.0,179.0,5:15 PM,5:48 PM
+quantas,qf472,20 aug 2024,14.0,230.0,5:15 PM,5:25 PM
+quantas,qf472,21 aug 2024,14.0,230.0,5:15 PM,5:46 PM
+quantas,qf472,22 aug 2024,14.0,230.0,6:10 PM,6:22 PM
+quantas,qf472,22 sep 2024,17.0,436.0,6:10 PM,6:22 PM
+quantas,qf472,23 aug 2024,14.0,230.0,5:15 PM,5:51 PM
+quantas,qf472,23 sep 2024,17.0,230.0,5:15 PM,5:51 PM
+quantas,qf472,24 aug 2024,14.0,230.0,5:15 PM,5:51 PM
+quantas,qf472,24 sep 2024,17.0,230.0,5:15 PM,5:51 PM
+quantas,qf472,25 aug 2024,14.0,230.0,5:15 PM,5:26 PM
+quantas,qf472,25 sep 2024,17.0,375.0,5:15 PM,5:26 PM
+quantas,qf472,26 aug 2024,14.0,230.0,5:15 PM,5:36 PM
+quantas,qf472,26 sep 2024,17.0,230.0,5:15 PM,5:36 PM
+quantas,qf472,27 aug 2024,14.0,230.0,5:15 PM,5:36 PM
+quantas,qf472,27 sep 2024,17.0,179.0,5:15 PM,5:36 PM
+quantas,qf472,28 aug 2024,14.0,230.0,5:15 PM,6:29 PM
+quantas,qf472,28 sep 2024,17.0,230.0,5:15 PM,6:29 PM
+quantas,qf472,29 aug 2024,14.0,230.0,6:10 PM,6:38 PM
+quantas,qf472,29 sep 2024,17.0,230.0,6:10 PM,6:38 PM
+quantas,qf472,3 oct 2024,17.0,230.0,6:10 PM,6:38 PM
+quantas,qf472,30 aug 2024,14.0,230.0,5:15 PM,5:28 PM
+quantas,qf472,30 sep 2024,17.0,215.0,5:15 PM,5:28 PM
+quantas,qf472,31 aug 2024,14.0,230.0,5:15 PM,5:28 PM
+quantas,qf472,4 oct 2024,17.0,270.0,5:15 PM,5:28 PM
+quantas,qf472,5 oct 2024,17.0,230.0,5:15 PM,5:28 PM
+quantas,qf472,6 oct 2024,17.0,270.0,5:15 PM,5:28 PM
+quantas,qf478,02 aug 2024,14.0,230.0,6:00 PM,6:46 PM
+quantas,qf478,03 aug 2024,14.0,230.0,6:00 PM,6:04 PM
+quantas,qf478,04 aug 2024,14.0,230.0,6:00 PM,7:02 PM
+quantas,qf478,05 aug 2024,14.0,230.0,6:00 PM,6:43 PM
+quantas,qf478,06 aug 2024,14.0,230.0,6:00 PM,6:03 PM
+quantas,qf478,07 aug 2024,14.0,230.0,6:00 PM,6:16 PM
+quantas,qf478,08 aug 2024,14.0,230.0,6:00 PM,6:37 PM
+quantas,qf478,09 aug 2024,14.0,230.0,6:00 PM,6:20 PM
+quantas,qf478,1 aug 2024,14.0,230.0,6:00 PM,6:14 PM
+quantas,qf478,1 oct 2024,18.0,375.0,6:00 PM,6:14 PM
+quantas,qf478,10 aug 2024,14.0,230.0,6:00 PM,6:02 PM
+quantas,qf478,11 aug 2024,14.0,230.0,6:00 PM,6:44 PM
+quantas,qf478,12 aug 2024,14.0,230.0,6:00 PM,6:16 PM
+quantas,qf478,13 aug 2024,14.0,230.0,6:00 PM,6:10 PM
+quantas,qf478,14 aug 2024,14.0,230.0,6:00 PM,6:13 PM
+quantas,qf478,15 aug 2024,14.0,230.0,6:00 PM,6:22 PM
+quantas,qf478,16 aug 2024,14.0,230.0,6:00 PM,8:42 PM
+quantas,qf478,17 aug 2024,14.0,230.0,6:00 PM,7:29 PM
+quantas,qf478,18 aug 2024,14.0,230.0,6:00 PM,6:42 PM
+quantas,qf478,19 aug 2024,14.0,230.0,6:00 PM,6:11 PM
+quantas,qf478,2 oct 2024,18.0,215.0,6:00 PM,6:11 PM
+quantas,qf478,20 aug 2024,14.0,230.0,6:00 PM,6:37 PM
+quantas,qf478,21 aug 2024,14.0,230.0,6:00 PM,6:16 PM
+quantas,qf478,22 aug 2024,14.0,230.0,6:00 PM,6:36 PM
+quantas,qf478,22 sep 2024,18.0,436.0,6:00 PM,6:36 PM
+quantas,qf478,23 aug 2024,14.0,230.0,6:00 PM,6:17 PM
+quantas,qf478,23 sep 2024,18.0,681.0,6:00 PM,6:17 PM
+quantas,qf478,24 aug 2024,14.0,230.0,6:00 PM,6:12 PM
+quantas,qf478,24 sep 2024,18.0,681.0,6:00 PM,6:12 PM
+quantas,qf478,25 aug 2024,14.0,230.0,6:00 PM,8:33 PM
+quantas,qf478,25 sep 2024,18.0,508.0,6:00 PM,8:33 PM
+quantas,qf478,26 aug 2024,14.0,230.0,6:00 PM,6:06 PM
+quantas,qf478,26 sep 2024,18.0,508.0,6:00 PM,6:06 PM
+quantas,qf478,27 aug 2024,14.0,230.0,6:00 PM,6:10 PM
+quantas,qf478,27 sep 2024,18.0,179.0,6:00 PM,6:10 PM
+quantas,qf478,28 aug 2024,14.0,230.0,6:00 PM,6:10 PM
+quantas,qf478,28 sep 2024,18.0,320.0,6:00 PM,6:10 PM
+quantas,qf478,29 aug 2024,14.0,230.0,6:00 PM,6:20 PM
+quantas,qf478,29 sep 2024,18.0,590.0,6:00 PM,6:20 PM
+quantas,qf478,3 oct 2024,18.0,478.0,6:00 PM,6:20 PM
+quantas,qf478,30 aug 2024,14.0,230.0,6:00 PM,6:55 PM
+quantas,qf478,30 sep 2024,18.0,270.0,6:00 PM,6:55 PM
+quantas,qf478,31 aug 2024,14.0,230.0,6:00 PM,6:12 PM
+quantas,qf478,4 oct 2024,18.0,270.0,6:00 PM,6:12 PM
+quantas,qf478,5 oct 2024,18.0,320.0,6:00 PM,6:12 PM
+quantas,qf478,6 oct 2024,18.0,270.0,6:00 PM,6:12 PM
+quantas,qf498,02 aug 2024,14.0,230.0,9:00 PM,9:27 PM
+quantas,qf498,03 aug 2024,14.0,230.0,9:00 PM,9:07 PM
+quantas,qf498,04 aug 2024,14.0,230.0,9:00 PM,9:19 PM
+quantas,qf498,05 aug 2024,14.0,230.0,9:00 PM,9:11 PM
+quantas,qf498,06 aug 2024,14.0,230.0,9:00 PM,9:13 PM
+quantas,qf498,07 aug 2024,14.0,230.0,9:00 PM,9:36 PM
+quantas,qf498,08 aug 2024,14.0,230.0,9:00 PM,9:34 PM
+quantas,qf498,09 aug 2024,14.0,230.0,9:00 PM,9:24 PM
+quantas,qf498,1 aug 2024,14.0,230.0,9:00 PM,9:31 PM
+quantas,qf498,1 oct 2024,21.0,179.0,9:00 PM,9:31 PM
+quantas,qf498,10 aug 2024,14.0,230.0,9:00 PM,9:03 PM
+quantas,qf498,11 aug 2024,14.0,230.0,9:00 PM,9:10 PM
+quantas,qf498,12 aug 2024,14.0,230.0,9:00 PM,9:16 PM
+quantas,qf498,13 aug 2024,14.0,230.0,9:00 PM,9:09 PM
+quantas,qf498,14 aug 2024,14.0,230.0,9:00 PM,9:21 PM
+quantas,qf498,15 aug 2024,14.0,230.0,9:00 PM,9:07 PM
+quantas,qf498,16 aug 2024,14.0,230.0,9:00 PM,9:37 PM
+quantas,qf498,17 aug 2024,14.0,230.0,9:00 PM,9:04 PM
+quantas,qf498,18 aug 2024,14.0,230.0,9:00 PM,9:04 PM
+quantas,qf498,19 aug 2024,14.0,230.0,9:00 PM,9:44 PM
+quantas,qf498,2 oct 2024,21.0,179.0,9:00 PM,9:44 PM
+quantas,qf498,20 aug 2024,14.0,230.0,9:00 PM,9:25 PM
+quantas,qf498,21 aug 2024,14.0,230.0,9:00 PM,9:31 PM
+quantas,qf498,22 aug 2024,14.0,230.0,9:00 PM,9:13 PM
+quantas,qf498,22 sep 2024,21.0,375.0,9:00 PM,9:13 PM
+quantas,qf498,23 aug 2024,14.0,230.0,9:00 PM,9:21 PM
+quantas,qf498,23 sep 2024,21.0,270.0,9:00 PM,9:21 PM
+quantas,qf498,24 aug 2024,14.0,230.0,9:00 PM,9:04 PM
+quantas,qf498,24 sep 2024,21.0,215.0,9:00 PM,9:04 PM
+quantas,qf498,25 aug 2024,14.0,230.0,9:00 PM,9:58 PM
+quantas,qf498,25 sep 2024,21.0,179.0,9:00 PM,9:58 PM
+quantas,qf498,26 aug 2024,14.0,230.0,9:00 PM,9:21 PM
+quantas,qf498,26 sep 2024,21.0,270.0,9:00 PM,9:21 PM
+quantas,qf498,27 aug 2024,14.0,230.0,9:00 PM,9:33 PM
+quantas,qf498,27 sep 2024,21.0,179.0,9:00 PM,9:33 PM
+quantas,qf498,28 aug 2024,14.0,230.0,9:00 PM,9:52 PM
+quantas,qf498,28 sep 2024,21.0,590.0,9:00 PM,9:52 PM
+quantas,qf498,29 aug 2024,14.0,230.0,9:00 PM,9:11 PM
+quantas,qf498,29 sep 2024,21.0,508.0,9:00 PM,9:11 PM
+quantas,qf498,3 oct 2024,21.0,178.0,9:00 PM,9:11 PM
+quantas,qf498,30 aug 2024,14.0,230.0,9:00 PM,9:28 PM
+quantas,qf498,30 sep 2024,21.0,179.0,9:00 PM,9:28 PM
+quantas,qf498,31 aug 2024,14.0,230.0,9:00 PM,9:01 PM
+quantas,qf498,4 oct 2024,21.0,270.0,9:00 PM,9:01 PM
+quantas,qf498,5 oct 2024,21.0,320.0,9:00 PM,9:01 PM
+quantas,qf498,6 oct 2024,21.0,215.0,9:00 PM,9:01 PM
+virgin australia,va803,02 aug 2024,14.0,230.0,6:00 AM,6:12 AM
+virgin australia,va803,03 aug 2024,14.0,230.0,6:00 AM,6:08 AM
+virgin australia,va803,04 aug 2024,14.0,230.0,6:00 AM,6:08 AM
+virgin australia,va803,05 aug 2024,14.0,230.0,6:00 AM,6:19 AM
+virgin australia,va803,06 aug 2024,14.0,230.0,6:00 AM,6:23 AM
+virgin australia,va803,07 aug 2024,14.0,230.0,6:00 AM,6:06 AM
+virgin australia,va803,08 aug 2024,14.0,230.0,6:00 AM,6:09 AM
+virgin australia,va803,09 aug 2024,14.0,230.0,6:00 AM,7:02 AM
+virgin australia,va803,1 aug 2024,14.0,230.0,6:00 AM,6:22 AM
+virgin australia,va803,1 oct 2024,6.0,139.0,6:00 AM,6:22 AM
+virgin australia,va803,10 aug 2024,14.0,230.0,6:00 AM,6:32 AM
+virgin australia,va803,11 aug 2024,14.0,230.0,6:00 AM,6:32 AM
+virgin australia,va803,12 aug 2024,14.0,230.0,6:00 AM,6:13 AM
+virgin australia,va803,13 aug 2024,14.0,230.0,6:00 AM,6:13 AM
+virgin australia,va803,14 aug 2024,14.0,230.0,6:00 AM,8:17 AM
+virgin australia,va803,15 aug 2024,14.0,230.0,6:00 AM,6:07 AM
+virgin australia,va803,16 aug 2024,14.0,230.0,6:00 AM,6:14 AM
+virgin australia,va803,17 aug 2024,14.0,230.0,6:00 AM,6:27 AM
+virgin australia,va803,18 aug 2024,14.0,230.0,6:00 AM,6:27 AM
+virgin australia,va803,19 aug 2024,14.0,230.0,6:00 AM,6:15 AM
+virgin australia,va803,2 oct 2024,6.0,149.0,6:00 AM,6:15 AM
+virgin australia,va803,20 aug 2024,14.0,230.0,6:00 AM,6:18 AM
+virgin australia,va803,21 aug 2024,14.0,230.0,6:00 AM,6:12 AM
+virgin australia,va803,22 aug 2024,14.0,230.0,6:00 AM,7:53 AM
+virgin australia,va803,22 sep 2024,6.0,230.0,6:00 AM,7:53 AM
+virgin australia,va803,23 aug 2024,14.0,230.0,6:00 AM,6:16 AM
+virgin australia,va803,23 sep 2024,6.0,474.0,6:00 AM,6:16 AM
+virgin australia,va803,24 aug 2024,14.0,230.0,6:00 AM,6:15 AM
+virgin australia,va803,24 sep 2024,6.0,601.0,6:00 AM,6:15 AM
+virgin australia,va803,25 aug 2024,14.0,230.0,6:00 AM,6:15 AM
+virgin australia,va803,25 sep 2024,6.0,209.0,6:00 AM,6:15 AM
+virgin australia,va803,26 aug 2024,14.0,230.0,6:00 AM,6:10 AM
+virgin australia,va803,26 sep 2024,6.0,149.0,6:00 AM,6:10 AM
+virgin australia,va803,27 aug 2024,14.0,230.0,6:00 AM,6:12 AM
+virgin australia,va803,27 sep 2024,6.0,223.0,6:00 AM,6:12 AM
+virgin australia,va803,28 aug 2024,14.0,230.0,6:00 AM,6:07 AM
+virgin australia,va803,28 sep 2024,6.0,119.0,6:00 AM,6:07 AM
+virgin australia,va803,29 aug 2024,14.0,230.0,6:00 AM,6:31 AM
+virgin australia,va803,29 sep 2024,6.0,230.0,6:00 AM,6:31 AM
+virgin australia,va803,3 oct 2024,6.0,149.0,6:00 AM,6:31 AM
+virgin australia,va803,30 aug 2024,14.0,230.0,6:00 AM,6:10 AM
+virgin australia,va803,30 sep 2024,6.0,197.0,6:00 AM,6:10 AM
+virgin australia,va803,31 aug 2024,14.0,230.0,6:00 AM,6:19 AM
+virgin australia,va803,4 oct 2024,6.0,223.0,6:00 AM,6:19 AM
+virgin australia,va803,5 oct 2024,6.0,176.0,6:00 AM,6:19 AM
+virgin australia,va803,6 oct 2024,6.0,139.0,6:00 AM,6:19 AM
+virgin australia,va811,02 aug 2024,14.0,230.0,7:00 AM,7:11 AM
+virgin australia,va811,03 aug 2024,14.0,230.0,7:00 AM,7:06 AM
+virgin australia,va811,04 aug 2024,14.0,230.0,7:00 AM,7:06 AM
+virgin australia,va811,05 aug 2024,14.0,230.0,7:00 AM,7:13 AM
+virgin australia,va811,06 aug 2024,14.0,230.0,7:00 AM,7:15 AM
+virgin australia,va811,07 aug 2024,14.0,230.0,7:00 AM,7:43 AM
+virgin australia,va811,08 aug 2024,14.0,230.0,7:00 AM,7:29 AM
+virgin australia,va811,09 aug 2024,14.0,230.0,7:00 AM,7:13 AM
+virgin australia,va811,1 aug 2024,14.0,230.0,7:00 AM,7:15 AM
+virgin australia,va811,1 oct 2024,7.0,139.0,7:00 AM,7:15 AM
+virgin australia,va811,10 aug 2024,14.0,230.0,7:00 AM,7:09 AM
+virgin australia,va811,11 aug 2024,14.0,230.0,7:00 AM,7:12 AM
+virgin australia,va811,12 aug 2024,14.0,230.0,7:00 AM,7:16 AM
+virgin australia,va811,13 aug 2024,14.0,230.0,7:00 AM,7:16 AM
+virgin australia,va811,14 aug 2024,14.0,230.0,7:00 AM,7:16 AM
+virgin australia,va811,15 aug 2024,14.0,230.0,7:00 AM,7:15 AM
+virgin australia,va811,16 aug 2024,14.0,230.0,7:00 AM,7:20 AM
+virgin australia,va811,17 aug 2024,14.0,230.0,7:00 AM,7:20 AM
+virgin australia,va811,18 aug 2024,14.0,230.0,7:00 AM,7:12 AM
+virgin australia,va811,19 aug 2024,14.0,230.0,7:00 AM,7:26 AM
+virgin australia,va811,2 oct 2024,7.0,119.0,7:00 AM,7:26 AM
+virgin australia,va811,20 aug 2024,14.0,230.0,7:00 AM,7:07 AM
+virgin australia,va811,21 aug 2024,14.0,230.0,7:00 AM,7:09 AM
+virgin australia,va811,22 aug 2024,14.0,230.0,7:00 AM,7:06 AM
+virgin australia,va811,22 sep 2024,7.0,230.0,7:00 AM,7:06 AM
+virgin australia,va811,23 aug 2024,14.0,230.0,7:00 AM,7:16 AM
+virgin australia,va811,23 sep 2024,7.0,481.0,7:00 AM,7:16 AM
+virgin australia,va811,24 aug 2024,14.0,230.0,7:00 AM,7:13 AM
+virgin australia,va811,24 sep 2024,7.0,601.0,7:00 AM,7:13 AM
+virgin australia,va811,25 aug 2024,14.0,230.0,7:00 AM,7:07 AM
+virgin australia,va811,25 sep 2024,7.0,271.0,7:00 AM,7:07 AM
+virgin australia,va811,26 aug 2024,14.0,230.0,7:00 AM,7:07 AM
+virgin australia,va811,26 sep 2024,7.0,213.0,7:00 AM,7:07 AM
+virgin australia,va811,27 aug 2024,14.0,230.0,7:00 AM,7:02 AM
+virgin australia,va811,27 sep 2024,7.0,264.0,7:00 AM,7:02 AM
+virgin australia,va811,28 aug 2024,14.0,230.0,7:00 AM,7:18 AM
+virgin australia,va811,28 sep 2024,7.0,119.0,7:00 AM,7:18 AM
+virgin australia,va811,29 aug 2024,14.0,230.0,7:00 AM,7:12 AM
+virgin australia,va811,29 sep 2024,7.0,670.0,7:00 AM,7:12 AM
+virgin australia,va811,3 oct 2024,7.0,149.0,7:00 AM,7:12 AM
+virgin australia,va811,30 aug 2024,14.0,230.0,7:00 AM,7:04 AM
+virgin australia,va811,30 sep 2024,7.0,139.0,7:00 AM,7:04 AM
+virgin australia,va811,31 aug 2024,14.0,230.0,7:00 AM,7:04 AM
+virgin australia,va811,4 oct 2024,7.0,209.0,7:00 AM,7:04 AM
+virgin australia,va811,5 oct 2024,7.0,149.0,7:00 AM,7:04 AM
+virgin australia,va811,6 oct 2024,7.0,197.0,7:00 AM,7:04 AM
+virgin australia,va815,02 aug 2024,14.0,230.0,7:30 AM,7:48 AM
+virgin australia,va815,03 aug 2024,14.0,230.0,7:30 AM,7:44 AM
+virgin australia,va815,04 aug 2024,14.0,230.0,7:30 AM,7:44 AM
+virgin australia,va815,05 aug 2024,14.0,230.0,7:30 AM,7:55 AM
+virgin australia,va815,06 aug 2024,14.0,230.0,7:30 AM,7:41 AM
+virgin australia,va815,07 aug 2024,14.0,230.0,7:30 AM,7:45 AM
+virgin australia,va815,08 aug 2024,14.0,230.0,7:30 AM,8:07 AM
+virgin australia,va815,09 aug 2024,14.0,230.0,7:30 AM,8:32 AM
+virgin australia,va815,1 aug 2024,14.0,230.0,7:30 AM,7:41 AM
+virgin australia,va815,1 oct 2024,7.0,149.0,7:30 AM,7:41 AM
+virgin australia,va815,10 aug 2024,14.0,230.0,7:30 AM,7:44 AM
+virgin australia,va815,11 aug 2024,14.0,230.0,7:30 AM,7:44 AM
+virgin australia,va815,12 aug 2024,14.0,230.0,7:30 AM,8:14 AM
+virgin australia,va815,13 aug 2024,14.0,230.0,7:30 AM,7:47 AM
+virgin australia,va815,14 aug 2024,14.0,230.0,7:30 AM,7:57 AM
+virgin australia,va815,15 aug 2024,14.0,230.0,7:30 AM,7:44 AM
+virgin australia,va815,16 aug 2024,14.0,230.0,7:30 AM,7:44 AM
+virgin australia,va815,17 aug 2024,14.0,230.0,7:30 AM,7:49 AM
+virgin australia,va815,18 aug 2024,14.0,230.0,7:30 AM,7:49 AM
+virgin australia,va815,19 aug 2024,14.0,230.0,7:30 AM,7:54 AM
+virgin australia,va815,2 oct 2024,7.0,139.0,7:30 AM,7:54 AM
+virgin australia,va815,20 aug 2024,14.0,230.0,7:30 AM,7:44 AM
+virgin australia,va815,21 aug 2024,14.0,230.0,7:30 AM,7:59 AM
+virgin australia,va815,22 aug 2024,14.0,230.0,7:30 AM,7:46 AM
+virgin australia,va815,22 sep 2024,7.0,230.0,7:30 AM,7:46 AM
+virgin australia,va815,23 aug 2024,14.0,230.0,7:30 AM,7:51 AM
+virgin australia,va815,23 sep 2024,7.0,381.0,7:30 AM,7:51 AM
+virgin australia,va815,24 aug 2024,14.0,230.0,7:30 AM,7:45 AM
+virgin australia,va815,24 sep 2024,7.0,534.0,7:30 AM,7:45 AM
+virgin australia,va815,25 aug 2024,14.0,230.0,7:30 AM,7:45 AM
+virgin australia,va815,25 sep 2024,7.0,204.0,7:30 AM,7:45 AM
+virgin australia,va815,26 aug 2024,14.0,230.0,7:30 AM,7:41 AM
+virgin australia,va815,26 sep 2024,7.0,197.0,7:30 AM,7:41 AM
+virgin australia,va815,27 aug 2024,14.0,230.0,7:30 AM,7:48 AM
+virgin australia,va815,27 sep 2024,7.0,223.0,7:30 AM,7:48 AM
+virgin australia,va815,28 aug 2024,14.0,230.0,7:30 AM,7:57 AM
+virgin australia,va815,28 sep 2024,7.0,119.0,7:30 AM,7:57 AM
+virgin australia,va815,29 aug 2024,14.0,230.0,7:30 AM,7:38 AM
+virgin australia,va815,29 sep 2024,7.0,119.0,7:30 AM,7:38 AM
+virgin australia,va815,3 oct 2024,7.0,149.0,7:30 AM,7:38 AM
+virgin australia,va815,30 aug 2024,14.0,230.0,7:30 AM,7:48 AM
+virgin australia,va815,30 sep 2024,7.0,155.0,7:30 AM,7:48 AM
+virgin australia,va815,31 aug 2024,14.0,230.0,7:30 AM,7:58 AM
+virgin australia,va815,4 oct 2024,7.0,210.0,7:30 AM,7:58 AM
+virgin australia,va815,5 oct 2024,7.0,149.0,7:30 AM,7:58 AM
+virgin australia,va815,6 oct 2024,7.0,230.0,7:30 AM,7:58 AM
+virgin australia,va819,02 aug 2024,14.0,230.0,8:00 AM,8:10 AM
+virgin australia,va819,03 aug 2024,14.0,230.0,8:00 AM,8:05 AM
+virgin australia,va819,04 aug 2024,14.0,230.0,8:00 AM,8:10 AM
+virgin australia,va819,05 aug 2024,14.0,230.0,8:00 AM,8:14 AM
+virgin australia,va819,06 aug 2024,14.0,230.0,8:00 AM,8:15 AM
+virgin australia,va819,07 aug 2024,14.0,230.0,8:00 AM,8:43 AM
+virgin australia,va819,08 aug 2024,14.0,230.0,8:00 AM,8:17 AM
+virgin australia,va819,09 aug 2024,14.0,230.0,8:00 AM,8:11 AM
+virgin australia,va819,1 aug 2024,14.0,230.0,8:00 AM,8:11 AM
+virgin australia,va819,1 oct 2024,8.0,139.0,8:00 AM,8:11 AM
+virgin australia,va819,10 aug 2024,14.0,230.0,8:00 AM,8:11 AM
+virgin australia,va819,11 aug 2024,14.0,230.0,8:00 AM,8:16 AM
+virgin australia,va819,12 aug 2024,14.0,230.0,8:00 AM,8:15 AM
+virgin australia,va819,13 aug 2024,14.0,230.0,8:00 AM,8:28 AM
+virgin australia,va819,14 aug 2024,14.0,230.0,8:00 AM,8:27 AM
+virgin australia,va819,15 aug 2024,14.0,230.0,8:00 AM,8:13 AM
+virgin australia,va819,16 aug 2024,14.0,230.0,8:00 AM,8:17 AM
+virgin australia,va819,17 aug 2024,14.0,230.0,8:00 AM,8:17 AM
+virgin australia,va819,18 aug 2024,14.0,230.0,8:00 AM,8:07 AM
+virgin australia,va819,19 aug 2024,14.0,230.0,8:00 AM,8:13 AM
+virgin australia,va819,2 oct 2024,8.0,139.0,8:00 AM,8:13 AM
+virgin australia,va819,20 aug 2024,14.0,230.0,8:00 AM,8:28 AM
+virgin australia,va819,21 aug 2024,14.0,230.0,8:00 AM,8:08 AM
+virgin australia,va819,22 aug 2024,14.0,230.0,8:00 AM,8:11 AM
+virgin australia,va819,22 sep 2024,8.0,782.0,8:00 AM,8:11 AM
+virgin australia,va819,23 aug 2024,14.0,230.0,8:00 AM,8:12 AM
+virgin australia,va819,23 sep 2024,8.0,534.0,8:00 AM,8:12 AM
+virgin australia,va819,24 aug 2024,14.0,230.0,8:00 AM,8:41 AM
+virgin australia,va819,24 sep 2024,8.0,534.0,8:00 AM,8:41 AM
+virgin australia,va819,25 aug 2024,14.0,230.0,8:00 AM,8:10 AM
+virgin australia,va819,25 sep 2024,8.0,310.0,8:00 AM,8:10 AM
+virgin australia,va819,26 aug 2024,14.0,230.0,8:00 AM,8:22 AM
+virgin australia,va819,26 sep 2024,8.0,310.0,8:00 AM,8:22 AM
+virgin australia,va819,27 aug 2024,14.0,230.0,8:00 AM,8:15 AM
+virgin australia,va819,27 sep 2024,8.0,374.0,8:00 AM,8:15 AM
+virgin australia,va819,28 aug 2024,14.0,230.0,8:00 AM,8:28 AM
+virgin australia,va819,28 sep 2024,8.0,139.0,8:00 AM,8:28 AM
+virgin australia,va819,29 aug 2024,14.0,230.0,8:00 AM,8:14 AM
+virgin australia,va819,29 sep 2024,8.0,893.0,8:00 AM,8:14 AM
+virgin australia,va819,3 oct 2024,8.0,149.0,8:00 AM,8:14 AM
+virgin australia,va819,30 aug 2024,14.0,230.0,8:00 AM,8:10 AM
+virgin australia,va819,30 sep 2024,8.0,197.0,8:00 AM,8:10 AM
+virgin australia,va819,31 aug 2024,14.0,230.0,8:00 AM,8:30 AM
+virgin australia,va819,4 oct 2024,8.0,230.0,8:00 AM,8:30 AM
+virgin australia,va819,5 oct 2024,8.0,197.0,8:00 AM,8:30 AM
+virgin australia,va819,6 oct 2024,8.0,197.0,8:00 AM,8:30 AM
+virgin australia,va823,02 aug 2024,14.0,230.0,8:30 AM,8:43 AM
+virgin australia,va823,03 aug 2024,14.0,230.0,8:30 AM,8:42 AM
+virgin australia,va823,04 aug 2024,14.0,230.0,8:30 AM,8:40 AM
+virgin australia,va823,05 aug 2024,14.0,230.0,8:30 AM,8:44 AM
+virgin australia,va823,06 aug 2024,14.0,230.0,8:30 AM,8:38 AM
+virgin australia,va823,07 aug 2024,14.0,230.0,8:30 AM,8:55 AM
+virgin australia,va823,08 aug 2024,14.0,230.0,8:30 AM,8:48 AM
+virgin australia,va823,09 aug 2024,14.0,230.0,8:30 AM,8:35 AM
+virgin australia,va823,1 aug 2024,14.0,230.0,8:30 AM,8:41 AM
+virgin australia,va823,1 oct 2024,8.0,139.0,8:30 AM,8:41 AM
+virgin australia,va823,10 aug 2024,14.0,230.0,8:30 AM,8:43 AM
+virgin australia,va823,11 aug 2024,14.0,230.0,8:30 AM,8:37 AM
+virgin australia,va823,12 aug 2024,14.0,230.0,8:30 AM,8:38 AM
+virgin australia,va823,13 aug 2024,14.0,230.0,8:30 AM,8:44 AM
+virgin australia,va823,14 aug 2024,14.0,230.0,8:30 AM,8:48 AM
+virgin australia,va823,15 aug 2024,14.0,230.0,8:30 AM,8:58 AM
+virgin australia,va823,16 aug 2024,14.0,230.0,8:30 AM,8:39 AM
+virgin australia,va823,17 aug 2024,14.0,230.0,8:30 AM,9:16 AM
+virgin australia,va823,18 aug 2024,14.0,230.0,8:30 AM,8:35 AM
+virgin australia,va823,19 aug 2024,14.0,230.0,8:30 AM,8:47 AM
+virgin australia,va823,2 oct 2024,8.0,139.0,8:30 AM,8:47 AM
+virgin australia,va823,20 aug 2024,14.0,230.0,8:30 AM,8:47 AM
+virgin australia,va823,21 aug 2024,14.0,230.0,8:30 AM,8:37 AM
+virgin australia,va823,22 aug 2024,14.0,230.0,8:30 AM,8:37 AM
+virgin australia,va823,22 sep 2024,8.0,670.0,8:30 AM,8:37 AM
+virgin australia,va823,23 aug 2024,14.0,230.0,8:30 AM,8:39 AM
+virgin australia,va823,23 sep 2024,8.0,315.0,8:30 AM,8:39 AM
+virgin australia,va823,24 aug 2024,14.0,230.0,8:30 AM,8:45 AM
+virgin australia,va823,24 sep 2024,8.0,534.0,8:30 AM,8:45 AM
+virgin australia,va823,25 aug 2024,14.0,230.0,8:30 AM,8:37 AM
+virgin australia,va823,25 sep 2024,8.0,264.0,8:30 AM,8:37 AM
+virgin australia,va823,26 aug 2024,14.0,230.0,8:30 AM,8:37 AM
+virgin australia,va823,26 sep 2024,8.0,264.0,8:30 AM,8:37 AM
+virgin australia,va823,27 aug 2024,14.0,230.0,8:30 AM,8:50 AM
+virgin australia,va823,27 sep 2024,8.0,264.0,8:30 AM,8:50 AM
+virgin australia,va823,28 aug 2024,14.0,230.0,8:30 AM,8:58 AM
+virgin australia,va823,28 sep 2024,8.0,139.0,8:30 AM,8:58 AM
+virgin australia,va823,29 aug 2024,14.0,230.0,8:30 AM,8:37 AM
+virgin australia,va823,29 sep 2024,8.0,782.0,8:30 AM,8:37 AM
+virgin australia,va823,3 oct 2024,8.0,149.0,8:30 AM,8:37 AM
+virgin australia,va823,30 aug 2024,14.0,230.0,8:30 AM,8:57 AM
+virgin australia,va823,30 sep 2024,8.0,197.0,8:30 AM,8:57 AM
+virgin australia,va823,31 aug 2024,14.0,230.0,8:30 AM,9:03 AM
+virgin australia,va823,4 oct 2024,8.0,230.0,8:30 AM,9:03 AM
+virgin australia,va823,5 oct 2024,8.0,197.0,8:30 AM,9:03 AM
+virgin australia,va823,6 oct 2024,8.0,197.0,8:30 AM,9:03 AM
+virgin australia,va827,02 aug 2024,14.0,230.0,9:00 AM,10:10 AM
+virgin australia,va827,03 aug 2024,14.0,230.0,9:00 AM,9:26 AM
+virgin australia,va827,04 aug 2024,14.0,230.0,9:00 AM,9:12 AM
+virgin australia,va827,05 aug 2024,14.0,230.0,9:00 AM,9:23 AM
+virgin australia,va827,06 aug 2024,14.0,230.0,9:00 AM,9:09 AM
+virgin australia,va827,07 aug 2024,14.0,230.0,9:00 AM,9:16 AM
+virgin australia,va827,08 aug 2024,14.0,230.0,9:00 AM,9:23 AM
+virgin australia,va827,09 aug 2024,14.0,230.0,9:00 AM,9:19 AM
+virgin australia,va827,1 aug 2024,14.0,230.0,9:00 AM,9:29 AM
+virgin australia,va827,1 oct 2024,9.0,149.0,9:00 AM,9:29 AM
+virgin australia,va827,10 aug 2024,14.0,230.0,9:00 AM,9:11 AM
+virgin australia,va827,11 aug 2024,14.0,230.0,9:00 AM,9:20 AM
+virgin australia,va827,12 aug 2024,14.0,230.0,9:00 AM,9:08 AM
+virgin australia,va827,13 aug 2024,14.0,230.0,9:00 AM,9:11 AM
+virgin australia,va827,14 aug 2024,14.0,230.0,9:00 AM,9:20 AM
+virgin australia,va827,15 aug 2024,14.0,230.0,9:00 AM,10:09 AM
+virgin australia,va827,16 aug 2024,14.0,230.0,9:00 AM,9:27 AM
+virgin australia,va827,17 aug 2024,14.0,230.0,9:00 AM,9:35 AM
+virgin australia,va827,18 aug 2024,14.0,230.0,9:00 AM,9:15 AM
+virgin australia,va827,19 aug 2024,14.0,230.0,9:00 AM,9:17 AM
+virgin australia,va827,2 oct 2024,9.0,139.0,9:00 AM,9:17 AM
+virgin australia,va827,20 aug 2024,14.0,230.0,9:00 AM,9:14 AM
+virgin australia,va827,21 aug 2024,14.0,230.0,9:00 AM,9:11 AM
+virgin australia,va827,22 aug 2024,14.0,230.0,9:00 AM,9:14 AM
+virgin australia,va827,22 sep 2024,9.0,534.0,9:00 AM,9:14 AM
+virgin australia,va827,23 aug 2024,14.0,230.0,9:00 AM,9:18 AM
+virgin australia,va827,23 sep 2024,9.0,374.0,9:00 AM,9:18 AM
+virgin australia,va827,24 aug 2024,14.0,230.0,9:00 AM,9:26 AM
+virgin australia,va827,24 sep 2024,9.0,534.0,9:00 AM,9:26 AM
+virgin australia,va827,25 aug 2024,14.0,230.0,9:00 AM,9:19 AM
+virgin australia,va827,25 sep 2024,9.0,264.0,9:00 AM,9:19 AM
+virgin australia,va827,26 aug 2024,14.0,230.0,9:00 AM,9:18 AM
+virgin australia,va827,26 sep 2024,9.0,310.0,9:00 AM,9:18 AM
+virgin australia,va827,27 aug 2024,14.0,230.0,9:00 AM,9:30 AM
+virgin australia,va827,27 sep 2024,9.0,264.0,9:00 AM,9:30 AM
+virgin australia,va827,28 aug 2024,14.0,230.0,9:00 AM,9:49 AM
+virgin australia,va827,28 sep 2024,9.0,197.0,9:00 AM,9:49 AM
+virgin australia,va827,29 aug 2024,14.0,230.0,9:00 AM,9:12 AM
+virgin australia,va827,29 sep 2024,9.0,670.0,9:00 AM,9:12 AM
+virgin australia,va827,3 oct 2024,9.0,197.0,9:00 AM,9:12 AM
+virgin australia,va827,30 aug 2024,14.0,230.0,9:00 AM,9:25 AM
+virgin australia,va827,30 sep 2024,9.0,209.0,9:00 AM,9:25 AM
+virgin australia,va827,31 aug 2024,14.0,230.0,9:00 AM,9:21 AM
+virgin australia,va827,4 oct 2024,9.0,310.0,9:00 AM,9:21 AM
+virgin australia,va827,5 oct 2024,9.0,210.0,9:00 AM,9:21 AM
+virgin australia,va827,6 oct 2024,9.0,197.0,9:00 AM,9:21 AM
+virgin australia,va833,02 aug 2024,14.0,230.0,10:00 AM,10:37 AM
+virgin australia,va833,03 aug 2024,14.0,230.0,10:00 AM,10:10 AM
+virgin australia,va833,04 aug 2024,14.0,230.0,10:00 AM,10:11 AM
+virgin australia,va833,05 aug 2024,14.0,230.0,10:00 AM,10:12 AM
+virgin australia,va833,06 aug 2024,14.0,230.0,10:00 AM,10:17 AM
+virgin australia,va833,07 aug 2024,14.0,230.0,10:00 AM,10:16 AM
+virgin australia,va833,08 aug 2024,14.0,230.0,10:00 AM,10:11 AM
+virgin australia,va833,09 aug 2024,14.0,230.0,10:00 AM,10:12 AM
+virgin australia,va833,1 aug 2024,14.0,230.0,10:00 AM,11:14 AM
+virgin australia,va833,1 oct 2024,10.0,149.0,10:00 AM,11:14 AM
+virgin australia,va833,10 aug 2024,14.0,230.0,10:00 AM,10:07 AM
+virgin australia,va833,11 aug 2024,14.0,230.0,10:00 AM,10:17 AM
+virgin australia,va833,12 aug 2024,14.0,230.0,10:00 AM,10:22 AM
+virgin australia,va833,13 aug 2024,14.0,230.0,10:00 AM,11:05 AM
+virgin australia,va833,14 aug 2024,14.0,230.0,10:00 AM,10:16 AM
+virgin australia,va833,15 aug 2024,14.0,230.0,10:00 AM,10:28 AM
+virgin australia,va833,16 aug 2024,14.0,230.0,10:00 AM,10:27 AM
+virgin australia,va833,17 aug 2024,14.0,230.0,10:00 AM,10:21 AM
+virgin australia,va833,18 aug 2024,14.0,230.0,10:00 AM,10:29 AM
+virgin australia,va833,19 aug 2024,14.0,230.0,10:00 AM,10:21 AM
+virgin australia,va833,2 oct 2024,10.0,149.0,10:00 AM,10:21 AM
+virgin australia,va833,20 aug 2024,14.0,230.0,10:00 AM,10:08 AM
+virgin australia,va833,21 aug 2024,14.0,230.0,10:00 AM,10:12 AM
+virgin australia,va833,22 aug 2024,14.0,230.0,10:00 AM,10:26 AM
+virgin australia,va833,22 sep 2024,10.0,670.0,10:00 AM,10:26 AM
+virgin australia,va833,23 aug 2024,14.0,230.0,10:00 AM,10:14 AM
+virgin australia,va833,23 sep 2024,10.0,310.0,10:00 AM,10:14 AM
+virgin australia,va833,24 aug 2024,14.0,230.0,10:00 AM,10:14 AM
+virgin australia,va833,24 sep 2024,10.0,374.0,10:00 AM,10:14 AM
+virgin australia,va833,25 aug 2024,14.0,230.0,10:00 AM,10:15 AM
+virgin australia,va833,25 sep 2024,10.0,310.0,10:00 AM,10:15 AM
+virgin australia,va833,26 aug 2024,14.0,230.0,10:00 AM,10:36 AM
+virgin australia,va833,26 sep 2024,10.0,374.0,10:00 AM,10:36 AM
+virgin australia,va833,27 aug 2024,14.0,230.0,10:00 AM,10:18 AM
+virgin australia,va833,27 sep 2024,10.0,310.0,10:00 AM,10:18 AM
+virgin australia,va833,28 aug 2024,14.0,230.0,10:00 AM,10:18 AM
+virgin australia,va833,28 sep 2024,10.0,670.0,10:00 AM,10:18 AM
+virgin australia,va833,29 aug 2024,14.0,230.0,10:00 AM,10:10 AM
+virgin australia,va833,29 sep 2024,10.0,670.0,10:00 AM,10:10 AM
+virgin australia,va833,3 oct 2024,10.0,223.0,10:00 AM,10:10 AM
+virgin australia,va833,30 aug 2024,14.0,230.0,10:00 AM,10:13 AM
+virgin australia,va833,30 sep 2024,10.0,230.0,10:00 AM,10:13 AM
+virgin australia,va833,31 aug 2024,14.0,230.0,10:00 AM,10:07 AM
+virgin australia,va833,4 oct 2024,10.0,534.0,10:00 AM,10:07 AM
+virgin australia,va833,5 oct 2024,10.0,197.0,10:00 AM,10:07 AM
+virgin australia,va833,6 oct 2024,10.0,893.0,10:00 AM,10:07 AM
+virgin australia,va841,02 aug 2024,14.0,230.0,12:00 PM,12:14 PM
+virgin australia,va841,03 aug 2024,14.0,230.0,12:00 PM,12:14 PM
+virgin australia,va841,04 aug 2024,14.0,230.0,12:00 PM,12:13 PM
+virgin australia,va841,05 aug 2024,14.0,230.0,12:00 PM,12:38 PM
+virgin australia,va841,06 aug 2024,14.0,230.0,12:00 PM,12:36 PM
+virgin australia,va841,07 aug 2024,14.0,230.0,12:00 PM,12:13 PM
+virgin australia,va841,08 aug 2024,14.0,230.0,12:00 PM,12:19 PM
+virgin australia,va841,09 aug 2024,14.0,230.0,12:00 PM,12:19 PM
+virgin australia,va841,1 aug 2024,14.0,230.0,12:00 PM,12:20 PM
+virgin australia,va841,1 oct 2024,12.0,176.0,12:00 PM,12:20 PM
+virgin australia,va841,10 aug 2024,14.0,230.0,12:00 PM,12:20 PM
+virgin australia,va841,11 aug 2024,14.0,230.0,12:00 PM,12:32 PM
+virgin australia,va841,12 aug 2024,14.0,230.0,12:00 PM,12:39 PM
+virgin australia,va841,13 aug 2024,14.0,230.0,12:00 PM,12:07 PM
+virgin australia,va841,14 aug 2024,14.0,230.0,12:00 PM,12:15 PM
+virgin australia,va841,15 aug 2024,14.0,230.0,12:00 PM,12:19 PM
+virgin australia,va841,16 aug 2024,14.0,230.0,12:00 PM,12:53 PM
+virgin australia,va841,17 aug 2024,14.0,230.0,12:00 PM,12:53 PM
+virgin australia,va841,18 aug 2024,14.0,230.0,12:00 PM,12:20 PM
+virgin australia,va841,19 aug 2024,14.0,230.0,12:00 PM,12:38 PM
+virgin australia,va841,2 oct 2024,12.0,209.0,12:00 PM,12:38 PM
+virgin australia,va841,20 aug 2024,14.0,230.0,12:00 PM,12:18 PM
+virgin australia,va841,21 aug 2024,14.0,230.0,12:00 PM,12:16 PM
+virgin australia,va841,22 aug 2024,14.0,230.0,12:00 PM,12:23 PM
+virgin australia,va841,22 sep 2024,12.0,782.0,12:00 PM,12:23 PM
+virgin australia,va841,23 aug 2024,14.0,230.0,12:00 PM,12:19 PM
+virgin australia,va841,23 sep 2024,12.0,381.0,12:00 PM,12:19 PM
+virgin australia,va841,24 aug 2024,14.0,230.0,12:00 PM,12:19 PM
+virgin australia,va841,24 sep 2024,12.0,310.0,12:00 PM,12:19 PM
+virgin australia,va841,25 aug 2024,14.0,230.0,12:00 PM,12:51 PM
+virgin australia,va841,25 sep 2024,12.0,271.0,12:00 PM,12:51 PM
+virgin australia,va841,26 aug 2024,14.0,230.0,12:00 PM,12:17 PM
+virgin australia,va841,26 sep 2024,12.0,534.0,12:00 PM,12:17 PM
+virgin australia,va841,27 aug 2024,14.0,230.0,12:00 PM,12:16 PM
+virgin australia,va841,27 sep 2024,12.0,310.0,12:00 PM,12:16 PM
+virgin australia,va841,28 aug 2024,14.0,230.0,12:00 PM,12:24 PM
+virgin australia,va841,28 sep 2024,12.0,230.0,12:00 PM,12:24 PM
+virgin australia,va841,29 aug 2024,14.0,230.0,12:00 PM,12:28 PM
+virgin australia,va841,29 sep 2024,12.0,601.0,12:00 PM,12:28 PM
+virgin australia,va841,3 oct 2024,12.0,209.0,12:00 PM,12:28 PM
+virgin australia,va841,30 aug 2024,14.0,230.0,12:00 PM,12:23 PM
+virgin australia,va841,30 sep 2024,12.0,223.0,12:00 PM,12:23 PM
+virgin australia,va841,31 aug 2024,14.0,230.0,12:00 PM,12:23 PM
+virgin australia,va841,4 oct 2024,12.0,317.0,12:00 PM,12:23 PM
+virgin australia,va841,5 oct 2024,12.0,230.0,12:00 PM,12:23 PM
+virgin australia,va841,6 oct 2024,12.0,374.0,12:00 PM,12:23 PM
+virgin australia,va849,02 aug 2024,14.0,230.0,2:00 PM,2:11 PM
+virgin australia,va849,03 aug 2024,14.0,230.0,2:00 PM,2:10 PM
+virgin australia,va849,04 aug 2024,14.0,230.0,2:00 PM,2:15 PM
+virgin australia,va849,05 aug 2024,14.0,230.0,2:00 PM,2:15 PM
+virgin australia,va849,06 aug 2024,14.0,230.0,2:00 PM,2:09 PM
+virgin australia,va849,07 aug 2024,14.0,230.0,2:00 PM,2:31 PM
+virgin australia,va849,08 aug 2024,14.0,230.0,2:00 PM,2:08 PM
+virgin australia,va849,09 aug 2024,14.0,230.0,2:00 PM,2:14 PM
+virgin australia,va849,1 aug 2024,14.0,230.0,2:00 PM,2:52 PM
+virgin australia,va849,1 oct 2024,14.0,197.0,2:00 PM,2:52 PM
+virgin australia,va849,10 aug 2024,14.0,230.0,2:00 PM,2:06 PM
+virgin australia,va849,11 aug 2024,14.0,230.0,2:00 PM,2:19 PM
+virgin australia,va849,12 aug 2024,14.0,230.0,2:00 PM,2:15 PM
+virgin australia,va849,13 aug 2024,14.0,230.0,2:00 PM,2:12 PM
+virgin australia,va849,14 aug 2024,14.0,230.0,2:00 PM,2:41 PM
+virgin australia,va849,15 aug 2024,14.0,230.0,2:00 PM,2:36 PM
+virgin australia,va849,16 aug 2024,14.0,230.0,2:00 PM,2:32 PM
+virgin australia,va849,17 aug 2024,14.0,230.0,2:00 PM,2:09 PM
+virgin australia,va849,18 aug 2024,14.0,230.0,2:00 PM,2:16 PM
+virgin australia,va849,19 aug 2024,14.0,230.0,2:00 PM,2:16 PM
+virgin australia,va849,2 oct 2024,14.0,149.0,2:00 PM,2:16 PM
+virgin australia,va849,20 aug 2024,14.0,230.0,2:00 PM,2:06 PM
+virgin australia,va849,21 aug 2024,14.0,230.0,2:00 PM,2:07 PM
+virgin australia,va849,22 aug 2024,14.0,230.0,2:00 PM,2:14 PM
+virgin australia,va849,22 sep 2024,14.0,230.0,2:00 PM,2:14 PM
+virgin australia,va849,23 aug 2024,14.0,230.0,2:00 PM,2:08 PM
+virgin australia,va849,23 sep 2024,14.0,381.0,2:00 PM,2:08 PM
+virgin australia,va849,24 aug 2024,14.0,230.0,2:00 PM,2:24 PM
+virgin australia,va849,24 sep 2024,14.0,374.0,2:00 PM,2:24 PM
+virgin australia,va849,25 aug 2024,14.0,230.0,2:00 PM,2:18 PM
+virgin australia,va849,25 sep 2024,14.0,223.0,2:00 PM,2:18 PM
+virgin australia,va849,26 aug 2024,14.0,230.0,2:00 PM,2:30 PM
+virgin australia,va849,26 sep 2024,14.0,374.0,2:00 PM,2:30 PM
+virgin australia,va849,27 aug 2024,14.0,230.0,2:00 PM,2:20 PM
+virgin australia,va849,27 sep 2024,14.0,264.0,2:00 PM,2:20 PM
+virgin australia,va849,28 aug 2024,14.0,230.0,2:00 PM,2:10 PM
+virgin australia,va849,28 sep 2024,14.0,223.0,2:00 PM,2:10 PM
+virgin australia,va849,29 aug 2024,14.0,230.0,2:00 PM,2:08 PM
+virgin australia,va849,29 sep 2024,14.0,601.0,2:00 PM,2:08 PM
+virgin australia,va849,3 oct 2024,14.0,209.0,2:00 PM,2:08 PM
+virgin australia,va849,30 aug 2024,14.0,230.0,2:00 PM,2:08 PM
+virgin australia,va849,30 sep 2024,14.0,223.0,2:00 PM,2:08 PM
+virgin australia,va849,31 aug 2024,14.0,230.0,2:00 PM,2:09 PM
+virgin australia,va849,4 oct 2024,14.0,310.0,2:00 PM,2:09 PM
+virgin australia,va849,5 oct 2024,14.0,230.0,2:00 PM,2:09 PM
+virgin australia,va849,6 oct 2024,14.0,197.0,2:00 PM,2:09 PM
+virgin australia,va853,02 aug 2024,14.0,230.0,3:00 PM,3:06 PM
+virgin australia,va853,03 aug 2024,14.0,230.0,3:00 PM,3:06 PM
+virgin australia,va853,04 aug 2024,14.0,230.0,3:00 PM,3:06 PM
+virgin australia,va853,05 aug 2024,14.0,230.0,3:00 PM,3:13 PM
+virgin australia,va853,06 aug 2024,14.0,230.0,3:00 PM,3:30 PM
+virgin australia,va853,07 aug 2024,14.0,230.0,3:00 PM,3:27 PM
+virgin australia,va853,08 aug 2024,14.0,230.0,3:00 PM,3:18 PM
+virgin australia,va853,09 aug 2024,14.0,230.0,3:00 PM,3:29 PM
+virgin australia,va853,1 aug 2024,14.0,230.0,3:00 PM,3:11 PM
+virgin australia,va853,1 oct 2024,15.0,197.0,3:00 PM,3:11 PM
+virgin australia,va853,10 aug 2024,14.0,230.0,3:00 PM,3:11 PM
+virgin australia,va853,11 aug 2024,14.0,230.0,3:00 PM,3:05 PM
+virgin australia,va853,12 aug 2024,14.0,230.0,3:00 PM,3:27 PM
+virgin australia,va853,13 aug 2024,14.0,230.0,3:00 PM,3:19 PM
+virgin australia,va853,14 aug 2024,14.0,230.0,3:00 PM,3:11 PM
+virgin australia,va853,15 aug 2024,14.0,230.0,3:00 PM,3:14 PM
+virgin australia,va853,16 aug 2024,14.0,230.0,3:00 PM,3:05 PM
+virgin australia,va853,17 aug 2024,14.0,230.0,3:00 PM,3:05 PM
+virgin australia,va853,18 aug 2024,14.0,230.0,3:00 PM,3:25 PM
+virgin australia,va853,19 aug 2024,14.0,230.0,3:00 PM,3:44 PM
+virgin australia,va853,2 oct 2024,15.0,230.0,3:00 PM,3:44 PM
+virgin australia,va853,20 aug 2024,14.0,230.0,3:00 PM,3:22 PM
+virgin australia,va853,21 aug 2024,14.0,230.0,3:00 PM,3:05 PM
+virgin australia,va853,22 aug 2024,14.0,230.0,3:00 PM,3:15 PM
+virgin australia,va853,22 sep 2024,15.0,534.0,3:00 PM,3:15 PM
+virgin australia,va853,23 aug 2024,14.0,230.0,3:00 PM,3:23 PM
+virgin australia,va853,23 sep 2024,15.0,374.0,3:00 PM,3:23 PM
+virgin australia,va853,24 aug 2024,14.0,230.0,3:00 PM,3:23 PM
+virgin australia,va853,24 sep 2024,15.0,601.0,3:00 PM,3:23 PM
+virgin australia,va853,25 aug 2024,14.0,230.0,3:00 PM,3:33 PM
+virgin australia,va853,25 sep 2024,15.0,230.0,3:00 PM,3:33 PM
+virgin australia,va853,26 aug 2024,14.0,230.0,3:00 PM,3:22 PM
+virgin australia,va853,26 sep 2024,15.0,315.0,3:00 PM,3:22 PM
+virgin australia,va853,27 aug 2024,14.0,230.0,3:00 PM,3:25 PM
+virgin australia,va853,27 sep 2024,15.0,212.0,3:00 PM,3:25 PM
+virgin australia,va853,28 aug 2024,14.0,230.0,3:00 PM,3:45 PM
+virgin australia,va853,28 sep 2024,15.0,230.0,3:00 PM,3:45 PM
+virgin australia,va853,29 aug 2024,14.0,230.0,3:00 PM,3:32 PM
+virgin australia,va853,29 sep 2024,15.0,670.0,3:00 PM,3:32 PM
+virgin australia,va853,3 oct 2024,15.0,176.0,3:00 PM,3:32 PM
+virgin australia,va853,30 aug 2024,14.0,230.0,3:00 PM,3:31 PM
+virgin australia,va853,30 sep 2024,15.0,209.0,3:00 PM,3:31 PM
+virgin australia,va853,31 aug 2024,14.0,230.0,3:00 PM,3:31 PM
+virgin australia,va853,4 oct 2024,15.0,264.0,3:00 PM,3:31 PM
+virgin australia,va853,5 oct 2024,15.0,230.0,3:00 PM,3:31 PM
+virgin australia,va853,6 oct 2024,15.0,223.0,3:00 PM,3:31 PM
+virgin australia,va859,02 aug 2024,14.0,230.0,4:00 PM,4:33 PM
+virgin australia,va859,03 aug 2024,14.0,230.0,4:00 PM,4:15 PM
+virgin australia,va859,04 aug 2024,14.0,230.0,4:00 PM,4:48 PM
+virgin australia,va859,05 aug 2024,14.0,230.0,4:00 PM,4:47 PM
+virgin australia,va859,06 aug 2024,14.0,230.0,4:00 PM,4:43 PM
+virgin australia,va859,07 aug 2024,14.0,230.0,4:00 PM,4:34 PM
+virgin australia,va859,08 aug 2024,14.0,230.0,4:00 PM,5:09 PM
+virgin australia,va859,09 aug 2024,14.0,230.0,4:00 PM,4:21 PM
+virgin australia,va859,1 aug 2024,14.0,230.0,4:00 PM,4:50 PM
+virgin australia,va859,1 oct 2024,16.0,176.0,4:00 PM,4:50 PM
+virgin australia,va859,10 aug 2024,14.0,230.0,4:00 PM,4:10 PM
+virgin australia,va859,11 aug 2024,14.0,230.0,4:00 PM,4:08 PM
+virgin australia,va859,12 aug 2024,14.0,230.0,4:00 PM,4:36 PM
+virgin australia,va859,13 aug 2024,14.0,230.0,4:00 PM,4:23 PM
+virgin australia,va859,14 aug 2024,14.0,230.0,4:00 PM,4:33 PM
+virgin australia,va859,15 aug 2024,14.0,230.0,4:00 PM,5:01 PM
+virgin australia,va859,16 aug 2024,14.0,230.0,4:00 PM,4:58 PM
+virgin australia,va859,17 aug 2024,14.0,230.0,4:00 PM,4:45 PM
+virgin australia,va859,18 aug 2024,14.0,230.0,4:00 PM,4:46 PM
+virgin australia,va859,19 aug 2024,14.0,230.0,4:00 PM,4:18 PM
+virgin australia,va859,2 oct 2024,16.0,149.0,4:00 PM,4:18 PM
+virgin australia,va859,20 aug 2024,14.0,230.0,4:00 PM,4:39 PM
+virgin australia,va859,21 aug 2024,14.0,230.0,4:00 PM,4:27 PM
+virgin australia,va859,22 aug 2024,14.0,230.0,4:00 PM,4:24 PM
+virgin australia,va859,22 sep 2024,16.0,893.0,4:00 PM,4:24 PM
+virgin australia,va859,23 aug 2024,14.0,230.0,4:00 PM,4:08 PM
+virgin australia,va859,23 sep 2024,16.0,264.0,4:00 PM,4:08 PM
+virgin australia,va859,24 aug 2024,14.0,230.0,4:00 PM,4:10 PM
+virgin australia,va859,24 sep 2024,16.0,474.0,4:00 PM,4:10 PM
+virgin australia,va859,25 aug 2024,14.0,230.0,4:00 PM,4:56 PM
+virgin australia,va859,25 sep 2024,16.0,176.0,4:00 PM,4:56 PM
+virgin australia,va859,26 aug 2024,14.0,230.0,4:00 PM,4:13 PM
+virgin australia,va859,26 sep 2024,16.0,374.0,4:00 PM,4:13 PM
+virgin australia,va859,27 aug 2024,14.0,230.0,4:00 PM,4:40 PM
+virgin australia,va859,27 sep 2024,16.0,149.0,4:00 PM,4:40 PM
+virgin australia,va859,28 aug 2024,14.0,230.0,4:00 PM,4:40 PM
+virgin australia,va859,28 sep 2024,16.0,197.0,4:00 PM,4:40 PM
+virgin australia,va859,29 aug 2024,14.0,230.0,4:00 PM,4:16 PM
+virgin australia,va859,29 sep 2024,16.0,601.0,4:00 PM,4:16 PM
+virgin australia,va859,3 oct 2024,16.0,149.0,4:00 PM,4:16 PM
+virgin australia,va859,30 aug 2024,14.0,230.0,4:00 PM,4:15 PM
+virgin australia,va859,30 sep 2024,16.0,209.0,4:00 PM,4:15 PM
+virgin australia,va859,31 aug 2024,14.0,230.0,4:00 PM,4:11 PM
+virgin australia,va859,4 oct 2024,16.0,474.0,4:00 PM,4:11 PM
+virgin australia,va859,5 oct 2024,16.0,223.0,4:00 PM,4:11 PM
+virgin australia,va859,6 oct 2024,16.0,209.0,4:00 PM,4:11 PM
+virgin australia,va863,02 aug 2024,14.0,230.0,4:30 PM,5:13 PM
+virgin australia,va863,03 aug 2024,14.0,230.0,4:30 PM,5:13 PM
+virgin australia,va863,04 aug 2024,14.0,230.0,4:30 PM,4:53 PM
+virgin australia,va863,05 aug 2024,14.0,230.0,4:30 PM,4:43 PM
+virgin australia,va863,06 aug 2024,14.0,230.0,4:30 PM,4:38 PM
+virgin australia,va863,07 aug 2024,14.0,230.0,4:30 PM,4:48 PM
+virgin australia,va863,08 aug 2024,14.0,230.0,4:30 PM,4:45 PM
+virgin australia,va863,09 aug 2024,14.0,230.0,4:30 PM,5:15 PM
+virgin australia,va863,1 aug 2024,14.0,230.0,4:30 PM,5:11 PM
+virgin australia,va863,1 oct 2024,16.0,139.0,4:30 PM,5:11 PM
+virgin australia,va863,10 aug 2024,14.0,230.0,4:30 PM,5:11 PM
+virgin australia,va863,11 aug 2024,14.0,230.0,4:30 PM,4:42 PM
+virgin australia,va863,12 aug 2024,14.0,230.0,4:30 PM,4:41 PM
+virgin australia,va863,13 aug 2024,14.0,230.0,4:30 PM,4:40 PM
+virgin australia,va863,14 aug 2024,14.0,230.0,4:30 PM,4:45 PM
+virgin australia,va863,15 aug 2024,14.0,230.0,4:30 PM,4:56 PM
+virgin australia,va863,16 aug 2024,14.0,230.0,4:30 PM,4:49 PM
+virgin australia,va863,17 aug 2024,14.0,230.0,4:30 PM,4:49 PM
+virgin australia,va863,18 aug 2024,14.0,230.0,4:30 PM,5:08 PM
+virgin australia,va863,19 aug 2024,14.0,230.0,4:30 PM,4:50 PM
+virgin australia,va863,2 oct 2024,16.0,149.0,4:30 PM,4:50 PM
+virgin australia,va863,20 aug 2024,14.0,230.0,4:30 PM,4:49 PM
+virgin australia,va863,21 aug 2024,14.0,230.0,4:30 PM,4:44 PM
+virgin australia,va863,22 aug 2024,14.0,230.0,4:30 PM,4:37 PM
+virgin australia,va863,22 sep 2024,16.0,893.0,4:30 PM,4:37 PM
+virgin australia,va863,23 aug 2024,14.0,230.0,4:30 PM,4:51 PM
+virgin australia,va863,23 sep 2024,16.0,310.0,4:30 PM,4:51 PM
+virgin australia,va863,24 aug 2024,14.0,230.0,4:30 PM,4:51 PM
+virgin australia,va863,24 sep 2024,16.0,474.0,4:30 PM,4:51 PM
+virgin australia,va863,25 aug 2024,14.0,230.0,4:30 PM,5:09 PM
+virgin australia,va863,25 sep 2024,16.0,176.0,4:30 PM,5:09 PM
+virgin australia,va863,26 aug 2024,14.0,230.0,4:30 PM,5:09 PM
+virgin australia,va863,26 sep 2024,16.0,310.0,4:30 PM,5:09 PM
+virgin australia,va863,27 aug 2024,14.0,230.0,4:30 PM,4:51 PM
+virgin australia,va863,27 sep 2024,16.0,139.0,4:30 PM,4:51 PM
+virgin australia,va863,28 aug 2024,14.0,230.0,4:30 PM,5:08 PM
+virgin australia,va863,28 sep 2024,16.0,230.0,4:30 PM,5:08 PM
+virgin australia,va863,29 aug 2024,14.0,230.0,4:30 PM,4:50 PM
+virgin australia,va863,29 sep 2024,16.0,534.0,4:30 PM,4:50 PM
+virgin australia,va863,3 oct 2024,16.0,149.0,4:30 PM,4:50 PM
+virgin australia,va863,30 aug 2024,14.0,230.0,4:30 PM,4:45 PM
+virgin australia,va863,30 sep 2024,16.0,209.0,4:30 PM,4:45 PM
+virgin australia,va863,31 aug 2024,14.0,230.0,4:30 PM,4:45 PM
+virgin australia,va863,4 oct 2024,16.0,264.0,4:30 PM,4:45 PM
+virgin australia,va863,5 oct 2024,16.0,230.0,4:30 PM,4:45 PM
+virgin australia,va863,6 oct 2024,16.0,209.0,4:30 PM,4:45 PM
+virgin australia,va867,02 aug 2024,14.0,230.0,5:00 PM,5:51 PM
+virgin australia,va867,03 aug 2024,14.0,230.0,5:00 PM,5:51 PM
+virgin australia,va867,04 aug 2024,14.0,230.0,5:00 PM,5:28 PM
+virgin australia,va867,05 aug 2024,14.0,230.0,5:00 PM,5:13 PM
+virgin australia,va867,06 aug 2024,14.0,230.0,5:00 PM,5:29 PM
+virgin australia,va867,07 aug 2024,14.0,230.0,5:00 PM,5:12 PM
+virgin australia,va867,08 aug 2024,14.0,230.0,5:00 PM,5:56 PM
+virgin australia,va867,09 aug 2024,14.0,230.0,5:00 PM,5:54 PM
+virgin australia,va867,1 aug 2024,14.0,230.0,5:00 PM,5:15 PM
+virgin australia,va867,1 oct 2024,17.0,139.0,5:00 PM,5:15 PM
+virgin australia,va867,10 aug 2024,14.0,230.0,5:00 PM,5:15 PM
+virgin australia,va867,11 aug 2024,14.0,230.0,5:00 PM,5:18 PM
+virgin australia,va867,12 aug 2024,14.0,230.0,5:00 PM,5:08 PM
+virgin australia,va867,13 aug 2024,14.0,230.0,5:00 PM,5:06 PM
+virgin australia,va867,14 aug 2024,14.0,230.0,5:00 PM,5:18 PM
+virgin australia,va867,15 aug 2024,14.0,230.0,5:00 PM,5:18 PM
+virgin australia,va867,16 aug 2024,14.0,230.0,5:00 PM,8:15 PM
+virgin australia,va867,17 aug 2024,14.0,230.0,5:00 PM,8:15 PM
+virgin australia,va867,18 aug 2024,14.0,230.0,5:00 PM,5:19 PM
+virgin australia,va867,19 aug 2024,14.0,230.0,5:00 PM,5:27 PM
+virgin australia,va867,2 oct 2024,17.0,149.0,5:00 PM,5:27 PM
+virgin australia,va867,20 aug 2024,14.0,230.0,5:00 PM,5:07 PM
+virgin australia,va867,21 aug 2024,14.0,230.0,5:00 PM,5:10 PM
+virgin australia,va867,22 aug 2024,14.0,230.0,5:00 PM,5:11 PM
+virgin australia,va867,22 sep 2024,17.0,534.0,5:00 PM,5:11 PM
+virgin australia,va867,23 aug 2024,14.0,230.0,5:00 PM,5:25 PM
+virgin australia,va867,23 sep 2024,17.0,381.0,5:00 PM,5:25 PM
+virgin australia,va867,24 aug 2024,14.0,230.0,5:00 PM,5:25 PM
+virgin australia,va867,24 sep 2024,17.0,481.0,5:00 PM,5:25 PM
+virgin australia,va867,25 aug 2024,14.0,230.0,5:00 PM,6:31 PM
+virgin australia,va867,25 sep 2024,17.0,204.0,5:00 PM,6:31 PM
+virgin australia,va867,26 aug 2024,14.0,230.0,5:00 PM,5:32 PM
+virgin australia,va867,26 sep 2024,17.0,310.0,5:00 PM,5:32 PM
+virgin australia,va867,27 aug 2024,14.0,230.0,5:00 PM,5:11 PM
+virgin australia,va867,27 sep 2024,17.0,139.0,5:00 PM,5:11 PM
+virgin australia,va867,28 aug 2024,14.0,230.0,5:00 PM,6:24 PM
+virgin australia,va867,28 sep 2024,17.0,230.0,5:00 PM,6:24 PM
+virgin australia,va867,29 aug 2024,14.0,230.0,5:00 PM,5:50 PM
+virgin australia,va867,29 sep 2024,17.0,534.0,5:00 PM,5:50 PM
+virgin australia,va867,3 oct 2024,17.0,149.0,5:00 PM,5:50 PM
+virgin australia,va867,30 aug 2024,14.0,230.0,5:00 PM,5:36 PM
+virgin australia,va867,30 sep 2024,17.0,176.0,5:00 PM,5:36 PM
+virgin australia,va867,31 aug 2024,14.0,230.0,5:00 PM,5:36 PM
+virgin australia,va867,4 oct 2024,17.0,223.0,5:00 PM,5:36 PM
+virgin australia,va867,5 oct 2024,17.0,230.0,5:00 PM,5:36 PM
+virgin australia,va867,6 oct 2024,17.0,209.0,5:00 PM,5:36 PM
+virgin australia,va869,02 aug 2024,14.0,230.0,5:15 PM,5:47 PM
+virgin australia,va869,03 aug 2024,14.0,230.0,5:15 PM,5:47 PM
+virgin australia,va869,04 aug 2024,14.0,230.0,5:10 PM,5:19 PM
+virgin australia,va869,05 aug 2024,14.0,230.0,5:10 PM,5:21 PM
+virgin australia,va869,06 aug 2024,14.0,230.0,5:10 PM,5:27 PM
+virgin australia,va869,07 aug 2024,14.0,230.0,5:10 PM,5:49 PM
+virgin australia,va869,08 aug 2024,14.0,230.0,5:15 PM,5:46 PM
+virgin australia,va869,09 aug 2024,14.0,230.0,5:15 PM,5:43 PM
+virgin australia,va869,1 aug 2024,14.0,230.0,5:15 PM,5:51 PM
+virgin australia,va869,1 oct 2024,17.0,119.0,5:15 PM,5:51 PM
+virgin australia,va869,10 aug 2024,14.0,230.0,5:15 PM,5:51 PM
+virgin australia,va869,11 aug 2024,14.0,230.0,5:10 PM,5:56 PM
+virgin australia,va869,12 aug 2024,14.0,230.0,5:10 PM,5:30 PM
+virgin australia,va869,13 aug 2024,14.0,230.0,5:10 PM,5:15 PM
+virgin australia,va869,14 aug 2024,14.0,230.0,5:10 PM,5:38 PM
+virgin australia,va869,15 aug 2024,14.0,230.0,5:15 PM,5:55 PM
+virgin australia,va869,16 aug 2024,14.0,230.0,5:15 PM,5:40 PM
+virgin australia,va869,17 aug 2024,14.0,230.0,5:15 PM,5:40 PM
+virgin australia,va869,18 aug 2024,14.0,230.0,5:10 PM,5:26 PM
+virgin australia,va869,19 aug 2024,14.0,230.0,5:10 PM,5:20 PM
+virgin australia,va869,2 oct 2024,17.0,149.0,5:10 PM,5:20 PM
+virgin australia,va869,20 aug 2024,14.0,230.0,5:10 PM,5:33 PM
+virgin australia,va869,21 aug 2024,14.0,230.0,5:10 PM,5:51 PM
+virgin australia,va869,22 aug 2024,14.0,230.0,5:15 PM,5:30 PM
+virgin australia,va869,22 sep 2024,17.0,474.0,5:15 PM,5:30 PM
+virgin australia,va869,23 aug 2024,14.0,230.0,5:15 PM,5:23 PM
+virgin australia,va869,23 sep 2024,17.0,380.0,5:15 PM,5:23 PM
+virgin australia,va869,24 aug 2024,14.0,230.0,5:15 PM,5:23 PM
+virgin australia,va869,24 sep 2024,17.0,481.0,5:15 PM,5:23 PM
+virgin australia,va869,25 aug 2024,14.0,230.0,5:15 PM,5:23 PM
+virgin australia,va869,25 sep 2024,17.0,204.0,5:15 PM,5:23 PM
+virgin australia,va869,26 aug 2024,14.0,230.0,5:10 PM,7:58 PM
+virgin australia,va869,26 sep 2024,17.0,310.0,5:10 PM,7:58 PM
+virgin australia,va869,27 aug 2024,14.0,230.0,5:10 PM,5:47 PM
+virgin australia,va869,27 sep 2024,17.0,139.0,5:10 PM,5:47 PM
+virgin australia,va869,28 aug 2024,14.0,230.0,5:10 PM,6:45 PM
+virgin australia,va869,28 sep 2024,17.0,230.0,5:10 PM,6:45 PM
+virgin australia,va869,29 aug 2024,14.0,230.0,5:15 PM,5:41 PM
+virgin australia,va869,29 sep 2024,17.0,481.0,5:15 PM,5:41 PM
+virgin australia,va869,3 oct 2024,17.0,149.0,5:15 PM,5:41 PM
+virgin australia,va869,30 aug 2024,14.0,230.0,5:15 PM,6:04 PM
+virgin australia,va869,30 sep 2024,17.0,176.0,5:15 PM,6:04 PM
+virgin australia,va869,31 aug 2024,14.0,230.0,5:15 PM,6:04 PM
+virgin australia,va869,4 oct 2024,17.0,223.0,5:15 PM,6:04 PM
+virgin australia,va869,5 oct 2024,17.0,230.0,5:15 PM,6:04 PM
+virgin australia,va869,6 oct 2024,17.0,209.0,5:15 PM,6:04 PM
+virgin australia,va871,02 aug 2024,14.0,230.0,5:30 PM,6:04 PM
+virgin australia,va871,03 aug 2024,14.0,230.0,5:30 PM,6:04 PM
+virgin australia,va871,04 aug 2024,14.0,230.0,5:30 PM,5:32 PM
+virgin australia,va871,05 aug 2024,14.0,230.0,5:30 PM,5:47 PM
+virgin australia,va871,06 aug 2024,14.0,230.0,5:30 PM,5:59 PM
+virgin australia,va871,07 aug 2024,14.0,230.0,5:30 PM,6:56 PM
+virgin australia,va871,08 aug 2024,14.0,230.0,5:30 PM,6:08 PM
+virgin australia,va871,09 aug 2024,14.0,230.0,5:30 PM,5:53 PM
+virgin australia,va871,1 aug 2024,14.0,230.0,5:30 PM,5:47 PM
+virgin australia,va871,1 oct 2024,17.0,119.0,5:30 PM,5:47 PM
+virgin australia,va871,10 aug 2024,14.0,230.0,5:30 PM,5:47 PM
+virgin australia,va871,11 aug 2024,14.0,230.0,5:30 PM,5:48 PM
+virgin australia,va871,12 aug 2024,14.0,230.0,5:30 PM,5:46 PM
+virgin australia,va871,13 aug 2024,14.0,230.0,5:30 PM,5:37 PM
+virgin australia,va871,14 aug 2024,14.0,230.0,5:30 PM,5:44 PM
+virgin australia,va871,15 aug 2024,14.0,230.0,5:30 PM,6:01 PM
+virgin australia,va871,16 aug 2024,14.0,230.0,5:30 PM,8:37 PM
+virgin australia,va871,17 aug 2024,14.0,230.0,5:30 PM,8:37 PM
+virgin australia,va871,18 aug 2024,14.0,230.0,5:30 PM,5:49 PM
+virgin australia,va871,19 aug 2024,14.0,230.0,5:30 PM,6:19 PM
+virgin australia,va871,2 oct 2024,17.0,149.0,5:30 PM,6:19 PM
+virgin australia,va871,20 aug 2024,14.0,230.0,5:30 PM,8:25 PM
+virgin australia,va871,21 aug 2024,14.0,230.0,5:30 PM,5:41 PM
+virgin australia,va871,22 aug 2024,14.0,230.0,5:30 PM,5:42 PM
+virgin australia,va871,22 sep 2024,17.0,474.0,5:30 PM,5:42 PM
+virgin australia,va871,23 aug 2024,14.0,230.0,5:30 PM,5:57 PM
+virgin australia,va871,23 sep 2024,17.0,310.0,5:30 PM,5:57 PM
+virgin australia,va871,24 aug 2024,14.0,230.0,5:30 PM,5:57 PM
+virgin australia,va871,24 sep 2024,17.0,481.0,5:30 PM,5:57 PM
+virgin australia,va871,25 aug 2024,14.0,230.0,5:30 PM,6:33 PM
+virgin australia,va871,25 sep 2024,17.0,271.0,5:30 PM,6:33 PM
+virgin australia,va871,26 aug 2024,14.0,230.0,5:30 PM,6:14 PM
+virgin australia,va871,26 sep 2024,17.0,315.0,5:30 PM,6:14 PM
+virgin australia,va871,27 aug 2024,14.0,230.0,5:30 PM,5:53 PM
+virgin australia,va871,27 sep 2024,17.0,139.0,5:30 PM,5:53 PM
+virgin australia,va871,28 aug 2024,14.0,230.0,5:30 PM,7:15 PM
+virgin australia,va871,28 sep 2024,17.0,230.0,5:30 PM,7:15 PM
+virgin australia,va871,29 aug 2024,14.0,230.0,5:30 PM,5:54 PM
+virgin australia,va871,29 sep 2024,17.0,481.0,5:30 PM,5:54 PM
+virgin australia,va871,3 oct 2024,17.0,149.0,5:30 PM,5:54 PM
+virgin australia,va871,30 aug 2024,14.0,230.0,5:30 PM,5:54 PM
+virgin australia,va871,30 sep 2024,17.0,197.0,5:30 PM,5:54 PM
+virgin australia,va871,31 aug 2024,14.0,230.0,5:30 PM,5:54 PM
+virgin australia,va871,4 oct 2024,17.0,310.0,5:30 PM,5:54 PM
+virgin australia,va871,5 oct 2024,17.0,230.0,5:30 PM,5:54 PM
+virgin australia,va871,6 oct 2024,17.0,209.0,5:30 PM,5:54 PM
+virgin australia,va875,02 aug 2024,14.0,230.0,6:00 PM,6:09 PM
+virgin australia,va875,03 aug 2024,14.0,230.0,6:00 PM,6:02 PM
+virgin australia,va875,04 aug 2024,14.0,230.0,6:00 PM,6:15 PM
+virgin australia,va875,05 aug 2024,14.0,230.0,6:00 PM,6:09 PM
+virgin australia,va875,06 aug 2024,14.0,230.0,6:00 PM,6:09 PM
+virgin australia,va875,07 aug 2024,14.0,230.0,6:00 PM,6:29 PM
+virgin australia,va875,08 aug 2024,14.0,230.0,6:00 PM,6:14 PM
+virgin australia,va875,09 aug 2024,14.0,230.0,6:00 PM,6:16 PM
+virgin australia,va875,1 aug 2024,14.0,230.0,6:00 PM,6:34 PM
+virgin australia,va875,1 oct 2024,18.0,119.0,6:00 PM,6:34 PM
+virgin australia,va875,10 aug 2024,14.0,230.0,6:00 PM,6:07 PM
+virgin australia,va875,11 aug 2024,14.0,230.0,6:00 PM,6:06 PM
+virgin australia,va875,12 aug 2024,14.0,230.0,6:00 PM,6:54 PM
+virgin australia,va875,13 aug 2024,14.0,230.0,6:00 PM,6:08 PM
+virgin australia,va875,14 aug 2024,14.0,230.0,6:00 PM,6:10 PM
+virgin australia,va875,15 aug 2024,14.0,230.0,6:00 PM,6:29 PM
+virgin australia,va875,16 aug 2024,14.0,230.0,6:00 PM,8:44 PM
+virgin australia,va875,17 aug 2024,14.0,230.0,6:00 PM,6:16 PM
+virgin australia,va875,18 aug 2024,14.0,230.0,6:00 PM,6:48 PM
+virgin australia,va875,19 aug 2024,14.0,230.0,6:00 PM,6:58 PM
+virgin australia,va875,2 oct 2024,18.0,149.0,6:00 PM,6:58 PM
+virgin australia,va875,20 aug 2024,14.0,230.0,6:00 PM,6:02 PM
+virgin australia,va875,21 aug 2024,14.0,230.0,6:00 PM,6:11 PM
+virgin australia,va875,22 aug 2024,14.0,230.0,6:00 PM,6:30 PM
+virgin australia,va875,22 sep 2024,18.0,381.0,6:00 PM,6:30 PM
+virgin australia,va875,23 aug 2024,14.0,230.0,6:00 PM,6:09 PM
+virgin australia,va875,23 sep 2024,18.0,481.0,6:00 PM,6:09 PM
+virgin australia,va875,24 aug 2024,14.0,230.0,6:00 PM,6:16 PM
+virgin australia,va875,24 sep 2024,18.0,310.0,6:00 PM,6:16 PM
+virgin australia,va875,25 aug 2024,14.0,230.0,6:00 PM,6:59 PM
+virgin australia,va875,25 sep 2024,18.0,481.0,6:00 PM,6:59 PM
+virgin australia,va875,26 aug 2024,14.0,230.0,6:00 PM,6:35 PM
+virgin australia,va875,26 sep 2024,18.0,474.0,6:00 PM,6:35 PM
+virgin australia,va875,27 aug 2024,14.0,230.0,6:00 PM,6:08 PM
+virgin australia,va875,27 sep 2024,18.0,139.0,6:00 PM,6:08 PM
+virgin australia,va875,28 aug 2024,14.0,230.0,6:00 PM,7:35 PM
+virgin australia,va875,28 sep 2024,18.0,230.0,6:00 PM,7:35 PM
+virgin australia,va875,29 aug 2024,14.0,230.0,6:00 PM,6:07 PM
+virgin australia,va875,29 sep 2024,18.0,374.0,6:00 PM,6:07 PM
+virgin australia,va875,3 oct 2024,18.0,149.0,6:00 PM,6:07 PM
+virgin australia,va875,30 aug 2024,14.0,230.0,6:00 PM,6:40 PM
+virgin australia,va875,30 sep 2024,18.0,176.0,6:00 PM,6:40 PM
+virgin australia,va875,31 aug 2024,14.0,230.0,6:00 PM,6:25 PM
+virgin australia,va875,4 oct 2024,18.0,310.0,6:00 PM,6:25 PM
+virgin australia,va875,5 oct 2024,18.0,209.0,6:00 PM,6:25 PM
+virgin australia,va875,6 oct 2024,18.0,176.0,6:00 PM,6:25 PM
+virgin australia,va879,02 aug 2024,14.0,230.0,6:30 PM,6:39 PM
+virgin australia,va879,03 aug 2024,14.0,230.0,6:30 PM,6:39 PM
+virgin australia,va879,04 aug 2024,14.0,230.0,6:30 PM,6:48 PM
+virgin australia,va879,05 aug 2024,14.0,230.0,6:30 PM,6:40 PM
+virgin australia,va879,06 aug 2024,14.0,230.0,6:30 PM,6:31 PM
+virgin australia,va879,07 aug 2024,14.0,230.0,6:30 PM,6:36 PM
+virgin australia,va879,08 aug 2024,14.0,230.0,6:30 PM,6:52 PM
+virgin australia,va879,09 aug 2024,14.0,230.0,6:30 PM,6:44 PM
+virgin australia,va879,1 aug 2024,14.0,230.0,6:30 PM,6:45 PM
+virgin australia,va879,1 oct 2024,18.0,119.0,6:30 PM,6:45 PM
+virgin australia,va879,10 aug 2024,14.0,230.0,6:30 PM,6:45 PM
+virgin australia,va879,11 aug 2024,14.0,230.0,6:30 PM,6:43 PM
+virgin australia,va879,12 aug 2024,14.0,230.0,6:30 PM,6:42 PM
+virgin australia,va879,13 aug 2024,14.0,230.0,6:30 PM,6:34 PM
+virgin australia,va879,14 aug 2024,14.0,230.0,6:30 PM,6:37 PM
+virgin australia,va879,15 aug 2024,14.0,230.0,6:30 PM,6:47 PM
+virgin australia,va879,16 aug 2024,14.0,230.0,6:30 PM,8:27 PM
+virgin australia,va879,17 aug 2024,14.0,230.0,6:30 PM,8:27 PM
+virgin australia,va879,18 aug 2024,14.0,230.0,6:30 PM,8:27 PM
+virgin australia,va879,19 aug 2024,14.0,230.0,6:30 PM,6:48 PM
+virgin australia,va879,2 oct 2024,18.0,149.0,6:30 PM,6:48 PM
+virgin australia,va879,20 aug 2024,14.0,230.0,6:30 PM,6:34 PM
+virgin australia,va879,21 aug 2024,14.0,230.0,6:30 PM,6:38 PM
+virgin australia,va879,22 aug 2024,14.0,230.0,6:30 PM,6:39 PM
+virgin australia,va879,22 sep 2024,18.0,374.0,6:30 PM,6:39 PM
+virgin australia,va879,23 aug 2024,14.0,230.0,6:30 PM,6:40 PM
+virgin australia,va879,23 sep 2024,18.0,310.0,6:30 PM,6:40 PM
+virgin australia,va879,24 aug 2024,14.0,230.0,6:30 PM,6:40 PM
+virgin australia,va879,24 sep 2024,18.0,670.0,6:30 PM,6:40 PM
+virgin australia,va879,25 aug 2024,14.0,230.0,6:30 PM,7:16 PM
+virgin australia,va879,25 sep 2024,18.0,271.0,6:30 PM,7:16 PM
+virgin australia,va879,26 aug 2024,14.0,230.0,6:30 PM,7:06 PM
+virgin australia,va879,26 sep 2024,18.0,380.0,6:30 PM,7:06 PM
+virgin australia,va879,27 aug 2024,14.0,230.0,6:30 PM,6:46 PM
+virgin australia,va879,27 sep 2024,18.0,119.0,6:30 PM,6:46 PM
+virgin australia,va879,28 aug 2024,14.0,230.0,6:30 PM,8:16 PM
+virgin australia,va879,28 sep 2024,18.0,230.0,6:30 PM,8:16 PM
+virgin australia,va879,29 aug 2024,14.0,230.0,6:30 PM,6:57 PM
+virgin australia,va879,29 sep 2024,18.0,374.0,6:30 PM,6:57 PM
+virgin australia,va879,3 oct 2024,18.0,149.0,6:30 PM,6:57 PM
+virgin australia,va879,30 aug 2024,14.0,230.0,6:30 PM,6:50 PM
+virgin australia,va879,30 sep 2024,18.0,176.0,6:30 PM,6:50 PM
+virgin australia,va879,31 aug 2024,14.0,230.0,6:30 PM,6:50 PM
+virgin australia,va879,4 oct 2024,18.0,223.0,6:30 PM,6:50 PM
+virgin australia,va879,5 oct 2024,18.0,230.0,6:30 PM,6:50 PM
+virgin australia,va879,6 oct 2024,18.0,149.0,6:30 PM,6:50 PM
+virgin australia,va883,02 aug 2024,14.0,230.0,7:00 PM,8:12 PM
+virgin australia,va883,03 aug 2024,14.0,230.0,7:00 PM,8:12 PM
+virgin australia,va883,04 aug 2024,14.0,230.0,7:00 PM,7:22 PM
+virgin australia,va883,05 aug 2024,14.0,230.0,7:00 PM,7:09 PM
+virgin australia,va883,06 aug 2024,14.0,230.0,7:00 PM,7:13 PM
+virgin australia,va883,07 aug 2024,14.0,230.0,7:00 PM,7:13 PM
+virgin australia,va883,08 aug 2024,14.0,230.0,7:00 PM,7:26 PM
+virgin australia,va883,09 aug 2024,14.0,230.0,7:00 PM,7:23 PM
+virgin australia,va883,1 aug 2024,14.0,230.0,7:00 PM,7:47 PM
+virgin australia,va883,1 oct 2024,19.0,119.0,7:00 PM,7:47 PM
+virgin australia,va883,10 aug 2024,14.0,230.0,7:00 PM,7:47 PM
+virgin australia,va883,11 aug 2024,14.0,230.0,7:00 PM,7:14 PM
+virgin australia,va883,12 aug 2024,14.0,230.0,7:00 PM,7:01 PM
+virgin australia,va883,13 aug 2024,14.0,230.0,7:00 PM,7:57 PM
+virgin australia,va883,14 aug 2024,14.0,230.0,7:00 PM,7:17 PM
+virgin australia,va883,15 aug 2024,14.0,230.0,7:00 PM,7:19 PM
+virgin australia,va883,16 aug 2024,14.0,230.0,7:00 PM,7:19 PM
+virgin australia,va883,17 aug 2024,14.0,230.0,7:00 PM,7:19 PM
+virgin australia,va883,18 aug 2024,14.0,230.0,7:00 PM,7:29 PM
+virgin australia,va883,19 aug 2024,14.0,230.0,7:00 PM,7:15 PM
+virgin australia,va883,2 oct 2024,19.0,149.0,7:00 PM,7:15 PM
+virgin australia,va883,20 aug 2024,14.0,230.0,7:00 PM,7:21 PM
+virgin australia,va883,21 aug 2024,14.0,230.0,7:00 PM,7:34 PM
+virgin australia,va883,22 aug 2024,14.0,230.0,7:00 PM,7:34 PM
+virgin australia,va883,22 sep 2024,19.0,374.0,7:00 PM,7:34 PM
+virgin australia,va883,23 aug 2024,14.0,230.0,7:00 PM,7:27 PM
+virgin australia,va883,23 sep 2024,19.0,264.0,7:00 PM,7:27 PM
+virgin australia,va883,24 aug 2024,14.0,230.0,7:00 PM,7:27 PM
+virgin australia,va883,24 sep 2024,19.0,374.0,7:00 PM,7:27 PM
+virgin australia,va883,25 aug 2024,14.0,230.0,7:00 PM,7:50 PM
+virgin australia,va883,25 sep 2024,19.0,310.0,7:00 PM,7:50 PM
+virgin australia,va883,26 aug 2024,14.0,230.0,7:00 PM,7:50 PM
+virgin australia,va883,26 sep 2024,19.0,381.0,7:00 PM,7:50 PM
+virgin australia,va883,27 aug 2024,14.0,230.0,7:00 PM,7:46 PM
+virgin australia,va883,27 sep 2024,19.0,139.0,7:00 PM,7:46 PM
+virgin australia,va883,28 aug 2024,14.0,230.0,7:00 PM,7:50 PM
+virgin australia,va883,28 sep 2024,19.0,230.0,7:00 PM,7:50 PM
+virgin australia,va883,29 aug 2024,14.0,230.0,7:00 PM,7:58 PM
+virgin australia,va883,29 sep 2024,19.0,481.0,7:00 PM,7:58 PM
+virgin australia,va883,3 oct 2024,19.0,149.0,7:00 PM,7:58 PM
+virgin australia,va883,30 aug 2024,14.0,230.0,7:00 PM,7:14 PM
+virgin australia,va883,30 sep 2024,19.0,176.0,7:00 PM,7:14 PM
+virgin australia,va883,31 aug 2024,14.0,230.0,7:00 PM,7:14 PM
+virgin australia,va883,4 oct 2024,19.0,223.0,7:00 PM,7:14 PM
+virgin australia,va883,5 oct 2024,19.0,230.0,7:00 PM,7:14 PM
+virgin australia,va883,6 oct 2024,19.0,149.0,7:00 PM,7:14 PM

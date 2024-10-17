@@ -1,0 +1,766 @@
+Airline,Aircraft,Day,Time,Price ( AUD )
+Jetstar,JQ500,22 Sep 2024,6:00 AM,473
+Jetstar,JQ502,22 Sep 2024,7:30 AM,394
+Jetstar,JQ504,22 Sep 2024,8:15 AM,
+Jetstar,JQ508,22 Sep 2024,9:25 AM,473
+Jetstar,JQ512,22 Sep 2024,12:25 PM,394
+Jetstar,JQ518,22 Sep 2024,2:25 PM,394
+Jetstar,JQ520,22 Sep 2024,3:25 PM,394
+Jetstar,JQ522,22 Sep 2024,4:15 PM,394
+Jetstar,JQ524,22 Sep 2024,5:40 PM,
+Jetstar,JQ528,22 Sep 2024,7:15 PM,394
+Jetstar,JQ530,22 Sep 2024,8:15 PM,394
+Jetstar,JQ532,22 Sep 2024,8:50 PM,394
+Jetstar,JQ500,23 Sep 2024,6:00 AM,394
+Jetstar,JQ502,23 Sep 2024,7:30 AM,327
+Jetstar,JQ504,23 Sep 2024,8:15 AM,270
+Jetstar,JQ508,23 Sep 2024,9:25 AM,327
+Jetstar,JQ512,23 Sep 2024,12:25 PM,327
+Jetstar,JQ518,23 Sep 2024,2:25 PM,270
+Jetstar,JQ520,23 Sep 2024,3:25 PM,270
+Jetstar,JQ522,23 Sep 2024,3:55 PM,230
+Jetstar,JQ524,23 Sep 2024,5:40 PM,394
+Jetstar,JQ528,23 Sep 2024,7:15 PM,230
+Jetstar,JQ530,23 Sep 2024,8:15 PM,198
+Jetstar,JQ532,23 Sep 2024,8:50 PM,198
+Jetstar,JQ500,24 Sep 2024,6:00 AM,230
+Jetstar,JQ502,24 Sep 2024,7:25 AM,198
+Jetstar,JQ504,24 Sep 2024,8:15 AM,198
+Jetstar,JQ508,24 Sep 2024,9:25 AM,176
+Jetstar,JQ512,24 Sep 2024,12:25 PM,176
+Jetstar,JQ518,24 Sep 2024,2:25 PM,176
+Jetstar,JQ520,24 Sep 2024,3:25 PM,176
+Jetstar,JQ522,24 Sep 2024,4:15 PM,198
+Jetstar,JQ524,24 Sep 2024,5:40 PM,
+Jetstar,JQ528,24 Sep 2024,7:15 PM,176
+Jetstar,JQ530,24 Sep 2024,8:15 PM,158
+Jetstar,JQ532,24 Sep 2024,8:50 PM,158
+Jetstar,JQ500,25 Sep 2024,6:00 AM,141
+Jetstar,JQ502,25 Sep 2024,7:30 AM,127
+Jetstar,JQ504,25 Sep 2024,8:15 AM,127
+Jetstar,JQ508,25 Sep 2024,9:25 AM,141
+Jetstar,JQ512,25 Sep 2024,12:25 PM,141
+Jetstar,JQ518,25 Sep 2024,2:25 PM,141
+Jetstar,JQ520,25 Sep 2024,3:25 PM,141
+Jetstar,JQ522,25 Sep 2024,4:15 PM,127
+Jetstar,JQ524,25 Sep 2024,5:40 PM,127
+Jetstar,JQ528,25 Sep 2024,7:15 PM,141
+Jetstar,JQ530,25 Sep 2024,8:15 PM,127
+Jetstar,JQ532,25 Sep 2024,8:50 PM,127
+Jetstar,JQ500,26 Sep 2024,6:00 AM,141
+Jetstar,JQ502,26 Sep 2024,7:30 AM,158
+Jetstar,JQ504,26 Sep 2024,8:15 AM,158
+Jetstar,JQ508,26 Sep 2024,9:25 AM,176
+Jetstar,JQ512,26 Sep 2024,12:25 PM,230
+Jetstar,JQ518,26 Sep 2024,2:25 PM,230
+Jetstar,JQ520,26 Sep 2024,3:25 PM,230
+Jetstar,JQ522,26 Sep 2024,3:55 PM,230
+Jetstar,JQ524,26 Sep 2024,5:40 PM,230
+Jetstar,JQ528,26 Sep 2024,7:15 PM,270
+Jetstar,JQ530,26 Sep 2024,8:15 PM,270
+Jetstar,JQ532,26 Sep 2024,8:50 PM,270
+Jetstar,JQ500,27 Sep 2024,6:00 AM,198
+Jetstar,JQ502,27 Sep 2024,7:30 AM,198
+Jetstar,JQ504,27 Sep 2024,8:15 AM,198
+Jetstar,JQ508,27 Sep 2024,9:25 AM,176
+Jetstar,JQ512,27 Sep 2024,12:25 PM,176
+Jetstar,JQ518,27 Sep 2024,2:25 PM,141
+Jetstar,JQ520,27 Sep 2024,3:25 PM,127
+Jetstar,JQ522,27 Sep 2024,3:40 PM,127
+Jetstar,JQ524,27 Sep 2024,5:40 PM,113
+Jetstar,JQ528,27 Sep 2024,7:15 PM,127
+Jetstar,JQ530,27 Sep 2024,8:15 PM,99
+Jetstar,JQ532,27 Sep 2024,8:50 PM,84
+Jetstar,JQ500,28 Sep 2024,6:00 AM,113
+Jetstar,JQ502,28 Sep 2024,7:30 AM,113
+Jetstar,JQ504,28 Sep 2024,8:15 AM,99
+Jetstar,JQ508,28 Sep 2024,9:25 AM,113
+Jetstar,JQ512,28 Sep 2024,12:25 PM,113
+Jetstar,JQ518,28 Sep 2024,2:25 PM,113
+Jetstar,JQ520,28 Sep 2024,3:25 PM,127
+Jetstar,JQ522,28 Sep 2024,4:15 PM,127
+Jetstar,JQ524,28 Sep 2024,5:40 PM,127
+Jetstar,JQ528,28 Sep 2024,7:15 PM,141
+Jetstar,JQ530,28 Sep 2024,8:15 PM,198
+Jetstar,JQ532,28 Sep 2024,8:50 PM,198
+Jetstar,JQ500,29 Sep 2024,6:00 AM,270
+Jetstar,JQ502,29 Sep 2024,7:30 AM,394
+Jetstar,JQ504,29 Sep 2024,8:15 AM,394
+Jetstar,JQ508,29 Sep 2024,9:25 AM,473
+Jetstar,JQ512,29 Sep 2024,12:25 PM,566
+Jetstar,JQ518,29 Sep 2024,2:25 PM,566
+Jetstar,JQ520,29 Sep 2024,3:25 PM,473
+Jetstar,JQ522,29 Sep 2024,4:15 PM,473
+Jetstar,JQ524,29 Sep 2024,5:40 PM,327
+Jetstar,JQ528,29 Sep 2024,7:15 PM,327
+Jetstar,JQ530,29 Sep 2024,8:15 PM,327
+Jetstar,JQ532,29 Sep 2024,8:50 PM,270
+Jetstar,JQ500,30 Sep 2024,6:00 AM,158
+Jetstar,JQ502,30 Sep 2024,7:30 AM,141
+Jetstar,JQ504,30 Sep 2024,8:15 AM,141
+Jetstar,JQ508,30 Sep 2024,9:25 AM,158
+Jetstar,JQ512,30 Sep 2024,12:25 PM,176
+Jetstar,JQ518,30 Sep 2024,2:25 PM,141
+Jetstar,JQ520,30 Sep 2024,3:25 PM,141
+Jetstar,JQ522,30 Sep 2024,3:55 PM,141
+Jetstar,JQ524,30 Sep 2024,5:40 PM,141
+Jetstar,JQ528,30 Sep 2024,7:15 PM,127
+Jetstar,JQ530,30 Sep 2024,8:15 PM,127
+Jetstar,JQ532,30 Sep 2024,8:50 PM,127
+Jetstar,JQ500,1 Oct 2024,6:00 AM,79
+Jetstar,JQ502,1 Oct 2024,7:25 AM,84
+Jetstar,JQ504,1 Oct 2024,8:15 AM,99
+Jetstar,JQ508,1 Oct 2024,9:25 AM,90
+Jetstar,JQ512,1 Oct 2024,12:25 PM,113
+Jetstar,JQ518,1 Oct 2024,2:25 PM,99
+Jetstar,JQ520,1 Oct 2024,3:25 PM,79
+Jetstar,JQ522,1 Oct 2024,4:15 PM,84
+Jetstar,JQ524,1 Oct 2024,5:40 PM,79
+Jetstar,JQ528,1 Oct 2024,7:15 PM,84
+Jetstar,JQ530,1 Oct 2024,8:15 PM,84
+Jetstar,JQ532,1 Oct 2024,8:50 PM,84
+Jetstar,JQ500,2 Oct 2024,6:00 AM,84
+Jetstar,JQ502,2 Oct 2024,7:30 AM,90
+Jetstar,JQ504,2 Oct 2024,8:15 AM,90
+Jetstar,JQ508,2 Oct 2024,9:25 AM,113
+Jetstar,JQ512,2 Oct 2024,12:25 PM,99
+Jetstar,JQ518,2 Oct 2024,2:25 PM,99
+Jetstar,JQ520,2 Oct 2024,3:25 PM,90
+Jetstar,JQ522,2 Oct 2024,4:15 PM,84
+Jetstar,JQ524,2 Oct 2024,5:40 PM,84
+Jetstar,JQ528,2 Oct 2024,7:15 PM,90
+Jetstar,JQ530,2 Oct 2024,8:15 PM,90
+Jetstar,JQ532,2 Oct 2024,8:50 PM,99
+Jetstar,JQ500,3 Oct 2024,6:00 AM,141
+Jetstar,JQ502,3 Oct 2024,7:30 AM,127
+Jetstar,JQ504,3 Oct 2024,8:15 AM,127
+Jetstar,JQ508,3 Oct 2024,9:25 AM,141
+Jetstar,JQ512,3 Oct 2024,12:25 PM,158
+Jetstar,JQ518,3 Oct 2024,2:25 PM,141
+Jetstar,JQ520,3 Oct 2024,3:25 PM,141
+Jetstar,JQ522,3 Oct 2024,3:55 PM,158
+Jetstar,JQ524,3 Oct 2024,5:40 PM,158
+Jetstar,JQ528,3 Oct 2024,7:15 PM,158
+Jetstar,JQ530,3 Oct 2024,8:15 PM,141
+Jetstar,JQ532,3 Oct 2024,8:50 PM,141
+Jetstar,JQ500,4 Oct 2024,6:00 AM,176
+Jetstar,JQ502,4 Oct 2024,7:30 AM,198
+Jetstar,JQ504,4 Oct 2024,8:15 AM,230
+Jetstar,JQ508,4 Oct 2024,9:25 AM,198
+Jetstar,JQ512,4 Oct 2024,12:25 PM,198
+Jetstar,JQ518,4 Oct 2024,2:25 PM,230
+Jetstar,JQ520,4 Oct 2024,3:25 PM,198
+Jetstar,JQ522,4 Oct 2024,3:40 PM,198
+Jetstar,JQ524,4 Oct 2024,5:40 PM,
+Jetstar,JQ528,4 Oct 2024,7:15 PM,198
+Jetstar,JQ530,4 Oct 2024,8:15 PM,198
+Jetstar,JQ532,4 Oct 2024,8:50 PM,176
+Jetstar,JQ500,5 Oct 2024,6:00 AM,158
+Jetstar,JQ502,5 Oct 2024,7:30 AM,158
+Jetstar,JQ504,5 Oct 2024,8:15 AM,198
+Jetstar,JQ508,5 Oct 2024,9:25 AM,176
+Jetstar,JQ512,5 Oct 2024,12:25 PM,176
+Jetstar,JQ518,5 Oct 2024,2:25 PM,158
+Jetstar,JQ520,5 Oct 2024,3:25 PM,158
+Jetstar,JQ522,5 Oct 2024,4:15 PM,158
+Jetstar,JQ524,5 Oct 2024,5:40 PM,141
+Jetstar,JQ528,5 Oct 2024,7:15 PM,141
+Jetstar,JQ530,5 Oct 2024,8:15 PM,141
+Jetstar,JQ532,5 Oct 2024,8:50 PM,127
+Jetstar,JQ500,6 Oct 2024,6:00 AM,127
+Jetstar,JQ502,6 Oct 2024,7:30 AM,127
+Jetstar,JQ504,6 Oct 2024,8:15 AM,141
+Jetstar,JQ508,6 Oct 2024,9:25 AM,158
+Jetstar,JQ512,6 Oct 2024,12:25 PM,176
+Jetstar,JQ518,6 Oct 2024,2:25 PM,176
+Jetstar,JQ520,6 Oct 2024,3:25 PM,198
+Jetstar,JQ522,6 Oct 2024,4:15 PM,176
+Jetstar,JQ524,6 Oct 2024,5:40 PM,
+Jetstar,JQ528,6 Oct 2024,7:15 PM,158
+Jetstar,JQ530,6 Oct 2024,8:15 PM,158
+Jetstar,JQ532,6 Oct 2024,8:50 PM,141
+Quantas,QF402,22 Sep 2024,6:00 AM,681
+Quantas,QF406,22 Sep 2024,6:30 AM,
+Quantas,QF410,22 Sep 2024,7:00 AM,436
+Quantas,QF414,22 Sep 2024,7:30 AM,
+Quantas,QF418,22 Sep 2024,8:00 AM,436
+Quantas,QF422,22 Sep 2024,8:30 AM,508
+Quantas,QF426,22 Sep 2024,9:00 AM,436
+Quantas,QF430,22 Sep 2024,9:30 AM,508
+Quantas,QF432,22 Sep 2024,10:00 AM,590
+Quantas,QF436,22 Sep 2024,11:00 AM,590
+Quantas,QF440,22 Sep 2024,12:00 PM,590
+Quantas,QF444,22 Sep 2024,1:00 PM,781
+Quantas,QF448,22 Sep 2024,2:00 PM,1046
+Quantas,QF454,22 Sep 2024,3:00 PM,590
+Quantas,QF462,22 Sep 2024,4:00 PM,508
+Quantas,QF464,22 Sep 2024,4:15 PM,436
+Quantas,QF466,22 Sep 2024,4:30 PM,436
+Quantas,QF470,22 Sep 2024,5:00 PM,508
+Quantas,QF472,22 Sep 2024,5:15 PM,436
+Quantas,QF478,22 Sep 2024,6:00 PM,436
+Quantas,QF498,22 Sep 2024,9:00 PM,375
+Quantas,QF402,23 Sep 2024,6:00 AM,508
+Quantas,QF406,23 Sep 2024,6:30 AM,508
+Quantas,QF410,23 Sep 2024,7:00 AM,590
+Quantas,QF414,23 Sep 2024,7:30 AM,508
+Quantas,QF418,23 Sep 2024,8:00 AM,436
+Quantas,QF422,23 Sep 2024,8:30 AM,436
+Quantas,QF426,23 Sep 2024,9:00 AM,436
+Quantas,QF430,23 Sep 2024,9:30 AM,436
+Quantas,QF432,23 Sep 2024,10:00 AM,375
+Quantas,QF436,23 Sep 2024,11:00 AM,375
+Quantas,QF440,23 Sep 2024,12:00 PM,508
+Quantas,QF444,23 Sep 2024,1:00 PM,436
+Quantas,QF448,23 Sep 2024,2:00 PM,508
+Quantas,QF454,23 Sep 2024,3:00 PM,436
+Quantas,QF462,23 Sep 2024,3:55 PM,375
+Quantas,QF464,23 Sep 2024,4:15 PM,436
+Quantas,QF466,23 Sep 2024,4:30 PM,436
+Quantas,QF470,23 Sep 2024,5:00 PM,508
+Quantas,QF472,23 Sep 2024,5:15 PM,
+Quantas,QF478,23 Sep 2024,6:00 PM,681
+Quantas,QF498,23 Sep 2024,9:00 PM,270
+Quantas,QF402,24 Sep 2024,6:00 AM,436
+Quantas,QF406,24 Sep 2024,6:30 AM,590
+Quantas,QF410,24 Sep 2024,7:00 AM,508
+Quantas,QF414,24 Sep 2024,7:30 AM,508
+Quantas,QF418,24 Sep 2024,8:00 AM,436
+Quantas,QF422,24 Sep 2024,8:30 AM,320
+Quantas,QF426,24 Sep 2024,9:00 AM,320
+Quantas,QF430,24 Sep 2024,9:30 AM,320
+Quantas,QF432,24 Sep 2024,10:00 AM,375
+Quantas,QF436,24 Sep 2024,11:00 AM,375
+Quantas,QF440,24 Sep 2024,12:00 PM,375
+Quantas,QF444,24 Sep 2024,1:00 PM,375
+Quantas,QF448,24 Sep 2024,2:00 PM,436
+Quantas,QF454,24 Sep 2024,3:00 PM,436
+Quantas,QF462,24 Sep 2024,3:55 PM,436
+Quantas,QF464,24 Sep 2024,4:15 PM,508
+Quantas,QF466,24 Sep 2024,4:30 PM,508
+Quantas,QF470,24 Sep 2024,5:00 PM,681
+Quantas,QF472,24 Sep 2024,5:15 PM,
+Quantas,QF478,24 Sep 2024,6:00 PM,681
+Quantas,QF498,24 Sep 2024,9:00 PM,215
+Quantas,QF402,25 Sep 2024,6:00 AM,320
+Quantas,QF406,25 Sep 2024,6:30 AM,320
+Quantas,QF410,25 Sep 2024,7:00 AM,436
+Quantas,QF414,25 Sep 2024,7:30 AM,320
+Quantas,QF418,25 Sep 2024,8:00 AM,215
+Quantas,QF422,25 Sep 2024,8:30 AM,270
+Quantas,QF426,25 Sep 2024,9:00 AM,320
+Quantas,QF430,25 Sep 2024,9:30 AM,179
+Quantas,QF432,25 Sep 2024,10:00 AM,270
+Quantas,QF436,25 Sep 2024,11:00 AM,320
+Quantas,QF440,25 Sep 2024,12:00 PM,436
+Quantas,QF444,25 Sep 2024,1:00 PM,320
+Quantas,QF448,25 Sep 2024,2:00 PM,320
+Quantas,QF454,25 Sep 2024,3:00 PM,375
+Quantas,QF462,25 Sep 2024,4:00 PM,320
+Quantas,QF464,25 Sep 2024,4:15 PM,320
+Quantas,QF466,25 Sep 2024,4:30 PM,270
+Quantas,QF470,25 Sep 2024,5:00 PM,375
+Quantas,QF472,25 Sep 2024,5:15 PM,375
+Quantas,QF478,25 Sep 2024,6:00 PM,508
+Quantas,QF498,25 Sep 2024,9:00 PM,179
+Quantas,QF402,26 Sep 2024,6:00 AM,179
+Quantas,QF406,26 Sep 2024,6:30 AM,179
+Quantas,QF410,26 Sep 2024,7:00 AM,320
+Quantas,QF414,26 Sep 2024,7:30 AM,215
+Quantas,QF418,26 Sep 2024,8:00 AM,215
+Quantas,QF422,26 Sep 2024,8:30 AM,320
+Quantas,QF426,26 Sep 2024,9:00 AM,320
+Quantas,QF430,26 Sep 2024,9:30 AM,270
+Quantas,QF432,26 Sep 2024,10:00 AM,320
+Quantas,QF436,26 Sep 2024,11:00 AM,320
+Quantas,QF440,26 Sep 2024,12:00 PM,375
+Quantas,QF444,26 Sep 2024,1:00 PM,375
+Quantas,QF448,26 Sep 2024,2:00 PM,436
+Quantas,QF454,26 Sep 2024,3:00 PM,436
+Quantas,QF462,26 Sep 2024,4:00 PM,436
+Quantas,QF464,26 Sep 2024,4:15 PM,436
+Quantas,QF466,26 Sep 2024,4:30 PM,508
+Quantas,QF470,26 Sep 2024,5:00 PM,508
+Quantas,QF472,26 Sep 2024,5:15 PM,
+Quantas,QF478,26 Sep 2024,6:00 PM,508
+Quantas,QF498,26 Sep 2024,9:00 PM,270
+Quantas,QF402,27 Sep 2024,6:00 AM,179
+Quantas,QF406,27 Sep 2024,6:30 AM,179
+Quantas,QF410,27 Sep 2024,7:00 AM,215
+Quantas,QF414,27 Sep 2024,7:30 AM,215
+Quantas,QF418,27 Sep 2024,8:00 AM,270
+Quantas,QF422,27 Sep 2024,8:30 AM,320
+Quantas,QF426,27 Sep 2024,9:00 AM,320
+Quantas,QF430,27 Sep 2024,9:30 AM,320
+Quantas,QF432,27 Sep 2024,10:00 AM,436
+Quantas,QF436,27 Sep 2024,11:00 AM,436
+Quantas,QF440,27 Sep 2024,12:00 PM,320
+Quantas,QF444,27 Sep 2024,1:00 PM,320
+Quantas,QF448,27 Sep 2024,2:00 PM,320
+Quantas,QF454,27 Sep 2024,3:00 PM,320
+Quantas,QF462,27 Sep 2024,3:55 PM,179
+Quantas,QF464,27 Sep 2024,4:15 PM,179
+Quantas,QF466,27 Sep 2024,4:30 PM,179
+Quantas,QF470,27 Sep 2024,5:00 PM,179
+Quantas,QF472,27 Sep 2024,5:15 PM,179
+Quantas,QF478,27 Sep 2024,6:00 PM,179
+Quantas,QF498,27 Sep 2024,9:00 PM,179
+Quantas,QF402,28 Sep 2024,6:00 AM,179
+Quantas,QF406,28 Sep 2024,6:30 AM,179
+Quantas,QF410,28 Sep 2024,7:00 AM,179
+Quantas,QF414,28 Sep 2024,7:30 AM,179
+Quantas,QF418,28 Sep 2024,8:00 AM,179
+Quantas,QF422,28 Sep 2024,8:30 AM,179
+Quantas,QF426,28 Sep 2024,9:00 AM,179
+Quantas,QF430,28 Sep 2024,9:30 AM,215
+Quantas,QF432,28 Sep 2024,10:00 AM,270
+Quantas,QF436,28 Sep 2024,11:00 AM,215
+Quantas,QF440,28 Sep 2024,12:00 PM,215
+Quantas,QF444,28 Sep 2024,1:00 PM,179
+Quantas,QF448,28 Sep 2024,2:00 PM,179
+Quantas,QF454,28 Sep 2024,3:00 PM,215
+Quantas,QF462,28 Sep 2024,4:00 PM,215
+Quantas,QF464,28 Sep 2024,4:15 PM,
+Quantas,QF466,28 Sep 2024,4:30 PM,
+Quantas,QF470,28 Sep 2024,5:00 PM,320
+Quantas,QF472,28 Sep 2024,5:15 PM,
+Quantas,QF478,28 Sep 2024,6:00 PM,320
+Quantas,QF498,28 Sep 2024,9:00 PM,590
+Quantas,QF402,29 Sep 2024,6:00 AM,436
+Quantas,QF406,29 Sep 2024,6:30 AM,
+Quantas,QF410,29 Sep 2024,7:00 AM,508
+Quantas,QF414,29 Sep 2024,7:30 AM,
+Quantas,QF418,29 Sep 2024,8:00 AM,508
+Quantas,QF422,29 Sep 2024,8:30 AM,508
+Quantas,QF426,29 Sep 2024,9:00 AM,590
+Quantas,QF430,29 Sep 2024,9:30 AM,590
+Quantas,QF432,29 Sep 2024,10:00 AM,590
+Quantas,QF436,29 Sep 2024,11:00 AM,590
+Quantas,QF440,29 Sep 2024,12:00 PM,590
+Quantas,QF444,29 Sep 2024,1:00 PM,590
+Quantas,QF448,29 Sep 2024,2:00 PM,590
+Quantas,QF454,29 Sep 2024,3:00 PM,590
+Quantas,QF462,29 Sep 2024,4:00 PM,590
+Quantas,QF464,29 Sep 2024,4:15 PM,
+Quantas,QF466,29 Sep 2024,4:30 PM,590
+Quantas,QF470,29 Sep 2024,5:00 PM,590
+Quantas,QF472,29 Sep 2024,5:15 PM,
+Quantas,QF478,29 Sep 2024,6:00 PM,590
+Quantas,QF498,29 Sep 2024,9:00 PM,508
+Quantas,QF402,30 Sep 2024,6:00 AM,508
+Quantas,QF406,30 Sep 2024,6:30 AM,320
+Quantas,QF410,30 Sep 2024,7:00 AM,215
+Quantas,QF414,30 Sep 2024,7:30 AM,215
+Quantas,QF418,30 Sep 2024,8:00 AM,215
+Quantas,QF422,30 Sep 2024,8:30 AM,215
+Quantas,QF426,30 Sep 2024,9:00 AM,270
+Quantas,QF430,30 Sep 2024,9:30 AM,
+Quantas,QF432,30 Sep 2024,10:00 AM,320
+Quantas,QF436,30 Sep 2024,11:00 AM,320
+Quantas,QF440,30 Sep 2024,12:00 PM,436
+Quantas,QF444,30 Sep 2024,1:00 PM,320
+Quantas,QF448,30 Sep 2024,2:00 PM,375
+Quantas,QF454,30 Sep 2024,3:00 PM,320
+Quantas,QF462,30 Sep 2024,3:55 PM,270
+Quantas,QF464,30 Sep 2024,4:15 PM,270
+Quantas,QF466,30 Sep 2024,4:30 PM,270
+Quantas,QF470,30 Sep 2024,5:00 PM,215
+Quantas,QF472,30 Sep 2024,5:15 PM,215
+Quantas,QF478,30 Sep 2024,6:00 PM,270
+Quantas,QF498,30 Sep 2024,9:00 PM,179
+Quantas,QF402,1 Oct 2024,6:00 AM,179
+Quantas,QF406,1 Oct 2024,6:30 AM,179
+Quantas,QF410,1 Oct 2024,7:00 AM,375
+Quantas,QF414,1 Oct 2024,7:30 AM,320
+Quantas,QF418,1 Oct 2024,8:00 AM,179
+Quantas,QF422,1 Oct 2024,8:30 AM,179
+Quantas,QF426,1 Oct 2024,9:00 AM,179
+Quantas,QF430,1 Oct 2024,9:30 AM,
+Quantas,QF432,1 Oct 2024,10:00 AM,215
+Quantas,QF436,1 Oct 2024,11:00 AM,270
+Quantas,QF440,1 Oct 2024,12:00 PM,270
+Quantas,QF444,1 Oct 2024,1:00 PM,270
+Quantas,QF448,1 Oct 2024,2:00 PM,270
+Quantas,QF454,1 Oct 2024,3:00 PM,215
+Quantas,QF462,1 Oct 2024,3:55 PM,179
+Quantas,QF464,1 Oct 2024,4:15 PM,179
+Quantas,QF466,1 Oct 2024,4:30 PM,179
+Quantas,QF470,1 Oct 2024,5:00 PM,179
+Quantas,QF472,1 Oct 2024,5:15 PM,
+Quantas,QF478,1 Oct 2024,6:00 PM,375
+Quantas,QF498,1 Oct 2024,9:00 PM,179
+Quantas,QF402,2 Oct 2024,6:00 AM,215
+Quantas,QF406,2 Oct 2024,6:30 AM,179
+Quantas,QF410,2 Oct 2024,7:00 AM,215
+Quantas,QF414,2 Oct 2024,7:30 AM,179
+Quantas,QF418,2 Oct 2024,8:00 AM,179
+Quantas,QF422,2 Oct 2024,8:30 AM,179
+Quantas,QF426,2 Oct 2024,9:00 AM,179
+Quantas,QF430,2 Oct 2024,9:30 AM,
+Quantas,QF432,2 Oct 2024,10:00 AM,179
+Quantas,QF436,2 Oct 2024,11:00 AM,215
+Quantas,QF440,2 Oct 2024,12:00 PM,320
+Quantas,QF444,2 Oct 2024,1:00 PM,375
+Quantas,QF448,2 Oct 2024,2:00 PM,320
+Quantas,QF454,2 Oct 2024,3:00 PM,320
+Quantas,QF462,2 Oct 2024,4:00 PM,270
+Quantas,QF464,2 Oct 2024,4:15 PM,179
+Quantas,QF466,2 Oct 2024,4:30 PM,179
+Quantas,QF470,2 Oct 2024,5:00 PM,270
+Quantas,QF472,2 Oct 2024,5:15 PM,179
+Quantas,QF478,2 Oct 2024,6:00 PM,215
+Quantas,QF498,2 Oct 2024,9:00 PM,179
+Quantas,QF402,3 Oct 2024,6:00 AM,179
+Quantas,QF406,3 Oct 2024,6:30 AM,179
+Quantas,QF410,3 Oct 2024,7:00 AM,179
+Quantas,QF414,3 Oct 2024,7:30 AM,179
+Quantas,QF418,3 Oct 2024,8:00 AM,179
+Quantas,QF422,3 Oct 2024,8:30 AM,179
+Quantas,QF426,3 Oct 2024,9:00 AM,215
+Quantas,QF430,3 Oct 2024,9:30 AM,
+Quantas,QF432,3 Oct 2024,10:00 AM,215
+Quantas,QF436,3 Oct 2024,11:00 AM,270
+Quantas,QF440,3 Oct 2024,12:00 PM,270
+Quantas,QF444,3 Oct 2024,1:00 PM,320
+Quantas,QF448,3 Oct 2024,2:00 PM,270
+Quantas,QF454,3 Oct 2024,3:00 PM,320
+Quantas,QF462,3 Oct 2024,4:00 PM,215
+Quantas,QF464,3 Oct 2024,4:15 PM,179
+Quantas,QF466,3 Oct 2024,4:30 PM,179
+Quantas,QF470,3 Oct 2024,5:00 PM,215
+Quantas,QF472,3 Oct 2024,5:15 PM,
+Quantas,QF478,3 Oct 2024,6:00 PM,478
+Quantas,QF498,3 Oct 2024,9:00 PM,178
+Quantas,QF402,4 Oct 2024,6:00 AM,215
+Quantas,QF406,4 Oct 2024,6:30 AM,215
+Quantas,QF410,4 Oct 2024,7:00 AM,270
+Quantas,QF414,4 Oct 2024,7:30 AM,270
+Quantas,QF418,4 Oct 2024,8:00 AM,320
+Quantas,QF422,4 Oct 2024,8:30 AM,320
+Quantas,QF426,4 Oct 2024,9:00 AM,320
+Quantas,QF430,4 Oct 2024,9:30 AM,375
+Quantas,QF432,4 Oct 2024,10:00 AM,375
+Quantas,QF436,4 Oct 2024,11:00 AM,375
+Quantas,QF440,4 Oct 2024,12:00 PM,436
+Quantas,QF444,4 Oct 2024,12:55 PM,436
+Quantas,QF448,4 Oct 2024,2:00 PM,436
+Quantas,QF454,4 Oct 2024,3:00 PM,436
+Quantas,QF462,4 Oct 2024,3:55 PM,436
+Quantas,QF464,4 Oct 2024,4:15 PM,320
+Quantas,QF466,4 Oct 2024,4:30 PM,320
+Quantas,QF470,4 Oct 2024,5:00 PM,270
+Quantas,QF472,4 Oct 2024,5:15 PM,270
+Quantas,QF478,4 Oct 2024,6:00 PM,270
+Quantas,QF498,4 Oct 2024,9:00 PM,270
+Quantas,QF402,5 Oct 2024,6:00 AM,320
+Quantas,QF406,5 Oct 2024,6:30 AM,179
+Quantas,QF410,5 Oct 2024,7:00 AM,179
+Quantas,QF414,5 Oct 2024,7:30 AM,179
+Quantas,QF418,5 Oct 2024,8:00 AM,215
+Quantas,QF422,5 Oct 2024,8:30 AM,215
+Quantas,QF426,5 Oct 2024,9:00 AM,270
+Quantas,QF430,5 Oct 2024,9:30 AM,270
+Quantas,QF432,5 Oct 2024,10:00 AM,270
+Quantas,QF436,5 Oct 2024,11:00 AM,320
+Quantas,QF440,5 Oct 2024,12:00 PM,320
+Quantas,QF444,5 Oct 2024,1:00 PM,320
+Quantas,QF448,5 Oct 2024,2:00 PM,320
+Quantas,QF454,5 Oct 2024,3:00 PM,320
+Quantas,QF462,5 Oct 2024,4:00 PM,320
+Quantas,QF464,5 Oct 2024,4:15 PM,
+Quantas,QF466,5 Oct 2024,4:30 PM,
+Quantas,QF470,5 Oct 2024,5:00 PM,320
+Quantas,QF472,5 Oct 2024,5:15 PM,
+Quantas,QF478,5 Oct 2024,6:00 PM,320
+Quantas,QF498,5 Oct 2024,9:00 PM,320
+Quantas,QF402,6 Oct 2024,6:00 AM,270
+Quantas,QF406,6 Oct 2024,6:30 AM,
+Quantas,QF410,6 Oct 2024,7:00 AM,270
+Quantas,QF414,6 Oct 2024,7:30 AM,
+Quantas,QF418,6 Oct 2024,8:00 AM,270
+Quantas,QF422,6 Oct 2024,8:30 AM,270
+Quantas,QF426,6 Oct 2024,9:00 AM,320
+Quantas,QF430,6 Oct 2024,9:30 AM,320
+Quantas,QF432,6 Oct 2024,10:00 AM,320
+Quantas,QF436,6 Oct 2024,11:00 AM,375
+Quantas,QF440,6 Oct 2024,12:00 PM,436
+Quantas,QF444,6 Oct 2024,1:00 PM,436
+Quantas,QF448,6 Oct 2024,2:00 PM,270
+Quantas,QF454,6 Oct 2024,3:00 PM,270
+Quantas,QF462,6 Oct 2024,4:00 PM,270
+Quantas,QF464,6 Oct 2024,4:15 PM,270
+Quantas,QF466,6 Oct 2024,4:30 PM,270
+Quantas,QF470,6 Oct 2024,5:00 PM,270
+Quantas,QF472,6 Oct 2024,5:15 PM,270
+Quantas,QF478,6 Oct 2024,6:00 PM,270
+Quantas,QF498,6 Oct 2024,9:00 PM,215
+Virgin Australia,VA803,22 Sep 2024,6:00 AM,
+Virgin Australia,VA811,22 Sep 2024,7:00 AM,
+Virgin Australia,VA815,22 Sep 2024,7:30 AM,
+Virgin Australia,VA819,22 Sep 2024,8:00 AM,782
+Virgin Australia,VA823,22 Sep 2024,8:30 AM,670
+Virgin Australia,VA827,22 Sep 2024,9:00 AM,534
+Virgin Australia,VA833,22 Sep 2024,10:00 AM,670
+Virgin Australia,VA841,22 Sep 2024,12:00 PM,782
+Virgin Australia,VA849,22 Sep 2024,2:00 PM,
+Virgin Australia,VA853,22 Sep 2024,3:00 PM,534
+Virgin Australia,VA859,22 Sep 2024,4:00 PM,893
+Virgin Australia,VA863,22 Sep 2024,4:30 PM,893
+Virgin Australia,VA867,22 Sep 2024,5:00 PM,534
+Virgin Australia,VA869,22 Sep 2024,5:10 PM,474
+Virgin Australia,VA871,22 Sep 2024,5:30 PM,474
+Virgin Australia,VA875,22 Sep 2024,6:00 PM,381
+Virgin Australia,VA879,22 Sep 2024,6:30 PM,374
+Virgin Australia,VA883,22 Sep 2024,7:00 PM,374
+Virgin Australia,VA803,23 Sep 2024,6:00 AM,474
+Virgin Australia,VA811,23 Sep 2024,7:00 AM,481
+Virgin Australia,VA815,23 Sep 2024,7:30 AM,381
+Virgin Australia,VA819,23 Sep 2024,8:00 AM,534
+Virgin Australia,VA823,23 Sep 2024,8:30 AM,315
+Virgin Australia,VA827,23 Sep 2024,9:00 AM,374
+Virgin Australia,VA833,23 Sep 2024,10:00 AM,310
+Virgin Australia,VA841,23 Sep 2024,12:00 PM,381
+Virgin Australia,VA849,23 Sep 2024,2:00 PM,381
+Virgin Australia,VA853,23 Sep 2024,3:00 PM,374
+Virgin Australia,VA859,23 Sep 2024,4:00 PM,264
+Virgin Australia,VA863,23 Sep 2024,4:30 PM,310
+Virgin Australia,VA867,23 Sep 2024,5:00 PM,381
+Virgin Australia,VA869,23 Sep 2024,5:10 PM,380
+Virgin Australia,VA871,23 Sep 2024,5:30 PM,310
+Virgin Australia,VA875,23 Sep 2024,6:00 PM,481
+Virgin Australia,VA879,23 Sep 2024,6:30 PM,310
+Virgin Australia,VA883,23 Sep 2024,7:00 PM,264
+Virgin Australia,VA803,24 Sep 2024,6:00 AM,601
+Virgin Australia,VA811,24 Sep 2024,7:00 AM,601
+Virgin Australia,VA815,24 Sep 2024,7:30 AM,534
+Virgin Australia,VA819,24 Sep 2024,8:00 AM,534
+Virgin Australia,VA823,24 Sep 2024,8:30 AM,534
+Virgin Australia,VA827,24 Sep 2024,9:00 AM,534
+Virgin Australia,VA833,24 Sep 2024,10:00 AM,374
+Virgin Australia,VA841,24 Sep 2024,12:00 PM,310
+Virgin Australia,VA849,24 Sep 2024,2:00 PM,374
+Virgin Australia,VA853,24 Sep 2024,3:00 PM,601
+Virgin Australia,VA859,24 Sep 2024,4:00 PM,474
+Virgin Australia,VA863,24 Sep 2024,4:30 PM,474
+Virgin Australia,VA867,24 Sep 2024,5:00 PM,481
+Virgin Australia,VA869,24 Sep 2024,5:10 PM,481
+Virgin Australia,VA871,24 Sep 2024,5:30 PM,481
+Virgin Australia,VA875,24 Sep 2024,6:00 PM,310
+Virgin Australia,VA879,24 Sep 2024,6:30 PM,670
+Virgin Australia,VA883,24 Sep 2024,7:00 PM,374
+Virgin Australia,VA803,25 Sep 2024,6:00 AM,209
+Virgin Australia,VA811,25 Sep 2024,7:00 AM,271
+Virgin Australia,VA815,25 Sep 2024,7:30 AM,204
+Virgin Australia,VA819,25 Sep 2024,8:00 AM,310
+Virgin Australia,VA823,25 Sep 2024,8:30 AM,264
+Virgin Australia,VA827,25 Sep 2024,9:00 AM,264
+Virgin Australia,VA833,25 Sep 2024,10:00 AM,310
+Virgin Australia,VA841,25 Sep 2024,12:00 PM,271
+Virgin Australia,VA849,25 Sep 2024,2:00 PM,223
+Virgin Australia,VA853,25 Sep 2024,3:00 PM,230
+Virgin Australia,VA859,25 Sep 2024,4:00 PM,176
+Virgin Australia,VA863,25 Sep 2024,4:30 PM,176
+Virgin Australia,VA867,25 Sep 2024,5:00 PM,204
+Virgin Australia,VA869,25 Sep 2024,5:10 PM,204
+Virgin Australia,VA871,25 Sep 2024,5:30 PM,271
+Virgin Australia,VA875,25 Sep 2024,6:00 PM,481
+Virgin Australia,VA879,25 Sep 2024,6:30 PM,271
+Virgin Australia,VA883,25 Sep 2024,7:00 PM,310
+Virgin Australia,VA803,26 Sep 2024,6:00 AM,149
+Virgin Australia,VA811,26 Sep 2024,7:00 AM,213
+Virgin Australia,VA815,26 Sep 2024,7:30 AM,197
+Virgin Australia,VA819,26 Sep 2024,8:00 AM,310
+Virgin Australia,VA823,26 Sep 2024,8:30 AM,264
+Virgin Australia,VA827,26 Sep 2024,9:00 AM,310
+Virgin Australia,VA833,26 Sep 2024,10:00 AM,374
+Virgin Australia,VA841,26 Sep 2024,12:00 PM,534
+Virgin Australia,VA849,26 Sep 2024,2:00 PM,374
+Virgin Australia,VA853,26 Sep 2024,3:00 PM,315
+Virgin Australia,VA859,26 Sep 2024,4:00 PM,374
+Virgin Australia,VA863,26 Sep 2024,4:30 PM,310
+Virgin Australia,VA867,26 Sep 2024,5:00 PM,310
+Virgin Australia,VA869,26 Sep 2024,5:15 PM,310
+Virgin Australia,VA871,26 Sep 2024,5:30 PM,315
+Virgin Australia,VA875,26 Sep 2024,6:00 PM,474
+Virgin Australia,VA879,26 Sep 2024,6:30 PM,380
+Virgin Australia,VA883,26 Sep 2024,7:00 PM,381
+Virgin Australia,VA803,27 Sep 2024,6:00 AM,223
+Virgin Australia,VA811,27 Sep 2024,7:00 AM,264
+Virgin Australia,VA815,27 Sep 2024,7:30 AM,223
+Virgin Australia,VA819,27 Sep 2024,8:00 AM,374
+Virgin Australia,VA823,27 Sep 2024,8:30 AM,264
+Virgin Australia,VA827,27 Sep 2024,9:00 AM,264
+Virgin Australia,VA833,27 Sep 2024,10:00 AM,310
+Virgin Australia,VA841,27 Sep 2024,12:00 PM,310
+Virgin Australia,VA849,27 Sep 2024,2:00 PM,264
+Virgin Australia,VA853,27 Sep 2024,3:00 PM,212
+Virgin Australia,VA859,27 Sep 2024,4:00 PM,149
+Virgin Australia,VA863,27 Sep 2024,4:30 PM,139
+Virgin Australia,VA867,27 Sep 2024,5:00 PM,139
+Virgin Australia,VA869,27 Sep 2024,5:15 PM,139
+Virgin Australia,VA871,27 Sep 2024,5:30 PM,139
+Virgin Australia,VA875,27 Sep 2024,6:00 PM,139
+Virgin Australia,VA879,27 Sep 2024,6:30 PM,119
+Virgin Australia,VA883,27 Sep 2024,7:00 PM,139
+Virgin Australia,VA803,28 Sep 2024,6:00 AM,119
+Virgin Australia,VA811,28 Sep 2024,7:00 AM,119
+Virgin Australia,VA815,28 Sep 2024,7:30 AM,119
+Virgin Australia,VA819,28 Sep 2024,8:00 AM,139
+Virgin Australia,VA823,28 Sep 2024,8:30 AM,139
+Virgin Australia,VA827,28 Sep 2024,9:00 AM,197
+Virgin Australia,VA833,28 Sep 2024,10:00 AM,670
+Virgin Australia,VA841,28 Sep 2024,12:00 PM,
+Virgin Australia,VA849,28 Sep 2024,2:00 PM,223
+Virgin Australia,VA853,28 Sep 2024,3:00 PM,
+Virgin Australia,VA859,28 Sep 2024,4:00 PM,197
+Virgin Australia,VA863,28 Sep 2024,4:30 PM,
+Virgin Australia,VA867,28 Sep 2024,5:00 PM,
+Virgin Australia,VA869,28 Sep 2024,5:15 PM,
+Virgin Australia,VA871,28 Sep 2024,5:30 PM,
+Virgin Australia,VA875,28 Sep 2024,6:00 PM,230
+Virgin Australia,VA879,28 Sep 2024,6:30 PM,
+Virgin Australia,VA883,28 Sep 2024,7:00 PM,
+Virgin Australia,VA803,29 Sep 2024,6:00 AM,
+Virgin Australia,VA811,29 Sep 2024,7:00 AM,670
+Virgin Australia,VA815,29 Sep 2024,7:30 AM,119
+Virgin Australia,VA819,29 Sep 2024,8:00 AM,893
+Virgin Australia,VA823,29 Sep 2024,8:30 AM,782
+Virgin Australia,VA827,29 Sep 2024,9:00 AM,670
+Virgin Australia,VA833,29 Sep 2024,10:00 AM,670
+Virgin Australia,VA841,29 Sep 2024,12:00 PM,601
+Virgin Australia,VA849,29 Sep 2024,2:00 PM,601
+Virgin Australia,VA853,29 Sep 2024,3:00 PM,670
+Virgin Australia,VA859,29 Sep 2024,4:00 PM,601
+Virgin Australia,VA863,29 Sep 2024,4:30 PM,534
+Virgin Australia,VA867,29 Sep 2024,5:00 PM,534
+Virgin Australia,VA869,29 Sep 2024,5:10 PM,481
+Virgin Australia,VA871,29 Sep 2024,5:30 PM,481
+Virgin Australia,VA875,29 Sep 2024,6:00 PM,374
+Virgin Australia,VA879,29 Sep 2024,6:30 PM,374
+Virgin Australia,VA883,29 Sep 2024,7:00 PM,481
+Virgin Australia,VA803,30 Sep 2024,6:00 AM,197
+Virgin Australia,VA811,30 Sep 2024,7:00 AM,139
+Virgin Australia,VA815,30 Sep 2024,7:30 AM,155
+Virgin Australia,VA819,30 Sep 2024,8:00 AM,197
+Virgin Australia,VA823,30 Sep 2024,8:30 AM,197
+Virgin Australia,VA827,30 Sep 2024,9:00 AM,209
+Virgin Australia,VA833,30 Sep 2024,10:00 AM,230
+Virgin Australia,VA841,30 Sep 2024,12:00 PM,223
+Virgin Australia,VA849,30 Sep 2024,2:00 PM,223
+Virgin Australia,VA853,30 Sep 2024,3:00 PM,209
+Virgin Australia,VA859,30 Sep 2024,4:00 PM,209
+Virgin Australia,VA863,30 Sep 2024,4:30 PM,209
+Virgin Australia,VA867,30 Sep 2024,5:00 PM,176
+Virgin Australia,VA869,30 Sep 2024,5:10 PM,176
+Virgin Australia,VA871,30 Sep 2024,5:30 PM,197
+Virgin Australia,VA875,30 Sep 2024,6:00 PM,176
+Virgin Australia,VA879,30 Sep 2024,6:30 PM,176
+Virgin Australia,VA883,30 Sep 2024,7:00 PM,176
+Virgin Australia,VA803,1 Oct 2024,6:00 AM,139
+Virgin Australia,VA811,1 Oct 2024,7:00 AM,139
+Virgin Australia,VA815,1 Oct 2024,7:30 AM,149
+Virgin Australia,VA819,1 Oct 2024,8:00 AM,139
+Virgin Australia,VA823,1 Oct 2024,8:30 AM,139
+Virgin Australia,VA827,1 Oct 2024,9:00 AM,149
+Virgin Australia,VA833,1 Oct 2024,10:00 AM,149
+Virgin Australia,VA841,1 Oct 2024,12:00 PM,176
+Virgin Australia,VA849,1 Oct 2024,2:00 PM,197
+Virgin Australia,VA853,1 Oct 2024,3:00 PM,197
+Virgin Australia,VA859,1 Oct 2024,4:00 PM,176
+Virgin Australia,VA863,1 Oct 2024,4:30 PM,139
+Virgin Australia,VA867,1 Oct 2024,5:00 PM,139
+Virgin Australia,VA869,1 Oct 2024,5:10 PM,119
+Virgin Australia,VA871,1 Oct 2024,5:30 PM,119
+Virgin Australia,VA875,1 Oct 2024,6:00 PM,119
+Virgin Australia,VA879,1 Oct 2024,6:30 PM,119
+Virgin Australia,VA883,1 Oct 2024,7:00 PM,119
+Virgin Australia,VA803,2 Oct 2024,6:00 AM,149
+Virgin Australia,VA811,2 Oct 2024,7:00 AM,119
+Virgin Australia,VA815,2 Oct 2024,7:30 AM,139
+Virgin Australia,VA819,2 Oct 2024,8:00 AM,139
+Virgin Australia,VA823,2 Oct 2024,8:30 AM,139
+Virgin Australia,VA827,2 Oct 2024,9:00 AM,139
+Virgin Australia,VA833,2 Oct 2024,10:00 AM,149
+Virgin Australia,VA841,2 Oct 2024,12:00 PM,209
+Virgin Australia,VA849,2 Oct 2024,2:00 PM,149
+Virgin Australia,VA853,2 Oct 2024,3:00 PM,230
+Virgin Australia,VA859,2 Oct 2024,4:00 PM,149
+Virgin Australia,VA863,2 Oct 2024,4:30 PM,149
+Virgin Australia,VA867,2 Oct 2024,5:00 PM,149
+Virgin Australia,VA869,2 Oct 2024,5:10 PM,149
+Virgin Australia,VA871,2 Oct 2024,5:30 PM,149
+Virgin Australia,VA875,2 Oct 2024,6:00 PM,149
+Virgin Australia,VA879,2 Oct 2024,6:30 PM,149
+Virgin Australia,VA883,2 Oct 2024,7:00 PM,149
+Virgin Australia,VA803,3 Oct 2024,6:00 AM,149
+Virgin Australia,VA811,3 Oct 2024,7:00 AM,149
+Virgin Australia,VA815,3 Oct 2024,7:30 AM,149
+Virgin Australia,VA819,3 Oct 2024,8:00 AM,149
+Virgin Australia,VA823,3 Oct 2024,8:30 AM,149
+Virgin Australia,VA827,3 Oct 2024,9:00 AM,197
+Virgin Australia,VA833,3 Oct 2024,10:00 AM,223
+Virgin Australia,VA841,3 Oct 2024,12:00 PM,209
+Virgin Australia,VA849,3 Oct 2024,2:00 PM,209
+Virgin Australia,VA853,3 Oct 2024,3:00 PM,176
+Virgin Australia,VA859,3 Oct 2024,4:00 PM,149
+Virgin Australia,VA863,3 Oct 2024,4:30 PM,149
+Virgin Australia,VA867,3 Oct 2024,5:00 PM,149
+Virgin Australia,VA869,3 Oct 2024,5:15 PM,149
+Virgin Australia,VA871,3 Oct 2024,5:30 PM,149
+Virgin Australia,VA875,3 Oct 2024,6:00 PM,149
+Virgin Australia,VA879,3 Oct 2024,6:30 PM,149
+Virgin Australia,VA883,3 Oct 2024,7:00 PM,149
+Virgin Australia,VA803,4 Oct 2024,6:00 AM,223
+Virgin Australia,VA811,4 Oct 2024,7:00 AM,209
+Virgin Australia,VA815,4 Oct 2024,7:30 AM,210
+Virgin Australia,VA819,4 Oct 2024,8:00 AM,230
+Virgin Australia,VA823,4 Oct 2024,8:30 AM,230
+Virgin Australia,VA827,4 Oct 2024,9:00 AM,310
+Virgin Australia,VA833,4 Oct 2024,10:00 AM,534
+Virgin Australia,VA841,4 Oct 2024,12:00 PM,317
+Virgin Australia,VA849,4 Oct 2024,2:00 PM,310
+Virgin Australia,VA853,4 Oct 2024,3:00 PM,264
+Virgin Australia,VA859,4 Oct 2024,4:00 PM,474
+Virgin Australia,VA863,4 Oct 2024,4:30 PM,264
+Virgin Australia,VA867,4 Oct 2024,5:00 PM,223
+Virgin Australia,VA869,4 Oct 2024,5:15 PM,223
+Virgin Australia,VA871,4 Oct 2024,5:30 PM,310
+Virgin Australia,VA875,4 Oct 2024,6:00 PM,310
+Virgin Australia,VA879,4 Oct 2024,6:30 PM,223
+Virgin Australia,VA883,4 Oct 2024,7:00 PM,223
+Virgin Australia,VA803,5 Oct 2024,6:00 AM,176
+Virgin Australia,VA811,5 Oct 2024,7:00 AM,149
+Virgin Australia,VA815,5 Oct 2024,7:30 AM,149
+Virgin Australia,VA819,5 Oct 2024,8:00 AM,197
+Virgin Australia,VA823,5 Oct 2024,8:30 AM,197
+Virgin Australia,VA827,5 Oct 2024,9:00 AM,210
+Virgin Australia,VA833,5 Oct 2024,10:00 AM,197
+Virgin Australia,VA841,5 Oct 2024,12:00 PM,
+Virgin Australia,VA849,5 Oct 2024,2:00 PM,230
+Virgin Australia,VA853,5 Oct 2024,3:00 PM,
+Virgin Australia,VA859,5 Oct 2024,4:00 PM,223
+Virgin Australia,VA863,5 Oct 2024,4:30 PM,
+Virgin Australia,VA867,5 Oct 2024,5:00 PM,
+Virgin Australia,VA869,5 Oct 2024,5:15 PM,
+Virgin Australia,VA871,5 Oct 2024,5:30 PM,
+Virgin Australia,VA875,5 Oct 2024,6:00 PM,209
+Virgin Australia,VA879,5 Oct 2024,6:30 PM,
+Virgin Australia,VA883,5 Oct 2024,7:00 PM,
+Virgin Australia,VA803,6 Oct 2024,6:00 AM,139
+Virgin Australia,VA811,6 Oct 2024,7:00 AM,197
+Virgin Australia,VA815,6 Oct 2024,7:30 AM,
+Virgin Australia,VA819,6 Oct 2024,8:00 AM,197
+Virgin Australia,VA823,6 Oct 2024,8:30 AM,197
+Virgin Australia,VA827,6 Oct 2024,9:00 AM,197
+Virgin Australia,VA833,6 Oct 2024,10:00 AM,893
+Virgin Australia,VA841,6 Oct 2024,12:00 PM,374
+Virgin Australia,VA849,6 Oct 2024,2:00 PM,197
+Virgin Australia,VA853,6 Oct 2024,3:00 PM,223
+Virgin Australia,VA859,6 Oct 2024,4:00 PM,209
+Virgin Australia,VA863,6 Oct 2024,4:30 PM,209
+Virgin Australia,VA867,6 Oct 2024,5:00 PM,209
+Virgin Australia,VA869,6 Oct 2024,5:15 PM,209
+Virgin Australia,VA871,6 Oct 2024,5:30 PM,209
+Virgin Australia,VA875,6 Oct 2024,6:00 PM,176
+Virgin Australia,VA879,6 Oct 2024,6:30 PM,149
+Virgin Australia,VA883,6 Oct 2024,7:00 PM,149
