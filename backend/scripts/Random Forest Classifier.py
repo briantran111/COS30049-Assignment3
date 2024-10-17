@@ -6,7 +6,7 @@ from sklearn.metrics import accuracy_score, classification_report
 from datetime import datetime
 
 # Load the data
-df = pd.read_csv('delay_dataset.csv')
+df = pd.read_csv('../data/delay_dataset.csv')
 
 # Convert time columns to datetime
 df['Scheduled Time'] = pd.to_datetime(df['Scheduled Time'], format='%I:%M %p', errors='coerce')
@@ -64,5 +64,5 @@ print("Accuracy:", accuracy)
 print(classification_report(y_test, y_pred))
 
 # Assuming 'rf_model' is already trained
-with open('ml_models/random_forest_model.pkl', 'wb') as file:
+with open('../ml_models/random_forest_model.pkl', 'wb') as file:
     pickle.dump(rf_model, file)

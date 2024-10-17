@@ -1,8 +1,8 @@
 import pandas as pd
 
 # Load your datasets
-df_price = pd.read_csv('price_dataset.csv')
-df_delay = pd.read_csv('delay_dataset.csv')
+df_price = pd.read_csv('../data/price_dataset.csv')
+df_delay = pd.read_csv('../data/delay_dataset.csv')
 
 # Print the columns to check if 'Time' exists
 print("Price Dataset Columns:", df_price.columns.tolist())

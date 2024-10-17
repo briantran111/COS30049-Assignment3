@@ -6,7 +6,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 
 # Load the dataset
-flight_data = pd.read_csv('processed_flight_data.csv')
+flight_data = pd.read_csv('../data/processed_flight_data.csv')
 
 # Convert 'Day' to datetime and extract day of the week
 flight_data['Day'] = pd.to_datetime(flight_data['Day'], format="%d %b %Y")
@@ -69,5 +69,5 @@ r2_poly = r2_score(y_test, y_pred_poly)
 print(f"Mean Squared Error (Polynomial Model): {mse_poly:.2f}")
 print(f"R-squared (Polynomial Model): {r2_poly:.2f}")
 
-with open('ml_models/linear_regression_model.pkl', 'wb') as file:
+with open('../ml_models/linear_regression_model.pkl', 'wb') as file:
     pickle.dump(poly_model, file)
