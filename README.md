@@ -1,4 +1,45 @@
-# Getting Started with Create React App
+# Flight Prediction API
+
+This project implements a Flight Prediction API using FastAPI for the backend and React for the frontend.
+
+## Getting Started
+
+### Backend Setup
+
+1. **Navigate to the backend directory:**
+   ```bash
+   cd backend
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Start the FastAPI server:**
+   ```bash
+   python -m app.main
+   ```
+
+### Available Endpoints
+
+- **GET /**: Welcome message.
+- **POST /predict_price/**: Predict flight prices.
+  - **Request Body**: 
+    ```json
+    {
+      "input_data": [value1, value2]
+    }
+    ```
+- **POST /predict_delay/**: Predict flight delays.
+  - **Request Body**:
+    ```json
+    {
+      "input_data": [value1, value2]
+    }
+    ```
+
+### Frontend Setup
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
