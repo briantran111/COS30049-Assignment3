@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+scikit-learn
+joblib
+pydantic
+pandas
+npm install @mui/material @emotion/react @emotion/styled @mui/icons-material @mui/x-date-pickers date-fns react-router-dom
+
