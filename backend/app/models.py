@@ -1,8 +1,17 @@
+import os
 import joblib
 
 # Load the trained models
-poly_model = joblib.load('ml_models/linear_regression_model.pkl')
-rf_model = joblib.load('ml_models/random_forest_model.pkl')
+ml_models_dir = os.path.join(os.path.dirname(__file__), '../ml_models')
+
+poly_model_path = os.path.join(ml_models_dir, 'linear_regression_model.pkl')
+rf_model_path = os.path.join(ml_models_dir, 'random_forest_model.pkl')
+
+try:
+    poly_model = joblib.load(poly_model_path)
+    rf_model = joblib.load(rf_model_path)
+except FileNotFoundError as e:
+    print(f"Error loading model: {e}")
 
 def predict_price(input_data):
     """

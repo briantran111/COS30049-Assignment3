@@ -1,7 +1,7 @@
 from fastapi import FastAPI, HTTPException
-from app.schemas import PredictionRequest
-from app.models import predict_price, predict_delay
-from app.utils import preprocess, postprocess
+from .schemas import PredictionRequest
+from .models import predict_price, predict_delay
+from .utils import preprocess, postprocess
 
 app = FastAPI()
 
@@ -31,3 +31,8 @@ async def predict_flight_delay(request: PredictionRequest):
         return {"delay_prediction": result}
     except Exception as e:
         raise HTTPException(status_code=400, detail=str(e))
+
+if __name__ == "__main__":
+    import uvicorn
+    print("Starting FastAPI server...")
+    uvicorn.run(app, host="0.0.0.0", port=8000)
