@@ -1,12 +1,14 @@
 import pandas as pd
 import pickle
+import os
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report
 from datetime import datetime
 
-# Load the data
-df = pd.read_csv('../data/delay_dataset.csv')
+model_dir = '../backend/ml_models'
+# Load the dataset
+df = pd.read_csv('../backend/data/processed_flight_data.csv')
 
 # Convert time columns to datetime
 df['Scheduled Time'] = pd.to_datetime(df['Scheduled Time'], format='%I:%M %p', errors='coerce')
@@ -38,7 +40,10 @@ df['Time Period'] = df['Scheduled Time'].apply(bin_time)
 
 # Handle missing values in categorical columns
 df['Aircraft'] = df['Aircraft'].fillna('Unknown')
-df['Time Period'] = df['Time Period'].fillna('Unknown')
+most_frequent_time_period = df['Time Period'].mode()[0]
+
+# Fill missing 'Time Period' values with the most frequent value
+df['Time Period'] = df['Time Period'].replace('Unknown', most_frequent_time_period).fillna(most_frequent_time_period)
 
 # Define features and target variable for classification
 # Consider adding more features such as 'Day of Week', 'Time Period'
@@ -64,5 +69,5 @@ print("Accuracy:", accuracy)
 print(classification_report(y_test, y_pred))
 
 # Assuming 'rf_model' is already trained
-with open('../ml_models/random_forest_model.pkl', 'wb') as file:
+with open(os.path.join(model_dir,'random_forest_model.pkl'), 'wb') as file:
     pickle.dump(rf_model, file)
