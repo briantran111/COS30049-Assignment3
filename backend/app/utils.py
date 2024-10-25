@@ -1,37 +1,47 @@
 import numpy as np
-from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import RobustScaler, PolynomialFeatures
 
 # Assuming scaler is trained on training data for scaling purposes (replace with your actual scaler)
-scaler = StandardScaler()
 
-def preprocess(input_data, model_type):
-    """
-    Preprocess the input data to convert it into the format expected by the ML models.
-    :param input_data: The raw input data (list of features).
-    :param model_type: "price" for price prediction or "delay" for delay prediction.
-    """
-    input_data = np.array(input_data).reshape(1, -1)  # Reshape for model input
-    
-    if model_type == "price":
-        # For price model, you may need to scale or encode the input
-        input_data = scaler.transform(input_data)  # Assuming scaling is necessary
-    # You can add other preprocessing steps if needed (e.g., one-hot encoding)
-    
-    return input_data
 
-def postprocess(prediction, model_type):
+def preprocess_input(data, scaler, poly=None):
     """
-    Postprocess the model prediction to make it user-friendly.
-    :param prediction: The raw output from the model.
-    :param model_type: "price" or "delay" to adjust the output.
-    """
-    if model_type == "price":
-        # Return price prediction directly
-        return {"predicted_price": round(prediction[0], 2)}
+    Applies scaling and optional polynomial transformation to input data.
     
-    elif model_type == "delay":
-        # Return delay prediction in a human-readable format
-        if prediction[0] == 1:
-            return {"delay_prediction": "Delayed"}
-        else:
-            return {"delay_prediction": "On time"}
+    Parameters:
+        data (numpy array): Input data to preprocess.
+        scaler (RobustScaler): Fitted scaler to normalize data.
+        poly (PolynomialFeatures, optional): Fitted polynomial transformer.
+
+    Returns:
+        numpy array: Preprocessed data (scaled and optionally polynomial transformed).
+    """
+    # Apply scaling
+    data_scaled = scaler.transform(data)
+    
+    # Apply polynomial transformation if provided
+    if poly:
+        data_poly = poly.transform(data_scaled)
+        return data_poly
+
+    return data_scaled
+
+def prepare_input(input_data: dict, feature_names: list):
+    """
+    Converts request data from the FastAPI request to a numpy array for model input.
+    
+    Parameters:
+        request_data (dict): Dictionary of input features from the request.
+
+    Returns:
+        numpy array: Prepared data for model input.
+    """
+    # Extract feature values from request data and convert to numpy array
+    input_array = np.zeros(len(feature_names))
+
+    # Set values from the input data
+    for i, feature in enumerate(feature_names):
+        if feature in input_data:
+            input_array[i] = input_data[feature]
+
+    return input_array.reshape(1, -1)
