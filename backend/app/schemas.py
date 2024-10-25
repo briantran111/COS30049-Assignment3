@@ -1,8 +1,136 @@
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
-class PredictionRequest(BaseModel):
-    """
-    Schema for the input data sent to the API for making predictions.
-    This assumes that input_data is a list of numerical features.
-    """
-    input_data: list  # List of numerical values as input to the models
+# Example schema for price prediction request based on your feature list
+class PricePredictionRequest(BaseModel):
+    time: float = Field(..., description="Time in hours (24-hour format)")
+    day_of_week: int = Field(..., ge=0, le=6, description="Day of the week (0 for Monday, 6 for Sunday)")
+    scheduled_minutes: float = Field(..., description="Scheduled minutes converted to hours")
+
+    # Airline features
+    airline_quantas: int = Field(..., ge=0, le=1, description="1 if Qantas, else 0")
+    airline_virgin_australia: int = Field(..., ge=0, le=1, description="1 if Virgin Australia, else 0")
+
+    # Aircraft features
+    aircraft_jq502: int = Field(..., ge=0, le=1, description="1 if Aircraft JQ502, else 0")
+    aircraft_jq504: int = Field(..., ge=0, le=1, description="1 if Aircraft JQ504, else 0")
+    aircraft_jq508: int = Field(..., ge=0, le=1, description="1 if Aircraft JQ508, else 0")
+    aircraft_jq512: int = Field(..., ge=0, le=1, description="1 if Aircraft JQ512, else 0")
+    aircraft_jq518: int = Field(..., ge=0, le=1, description="1 if Aircraft JQ518, else 0")
+    aircraft_jq520: int = Field(..., ge=0, le=1, description="1 if Aircraft JQ520, else 0")
+    aircraft_jq522: int = Field(..., ge=0, le=1, description="1 if Aircraft JQ522, else 0")
+    aircraft_jq524: int = Field(..., ge=0, le=1, description="1 if Aircraft JQ524, else 0")
+    aircraft_jq528: int = Field(..., ge=0, le=1, description="1 if Aircraft JQ528, else 0")
+    aircraft_jq530: int = Field(..., ge=0, le=1, description="1 if Aircraft JQ530, else 0")
+    aircraft_jq532: int = Field(..., ge=0, le=1, description="1 if Aircraft JQ532, else 0")
+    aircraft_qf402: int = Field(..., ge=0, le=1, description="1 if Aircraft QF402, else 0")
+    aircraft_qf406: int = Field(..., ge=0, le=1, description="1 if Aircraft QF406, else 0")
+    aircraft_qf410: int = Field(..., ge=0, le=1, description="1 if Aircraft QF410, else 0")
+    aircraft_qf414: int = Field(..., ge=0, le=1, description="1 if Aircraft QF414, else 0")
+    aircraft_qf418: int = Field(..., ge=0, le=1, description="1 if Aircraft QF418, else 0")
+    aircraft_qf422: int = Field(..., ge=0, le=1, description="1 if Aircraft QF422, else 0")
+    aircraft_qf426: int = Field(..., ge=0, le=1, description="1 if Aircraft QF426, else 0")
+    aircraft_qf430: int = Field(..., ge=0, le=1, description="1 if Aircraft QF430, else 0")
+    aircraft_qf432: int = Field(..., ge=0, le=1, description="1 if Aircraft QF432, else 0")
+    aircraft_qf436: int = Field(..., ge=0, le=1, description="1 if Aircraft QF436, else 0")
+    aircraft_qf440: int = Field(..., ge=0, le=1, description="1 if Aircraft QF440, else 0")
+    aircraft_qf444: int = Field(..., ge=0, le=1, description="1 if Aircraft QF444, else 0")
+    aircraft_qf448: int = Field(..., ge=0, le=1, description="1 if Aircraft QF448, else 0")
+    aircraft_qf454: int = Field(..., ge=0, le=1, description="1 if Aircraft QF454, else 0")
+    aircraft_qf462: int = Field(..., ge=0, le=1, description="1 if Aircraft QF462, else 0")
+    aircraft_qf464: int = Field(..., ge=0, le=1, description="1 if Aircraft QF464, else 0")
+    aircraft_qf466: int = Field(..., ge=0, le=1, description="1 if Aircraft QF466, else 0")
+    aircraft_qf470: int = Field(..., ge=0, le=1, description="1 if Aircraft QF470, else 0")
+    aircraft_qf472: int = Field(..., ge=0, le=1, description="1 if Aircraft QF472, else 0")
+    aircraft_qf478: int = Field(..., ge=0, le=1, description="1 if Aircraft QF478, else 0")
+    aircraft_qf498: int = Field(..., ge=0, le=1, description="1 if Aircraft QF498, else 0")
+    aircraft_va803: int = Field(..., ge=0, le=1, description="1 if Aircraft VA803, else 0")
+    aircraft_va811: int = Field(..., ge=0, le=1, description="1 if Aircraft VA811, else 0")
+    aircraft_va815: int = Field(..., ge=0, le=1, description="1 if Aircraft VA815, else 0")
+    aircraft_va819: int = Field(..., ge=0, le=1, description="1 if Aircraft VA819, else 0")
+    aircraft_va823: int = Field(..., ge=0, le=1, description="1 if Aircraft VA823, else 0")
+    aircraft_va827: int = Field(..., ge=0, le=1, description="1 if Aircraft VA827, else 0")
+    aircraft_va833: int = Field(..., ge=0, le=1, description="1 if Aircraft VA833, else 0")
+    aircraft_va841: int = Field(..., ge=0, le=1, description="1 if Aircraft VA841, else 0")
+    aircraft_va849: int = Field(..., ge=0, le=1, description="1 if Aircraft VA849, else 0")
+    aircraft_va853: int = Field(..., ge=0, le=1, description="1 if Aircraft VA853, else 0")
+    aircraft_va859: int = Field(..., ge=0, le=1, description="1 if Aircraft VA859, else 0")
+    aircraft_va863: int = Field(..., ge=0, le=1, description="1 if Aircraft VA863, else 0")
+    aircraft_va867: int = Field(..., ge=0, le=1, description="1 if Aircraft VA867, else 0")
+    aircraft_va869: int = Field(..., ge=0, le=1, description="1 if Aircraft VA869, else 0")
+    aircraft_va871: int = Field(..., ge=0, le=1, description="1 if Aircraft VA871, else 0")
+    aircraft_va875: int = Field(..., ge=0, le=1, description="1 if Aircraft VA875, else 0")
+    aircraft_va879: int = Field(..., ge=0, le=1, description="1 if Aircraft VA879, else 0")
+    aircraft_va883: int = Field(..., ge=0, le=1, description="1 if Aircraft VA883, else 0")
+
+    # Time period features
+    time_period_evening: int = Field(..., ge=0, le=1, description="1 if Evening, else 0")
+    time_period_morning: int = Field(..., ge=0, le=1, description="1 if Morning, else 0")
+# Example schema for delay prediction request (same as price prediction request)
+class DelayPredictionRequest(PricePredictionRequest):
+    day_of_week: int = Field(..., ge=0, le=6, description="Day of the week (0 for Monday, 6 for Sunday)")
+
+    # Aircraft features
+    aircraft_jq502: int = Field(..., ge=0, le=1, description="1 if Aircraft JQ502, else 0")
+    aircraft_jq504: int = Field(..., ge=0, le=1, description="1 if Aircraft JQ504, else 0")
+    aircraft_jq508: int = Field(..., ge=0, le=1, description="1 if Aircraft JQ508, else 0")
+    aircraft_jq512: int = Field(..., ge=0, le=1, description="1 if Aircraft JQ512, else 0")
+    aircraft_jq518: int = Field(..., ge=0, le=1, description="1 if Aircraft JQ518, else 0")
+    aircraft_jq520: int = Field(..., ge=0, le=1, description="1 if Aircraft JQ520, else 0")
+    aircraft_jq522: int = Field(..., ge=0, le=1, description="1 if Aircraft JQ522, else 0")
+    aircraft_jq524: int = Field(..., ge=0, le=1, description="1 if Aircraft JQ524, else 0")
+    aircraft_jq528: int = Field(..., ge=0, le=1, description="1 if Aircraft JQ528, else 0")
+    aircraft_jq530: int = Field(..., ge=0, le=1, description="1 if Aircraft JQ530, else 0")
+    aircraft_jq532: int = Field(..., ge=0, le=1, description="1 if Aircraft JQ532, else 0")
+    aircraft_qf402: int = Field(..., ge=0, le=1, description="1 if Aircraft QF402, else 0")
+    aircraft_qf406: int = Field(..., ge=0, le=1, description="1 if Aircraft QF406, else 0")
+    aircraft_qf410: int = Field(..., ge=0, le=1, description="1 if Aircraft QF410, else 0")
+    aircraft_qf414: int = Field(..., ge=0, le=1, description="1 if Aircraft QF414, else 0")
+    aircraft_qf418: int = Field(..., ge=0, le=1, description="1 if Aircraft QF418, else 0")
+    aircraft_qf422: int = Field(..., ge=0, le=1, description="1 if Aircraft QF422, else 0")
+    aircraft_qf426: int = Field(..., ge=0, le=1, description="1 if Aircraft QF426, else 0")
+    aircraft_qf430: int = Field(..., ge=0, le=1, description="1 if Aircraft QF430, else 0")
+    aircraft_qf432: int = Field(..., ge=0, le=1, description="1 if Aircraft QF432, else 0")
+    aircraft_qf436: int = Field(..., ge=0, le=1, description="1 if Aircraft QF436, else 0")
+    aircraft_qf440: int = Field(..., ge=0, le=1, description="1 if Aircraft QF440, else 0")
+    aircraft_qf444: int = Field(..., ge=0, le=1, description="1 if Aircraft QF444, else 0")
+    aircraft_qf448: int = Field(..., ge=0, le=1, description="1 if Aircraft QF448, else 0")
+    aircraft_qf454: int = Field(..., ge=0, le=1, description="1 if Aircraft QF454, else 0")
+    aircraft_qf462: int = Field(..., ge=0, le=1, description="1 if Aircraft QF462, else 0")
+    aircraft_qf464: int = Field(..., ge=0, le=1, description="1 if Aircraft QF464, else 0")
+    aircraft_qf466: int = Field(..., ge=0, le=1, description="1 if Aircraft QF466, else 0")
+    aircraft_qf470: int = Field(..., ge=0, le=1, description="1 if Aircraft QF470, else 0")
+    aircraft_qf472: int = Field(..., ge=0, le=1, description="1 if Aircraft QF472, else 0")
+    aircraft_qf478: int = Field(..., ge=0, le=1, description="1 if Aircraft QF478, else 0")
+    aircraft_qf498: int = Field(..., ge=0, le=1, description="1 if Aircraft QF498, else 0")
+    aircraft_va803: int = Field(..., ge=0, le=1, description="1 if Aircraft VA803, else 0")
+    aircraft_va811: int = Field(..., ge=0, le=1, description="1 if Aircraft VA811, else 0")
+    aircraft_va815: int = Field(..., ge=0, le=1, description="1 if Aircraft VA815, else 0")
+    aircraft_va819: int = Field(..., ge=0, le=1, description="1 if Aircraft VA819, else 0")
+    aircraft_va823: int = Field(..., ge=0, le=1, description="1 if Aircraft VA823, else 0")
+    aircraft_va827: int = Field(..., ge=0, le=1, description="1 if Aircraft VA827, else 0")
+    aircraft_va833: int = Field(..., ge=0, le=1, description="1 if Aircraft VA833, else 0")
+    aircraft_va841: int = Field(..., ge=0, le=1, description="1 if Aircraft VA841, else 0")
+    aircraft_va849: int = Field(..., ge=0, le=1, description="1 if Aircraft VA849, else 0")
+    aircraft_va853: int = Field(..., ge=0, le=1, description="1 if Aircraft VA853, else 0")
+    aircraft_va859: int = Field(..., ge=0, le=1, description="1 if Aircraft VA859, else 0")
+    aircraft_va863: int = Field(..., ge=0, le=1, description="1 if Aircraft VA863, else 0")
+    aircraft_va867: int = Field(..., ge=0, le=1, description="1 if Aircraft VA867, else 0")
+    aircraft_va869: int = Field(..., ge=0, le=1, description="1 if Aircraft VA869, else 0")
+    aircraft_va871: int = Field(..., ge=0, le=1, description="1 if Aircraft VA871, else 0")
+    aircraft_va875: int = Field(..., ge=0, le=1, description="1 if Aircraft VA875, else 0")
+    aircraft_va879: int = Field(..., ge=0, le=1, description="1 if Aircraft VA879, else 0")
+    aircraft_va883: int = Field(..., ge=0, le=1, description="1 if Aircraft VA883, else 0")
+
+    # Time period features
+    time_period_evening: int = Field(..., ge=0, le=1, description="1 if Evening, else 0")
+    time_period_morning: int = Field(..., ge=0, le=1, description="1 if Morning, else 0")
+   
+
+
+# Schema for price prediction response
+class PricePredictionResponse(BaseModel):
+    predicted_price: float
+
+# Schema for delay prediction response
+class DelayPredictionResponse(BaseModel):
+    delay_prediction: str
