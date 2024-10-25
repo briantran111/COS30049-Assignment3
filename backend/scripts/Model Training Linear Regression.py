@@ -6,9 +6,9 @@ from sklearn.preprocessing import PolynomialFeatures, RobustScaler
 from sklearn.linear_model import Ridge
 from sklearn.metrics import mean_squared_error, r2_score
 
-model_dir = 'C:/Users/wilbert/Downloads/COS30049-Assignment3-main/COS30049-Assignment3-main/backend/ml_models'
+model_dir = '../backend/ml_models'
 # Load the dataset
-flight_data = pd.read_csv('C:/Users/wilbert/Downloads/COS30049-Assignment3-main/COS30049-Assignment3-main/backend/data/processed_flight_data.csv')
+flight_data = pd.read_csv('../backend/data/processed_flight_data.csv')
 
 
 # Convert 'Day' to datetime and extract day of the week
