@@ -1,11 +1,18 @@
-from fastapi import FastAPI, HTTPException
-from schemas import PricePredictionRequest, DelayPredictionRequest, PricePredictionResponse, DelayPredictionResponse
-from models import load_all_models
-from utils import prepare_input, preprocess_input
+from fastapi import FastAPI, HTTPException, Request
+from backend.app.schemas import PricePredictionRequest, DelayPredictionRequest, PricePredictionResponse, DelayPredictionResponse
+from backend.app.models import load_all_models
+from backend.app.utils import prepare_input, preprocess_input
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],    
+)
 
-# Load models at startup
 ridge_model, scaler, poly, rf_model = load_all_models()
 delay_feature_names = [
     'day_of_week', 
@@ -39,41 +46,51 @@ feature_names = [
     'aircraft_va879', 'aircraft_va883', 'time_period_evening', 'time_period_morning'
 ]
 
-print(f"Number of expected features: {len(feature_names)}")
+@app.post("/api/findFlights")
+async def find_flights(request: Request):
+    data = await request.json()
+    print("Raw input data from request:", data)
+    print("Feature names:", feature_names)
+
+
+    try:
+        # Prepare the input data
+        input_data = prepare_input(data, feature_names)
+        print("Prepared input data for model (before scaling):", input_data)
+
+        # Transform the input data
+        input_poly = preprocess_input(input_data, scaler, poly)
+        print("Transformed input data for model (after scaling and transformation):", input_poly)
+
+        # Make predictions
+        predicted_price = max(0, ridge_model.predict(input_poly)[0])
+        print("Predicted price:", predicted_price)
+
+        # Delay prediction
+        delay_data = prepare_input(data, delay_feature_names)
+        delay_prediction = rf_model.predict(delay_data)[0]
+        delay_label = "Delayed" if delay_prediction == 1 else "On time"
+        print("Delay prediction:", delay_label)
+
+        return {
+            "message": "Flights found successfully!",
+            "predicted_price": predicted_price,
+            "delay_prediction": delay_label,
+            "input_data": {
+                "selectedDate": data.get("selectedDate"),
+                "start_time": data.get("startTime"),
+                "end_time": data.get("endTime"),
+                "selected_airline": data.get("selectedAirline"),
+            },
+        }
+
+    except Exception as e:
+        print(f"Error in flight search: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Error in flight search: {str(e)}")
+
 @app.get("/")
 async def root():
     return {"message": "Welcome to the Flight Prediction API!"}
-
-@app.post("/predict_price/", response_model=PricePredictionResponse)
-async def predict_flight_price(request: PricePredictionRequest):
-    try:
-        # Convert request data to numpy array
-        input_data = prepare_input(request.dict(), feature_names)
-        print(f"Input shape before scaling: {input_data.shape}")
-        # Apply scaling and polynomial transformation
-        input_poly = preprocess_input(input_data, scaler, poly)
-        print(f"Input shape after polynomial transformation: {input_poly.shape}")
-        # Make price prediction
-        predicted_price = ridge_model.predict(input_poly)[0]
-        return {"predicted_price": predicted_price}
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error in price prediction: {str(e)}")
-
-@app.post("/predict_delay/", response_model=DelayPredictionResponse)
-async def predict_flight_delay(request: DelayPredictionRequest):
-    try:
-        # Convert request data to numpy array
-        input_data = prepare_input(request.dict(), delay_feature_names)
-
-        # Scale input for delay prediction (no polynomial transformation)
-        input_scaled = input_data
-
-        # Make delay prediction
-        delay_prediction = rf_model.predict(input_scaled)[0]
-        delay_label = "Delayed" if delay_prediction == 1 else "On time"
-        return {"delay_prediction": delay_label}
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error in delay prediction: {str(e)}")
 
 if __name__ == "__main__":
     import uvicorn
