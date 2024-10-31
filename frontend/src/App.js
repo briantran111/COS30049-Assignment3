@@ -35,15 +35,54 @@ function Form() {
         setFormValid(selectedDate && startTime && endTime && selectedAirline && !timeError);
     };
 
-    const handleFindFlights = () => {
+    const handleFindFlights = async () => {
         if (formValid) {
             setLoading(true);
-            setTimeout(() => {
+            try {
+                // Combine the selected date with start and end times
+                const combinedStartDate = new Date(selectedDate);
+                combinedStartDate.setHours(startTime.getHours());
+                combinedStartDate.setMinutes(startTime.getMinutes());
+    
+                const combinedEndDate = new Date(selectedDate);
+                combinedEndDate.setHours(endTime.getHours());
+                combinedEndDate.setMinutes(endTime.getMinutes());
+    
+                // Convert to UTC
+                const startTimeUTC = combinedStartDate.toISOString();
+                const endTimeUTC = combinedEndDate.toISOString();
+    
+                const response = await fetch('http://localhost:8000/api/findFlights', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        selectedDate: selectedDate.toISOString(), // Send the selected date as well
+                        startTime: startTimeUTC,
+                        endTime: endTimeUTC,
+                        selectedAirline,
+                    }),
+                });
+    
+                const data = await response.json();
+                if (response.ok) {
+                    console.log("Flights found:", data);
+                    setSnackbarOpen(true);
+                } else {
+                    console.error("Error finding flights:", data);
+                }
+            } catch (error) {
+                console.error("Error in request:", error);
+            } finally {
                 setLoading(false);
-                setSnackbarOpen(true); // Show success snackbar after loading is complete
-            }, 2000);
+            }
         }
     };
+    
+      
+      
+      
 
     // Validation check: Ensure that end time is after start time
     const handleStartTimeChange = (newValue) => {
@@ -94,32 +133,39 @@ function Form() {
 
             {/* Section 2: Start Time Picker */}
             <Box sx={{ mb: 3 }}>
-                <FormControl fullWidth>
-                    <InputLabel>Start Time</InputLabel>
-                    <LocalizationProvider dateAdapter={AdapterDateFns}>
-                        <TimePicker
-                            value={startTime}
-                            onChange={handleStartTimeChange} // Updated handler
-                            renderInput={(params) => <TextField {...params} fullWidth />}
-                        />
-                    </LocalizationProvider>
-                    {timeError && (
-                        <FormHelperText error>
-                            End time must be after start time
-                        </FormHelperText>
-                    )}
-                </FormControl>
+            <FormControl fullWidth>
+                <LocalizationProvider dateAdapter={AdapterDateFns}>
+                    <TimePicker
+                        label="Start Time"
+                        value={startTime}
+                        onChange={handleStartTimeChange}
+                        renderInput={(params) => (
+                            <TextField
+                                {...params}
+                                fullWidth
+                                InputProps={{ shrink: true }} // Directly manage the input
+                             />
+                        )}
+                    />
+                </LocalizationProvider>
+            </FormControl>
             </Box>
 
             {/* Section 3: End Time Picker */}
             <Box sx={{ mb: 3 }}>
                 <FormControl fullWidth>
-                    <InputLabel>End Time</InputLabel>
                     <LocalizationProvider dateAdapter={AdapterDateFns}>
                         <TimePicker
+                            label="End Time"
                             value={endTime}
-                            onChange={handleEndTimeChange} // Updated handler
-                            renderInput={(params) => <TextField {...params} fullWidth />}
+                            onChange={handleEndTimeChange}
+                            renderInput={(params) => (
+                                <TextField
+                                {...params}
+                                fullWidth
+                                InputProps={{ shrink: true }} // Ensures the input label shrinks correctly
+                                />
+                             )}
                         />
                     </LocalizationProvider>
                     {timeError && (
@@ -130,18 +176,24 @@ function Form() {
                 </FormControl>
             </Box>
 
+
             {/* Section 4: Airline Selector */}
             <Box sx={{ mb: 3 }}>
                 <FormControl fullWidth>
-                    <InputLabel>Choose an Airline</InputLabel>
-                    <Select
-                        value={selectedAirline}
-                        onChange={(e) => setSelectedAirline(e.target.value)}
-                    >
+                <TextField
+                    select
+                    label="Choose an Airline"
+                    value={selectedAirline}
+                    onChange={(e) => setSelectedAirline(e.target.value)}
+                    variant="outlined" // Use 'outlined' for consistent box styling
+                >
+                        <MenuItem value="">
+                            <em>None</em>
+                        </MenuItem>
                         <MenuItem value="Jetstar">Jetstar</MenuItem>
                         <MenuItem value="Quantas">Quantas</MenuItem>
                         <MenuItem value="Virgin Australia">Virgin Australia</MenuItem>
-                    </Select>
+                </TextField>
                 </FormControl>
             </Box>
 
