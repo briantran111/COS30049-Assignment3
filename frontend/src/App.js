@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes, Link, useLocation } from 'react-router-dom';
 import {
     AppBar, Toolbar, Typography, Container, Grid, Card, CardContent, Button, Box,
     Drawer, List, ListItem, ListItemIcon, ListItemText, IconButton, TextField,
@@ -13,7 +13,7 @@ import {
     Info as InfoIcon,
     Assignment as AssignmentIcon
 } from '@mui/icons-material';
-import { FormControl, InputLabel, MenuItem, Select, FormHelperText } from '@mui/material';
+import { FormControl, InputLabel, MenuItem, Select, FormHelperText, useMediaQuery } from '@mui/material';
 import { DatePicker, TimePicker } from '@mui/x-date-pickers';
 import { LocalizationProvider } from '@mui/x-date-pickers/LocalizationProvider';
 import { AdapterDateFns } from '@mui/x-date-pickers/AdapterDateFns'; // Required for date/time pickers
@@ -26,12 +26,10 @@ function Form() {
     const [selectedAirline, setSelectedAirline] = useState('');
     const [loading, setLoading] = useState(false);
     const [formValid, setFormValid] = useState(false);
-    const [timeError, setTimeError] = useState(false); // New state for time error
+    const [timeError, setTimeError] = useState(false);
     const [snackbarOpen, setSnackbarOpen] = useState(false);
 
-    // Function to check form validity
     const checkFormValidity = () => {
-        // Form is valid if all fields are filled and no time error
         setFormValid(selectedDate && startTime && endTime && selectedAirline && !timeError);
     };
 
@@ -39,32 +37,28 @@ function Form() {
         if (formValid) {
             setLoading(true);
             try {
-                // Combine the selected date with start and end times
                 const combinedStartDate = new Date(selectedDate);
-                combinedStartDate.setHours(startTime.getHours());
-                combinedStartDate.setMinutes(startTime.getMinutes());
-    
+                combinedStartDate.setHours(startTime.getHours(), startTime.getMinutes());
+
                 const combinedEndDate = new Date(selectedDate);
-                combinedEndDate.setHours(endTime.getHours());
-                combinedEndDate.setMinutes(endTime.getMinutes());
-    
-                // Convert to UTC
+                combinedEndDate.setHours(endTime.getHours(), endTime.getMinutes());
+
                 const startTimeUTC = combinedStartDate.toISOString();
                 const endTimeUTC = combinedEndDate.toISOString();
-    
+
                 const response = await fetch('http://localhost:8000/api/findFlights', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
                     },
                     body: JSON.stringify({
-                        selectedDate: selectedDate.toISOString(), // Send the selected date as well
+                        selectedDate: selectedDate.toISOString(),
                         startTime: startTimeUTC,
                         endTime: endTimeUTC,
                         selectedAirline,
                     }),
                 });
-    
+
                 const data = await response.json();
                 if (response.ok) {
                     console.log("Flights found:", data);
@@ -79,16 +73,9 @@ function Form() {
             }
         }
     };
-    
-      
-      
-      
 
-    // Validation check: Ensure that end time is after start time
     const handleStartTimeChange = (newValue) => {
         setStartTime(newValue);
-
-        // Validate that start time is before end time
         if (endTime && newValue >= endTime) {
             setTimeError(true);
         } else {
@@ -98,8 +85,6 @@ function Form() {
 
     const handleEndTimeChange = (newValue) => {
         setEndTime(newValue);
-
-        // Validate that end time is after start time
         if (startTime && newValue <= startTime) {
             setTimeError(true);
         } else {
@@ -107,51 +92,47 @@ function Form() {
         }
     };
 
-    // Update form validity on field change
     useEffect(() => {
         checkFormValidity();
     }, [selectedDate, startTime, endTime, selectedAirline, timeError]);
 
     return (
-        <Container component="main" sx={{ mt: 8, mb: 2 }}>
-            <Typography variant="h2" component="h1" gutterBottom>
+        <Container component="main" sx={{ mt: 8, mb: 2, bgcolor: (theme) => theme.palette.background.default, color: (theme) => theme.palette.text.primary, borderRadius: 1, p: 3 }}>
+            <Typography variant="h2" component="h1" sx={{ fontSize: { xs: '1.5rem', sm: '2.5rem', md: '3rem' } }}>
                 Find Flights
             </Typography>
 
-            {/* Section 1: Date Picker */}
             <Box sx={{ mb: 3 }}>
                 <LocalizationProvider dateAdapter={AdapterDateFns}>
                     <DatePicker
                         label="Pick a day"
                         value={selectedDate}
                         onChange={(newValue) => setSelectedDate(newValue)}
-                        minDate={new Date()} // Starts from today
+                        minDate={new Date()}
                         renderInput={(params) => <TextField {...params} fullWidth />}
                     />
                 </LocalizationProvider>
             </Box>
 
-            {/* Section 2: Start Time Picker */}
             <Box sx={{ mb: 3 }}>
-            <FormControl fullWidth>
-                <LocalizationProvider dateAdapter={AdapterDateFns}>
-                    <TimePicker
-                        label="Start Time"
-                        value={startTime}
-                        onChange={handleStartTimeChange}
-                        renderInput={(params) => (
-                            <TextField
-                                {...params}
-                                fullWidth
-                                InputProps={{ shrink: true }} // Directly manage the input
-                             />
-                        )}
-                    />
-                </LocalizationProvider>
-            </FormControl>
+                <FormControl fullWidth>
+                    <LocalizationProvider dateAdapter={AdapterDateFns}>
+                        <TimePicker
+                            label="Start Time"
+                            value={startTime}
+                            onChange={handleStartTimeChange}
+                            renderInput={(params) => (
+                                <TextField
+                                    {...params}
+                                    fullWidth
+                                    InputProps={{ shrink: true }}
+                                />
+                            )}
+                        />
+                    </LocalizationProvider>
+                </FormControl>
             </Box>
 
-            {/* Section 3: End Time Picker */}
             <Box sx={{ mb: 3 }}>
                 <FormControl fullWidth>
                     <LocalizationProvider dateAdapter={AdapterDateFns}>
@@ -161,11 +142,11 @@ function Form() {
                             onChange={handleEndTimeChange}
                             renderInput={(params) => (
                                 <TextField
-                                {...params}
-                                fullWidth
-                                InputProps={{ shrink: true }} // Ensures the input label shrinks correctly
+                                    {...params}
+                                    fullWidth
+                                    InputProps={{ shrink: true }}
                                 />
-                             )}
+                            )}
                         />
                     </LocalizationProvider>
                     {timeError && (
@@ -176,40 +157,36 @@ function Form() {
                 </FormControl>
             </Box>
 
-
-            {/* Section 4: Airline Selector */}
             <Box sx={{ mb: 3 }}>
                 <FormControl fullWidth>
-                <TextField
-                    select
-                    label="Choose an Airline"
-                    value={selectedAirline}
-                    onChange={(e) => setSelectedAirline(e.target.value)}
-                    variant="outlined" // Use 'outlined' for consistent box styling
-                >
+                    <TextField
+                        select
+                        label="Choose an Airline"
+                        value={selectedAirline}
+                        onChange={(e) => setSelectedAirline(e.target.value)}
+                        variant="outlined"
+                    >
                         <MenuItem value="">
                             <em>None</em>
                         </MenuItem>
                         <MenuItem value="Jetstar">Jetstar</MenuItem>
                         <MenuItem value="Quantas">Quantas</MenuItem>
                         <MenuItem value="Virgin Australia">Virgin Australia</MenuItem>
-                </TextField>
+                    </TextField>
                 </FormControl>
             </Box>
 
-            {/* Find Flights Button */}
             <Box sx={{ textAlign: 'center' }}>
                 <Button
                     variant="contained"
                     color="primary"
                     onClick={handleFindFlights}
-                    disabled={!formValid || loading || timeError} // Disable if form is invalid, loading, or if there's a time error
+                    disabled={!formValid || loading || timeError}
                 >
                     {loading ? <CircularProgress size={24} color="inherit" /> : 'Find Flights'}
                 </Button>
             </Box>
 
-            {/* Snackbar for success message */}
             <Snackbar open={snackbarOpen} autoHideDuration={6000} onClose={() => setSnackbarOpen(false)}>
                 <Alert onClose={() => setSnackbarOpen(false)} severity="success" sx={{ width: '100%' }}>
                     Flights found successfully!
@@ -223,35 +200,33 @@ function Form() {
 function About() {
     return (
         <Container>
-            <Typography variant="h2" component="h1" gutterBottom>
+            <Typography variant="h2" component="h1" gutterBottom sx={{ fontSize: { xs: '1.5rem', sm: '2rem', md: '2.5rem' } }}>
             </Typography>
-            <Typography variant="h2" component="h1" gutterBottom>
+            <Typography variant="h2" component="h1" gutterBottom sx={{ fontSize: { xs: '1.5rem', sm: '2rem', md: '2.5rem' } }}>
                 About Us
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
                 We are Team BWB, consisted of three members:
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
                 + Do Quang Anh - 103801086
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
-                +  Brian Tran - 104023496
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
+                + Brian Tran - 104023496
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
-                +  Wilbert Kruskie - 104323659
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
+                + Wilbert Kruskie - 104323659
             </Typography>
-            <Typography variant="h2" component="h1" gutterBottom>
-            </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
                 Our topic for the project is Civil Aviation:
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
-                Investigate and analyze the factors influencing flight prices or flight delays. 
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
+                Investigate and analyze the factors influencing flight prices or flight delays.
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
                 Use machine learning techniques for prediction, attribution, or classification
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
                 to better understand and manage flight prices and delays.
             </Typography>
         </Container>
@@ -262,24 +237,24 @@ function About() {
 function Note() {
     return (
         <Container>
-            <Typography variant="h2" component="h1" gutterBottom>
+            <Typography variant="h2" component="h1" gutterBottom sx={{ fontSize: { xs: '1.5rem', sm: '2rem', md: '2.5rem' } }}>
             </Typography>
-            <Typography variant="h2" component="h1" gutterBottom>
+            <Typography variant="h2" component="h1" gutterBottom sx={{ fontSize: { xs: '1.5rem', sm: '2rem', md: '2.5rem' } }}>
                 Note
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
                 To control the scope of the project, we have set the following limits:
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
                 + Every flight is from Melbourne to Sydney
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
                 + Each flight is managed by Jetstar, Quantas or Virgin Australia Airline
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
                 + The prices listed are of one adult travelling, only the cost for the flight seat 
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
                 is covered with no other costs such as luggage or meal cost and assuming the seat class is Economy.
             </Typography>
         </Container>
@@ -290,33 +265,33 @@ function Note() {
 function PriceFactor() {
     return (
         <Container>
-            <Typography variant="h2" component="h1" gutterBottom>
+            <Typography variant="h2" component="h1" gutterBottom sx={{ fontSize: { xs: '1.5rem', sm: '2rem', md: '2.5rem' } }}>
             </Typography>
-            <Typography variant="h2" component="h1" gutterBottom>
+            <Typography variant="h2" component="h1" gutterBottom sx={{ fontSize: { xs: '1.5rem', sm: '2rem', md: '2.5rem' } }}>
                 Price Factor
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
             The price of flights can be influenced by the following factors: 
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
             + Seasonality: Prices tend to be higher during peak travel seasons like holidays and summer vacations due to increased demand.
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
             + Oil Prices: Since fuel is a major expense for airlines, fluctuations in oil prices can impact ticket costs.
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
             + Demand and Supply: Higher demand for flights can lead to higher prices, while more competition among airlines can drive prices down.
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
             + Distance: Longer flights generally cost more than shorter ones.
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
             + Time of Booking: Booking flights well in advance or last-minute can affect prices, with last-minute bookings often being more expensive.
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
             + Business vs. Leisure Travelers: Business travelers are often willing to pay more for flexibility, which can influence pricing strategies.
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
             + Type of Airline: Low-cost carriers usually offer cheaper tickets compared to full-service airlines.
             </Typography>
         </Container>
@@ -327,33 +302,33 @@ function PriceFactor() {
 function DelayFactor() {
     return (
         <Container>
-            <Typography variant="h2" component="h1" gutterBottom>
+            <Typography variant="h2" component="h1" gutterBottom sx={{ fontSize: { xs: '1.5rem', sm: '2rem', md: '2.5rem' } }}>
             </Typography>
-            <Typography variant="h2" component="h1" gutterBottom>
+            <Typography variant="h2" component="h1" gutterBottom sx={{ fontSize: { xs: '1.5rem', sm: '2rem', md: '2.5rem' } }}>
                 Delay Factor
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
             The delay of flights can be influenced by the following factors: 
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
             + Weather Conditions: Adverse weather such as thunderstorms, snowstorms, and dense fog can create hazardous flying conditions and disrupt schedules.
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
             + Air Traffic Congestion: Increased air travel leads to crowded skies and busy airports, which can cause delays.
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
             + Mechanical Issues: Technical problems with the aircraft can lead to delays while repairs are made.
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
             + Operational Challenges: Issues like late-arriving aircraft, crew scheduling problems, and airport operations can contribute to delays.
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
             + Security Concerns: Enhanced security measures can sometimes slow down the boarding process.
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
             + Runway Incidents: Accidents or incidents on the runway can cause temporary closures and delays.
             </Typography>
-            <Typography variant="h5" component="h2" gutterBottom>
+            <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
             + Seasonal Variations: Certain times of the year, like holiday seasons, can see increased traffic and potential delays.
             </Typography>
         </Container>
@@ -366,6 +341,9 @@ function App() {
     const [snackbarOpen, setSnackbarOpen] = useState(false);
     const [dialogOpen, setDialogOpen] = useState(false);
     const [loading, setLoading] = useState(false);
+    const location = useLocation(); // Get current location
+    const isLargeScreen = useMediaQuery('(min-width:600px)'); // Check if screen is large enough
+
     const toggleDrawer = (open) => (event) => {
         if (event.type === 'keydown' && (event.key === 'Tab' || event.key === 'Shift')) {
             return;
@@ -382,6 +360,10 @@ function App() {
         }
         setSnackbarOpen(false);
     };
+    const getActiveStyle = (path) => ({
+        color: location.pathname === path ? 'secondary.main' : 'inherit',
+        fontWeight: location.pathname === path ? 'bold' : 'normal',
+    });
     const handleDialogOpen = () => {
         setDialogOpen(true);
     };
@@ -400,27 +382,27 @@ function App() {
         <Box sx={{ width: 250 }} role="presentation" onClick={toggleDrawer(false)}
             onKeyDown={toggleDrawer(false)}>
             <List>
-                <ListItem button component={Link} to="/">
+                <ListItem button component={Link} to="/" sx={getActiveStyle('/')}>
                     <ListItemIcon><HomeIcon /></ListItemIcon>
                     <ListItemText primary="Home" />
                 </ListItem>
-                <ListItem button component={Link} to="/form">
+                <ListItem button component={Link} to="/form" sx={getActiveStyle('/form')}>
                     <ListItemIcon><AssignmentIcon /></ListItemIcon>
                     <ListItemText primary="Form" />
                 </ListItem>
-                <ListItem button component={Link} to="/about">
+                <ListItem button component={Link} to="/about" sx={getActiveStyle('/about')}>
                     <ListItemIcon><InfoIcon /></ListItemIcon>
                     <ListItemText primary="About" />
                 </ListItem>
-                <ListItem button component={Link} to="/note">
+                <ListItem button component={Link} to="/note" sx={getActiveStyle('/note')}>
                     <ListItemIcon><InfoIcon /></ListItemIcon>
                     <ListItemText primary="Note" />
                 </ListItem>
-                <ListItem button component={Link} to="/pricefactor">
+                <ListItem button component={Link} to="/pricefactor" sx={getActiveStyle('/pricefactor')}>
                     <ListItemIcon><InfoIcon /></ListItemIcon>
                     <ListItemText primary="Price Factor" />
                 </ListItem>
-                <ListItem button component={Link} to="/delayfactor">
+                <ListItem button component={Link} to="/delayfactor" sx={getActiveStyle('/delayfactor')}>
                     <ListItemIcon><InfoIcon /></ListItemIcon>
                     <ListItemText primary="Delay Factor" />
                 </ListItem>
@@ -450,11 +432,15 @@ function App() {
                         BWB Flight Service
                     </Typography>
                     {/* Add About Button in the AppBar */}
-                    <Button color="inherit" component={Link} to="/form">Form</Button>
-                    <Button color="inherit" component={Link} to="/about">About</Button>
-                    <Button color="inherit" component={Link} to="/note">Note</Button>
-                    <Button color="inherit" component={Link} to="/pricefactor">Price Factor</Button>
-                    <Button color="inherit" component={Link} to="/delayfactor">Delay Factor</Button>
+                    {isLargeScreen && (
+                        <>
+                            <Button color="inherit" component={Link} to="/form" sx={getActiveStyle('/form')}>Form</Button>
+                            <Button color="inherit" component={Link} to="/about" sx={getActiveStyle('/about')}>About</Button>
+                            <Button color="inherit" component={Link} to="/note" sx={getActiveStyle('/note')}>Note</Button>
+                            <Button color="inherit" component={Link} to="/pricefactor" sx={getActiveStyle('/pricefactor')}>Price Factor</Button>
+                            <Button color="inherit" component={Link} to="/delayfactor" sx={getActiveStyle('/delayfactor')}>Delay Factor</Button>
+                        </>
+                    )}
                 </Toolbar>
             </AppBar>
             <Drawer anchor="left" open={drawerOpen} onClose={toggleDrawer(false)}>
@@ -463,27 +449,27 @@ function App() {
             <Routes>
                 <Route path="/" element={
                     <Container component="main" sx={{ mt: 8, mb: 2, flex: 1 }}>
-                        <Typography variant="h2" component="h1" gutterBottom>
+                        <Typography variant="h2" component="h1" gutterBottom sx={{ fontSize: { xs: '1.5rem', sm: '2rem', md: '2.5rem' } }}>
                           Introduction
                         </Typography>
-                        <Typography variant="h5" component="h2" gutterBottom>
+                        <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
                         Air travel has become an essential mode of transportation for millions of people globally,
                         yet it is often disrupted by unpredictable delays and fluctuating prices that can
                         significantly impact travellers’ plans and budgets. 
                         </Typography>
-                        <Typography variant="h5" component="h2" gutterBottom>
+                        <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
                         Understanding the causes behind
                         these disruptions is a common challenge faced by passengers, airline operators, and
                         even regulatory bodies.
                         </Typography>
-                        <Typography variant="h5" component="h2" gutterBottom>
+                        <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
                         Our project, BWB Flight Service, is motivated by the need to
                         demystify these complexities by analysing the factors that influence flight prices and
                         delays using machine learning techniques. 
                         </Typography>
-                        <Typography variant="h2" component="h1" gutterBottom>
+                        <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
                         </Typography>
-                        <Typography variant="h5" component="h2" gutterBottom>
+                        <Typography variant="h5" component="h2" gutterBottom sx={{ fontSize: { xs: '1rem', sm: '1.25rem', md: '1.5rem' } }}>
                         Click on the Form page to find flights.
                         </Typography>
                     </Container>

@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+.active {
+  background-color: rgba(0, 0, 0, 0.1); /* Change as needed */
+  color: #1976d2; /* Change as needed */
+}
+@media (max-width: 600px) {
+  h2 {
+      font-size: 1.5rem; /* Smaller size for smaller screens */
+  }
+  h5 {
+      font-size: 1rem; /* Adjust h5 as needed */
+  }
+}
+
+@media (min-width: 600px) and (max-width: 960px) {
+  h2 {
+      font-size: 2rem; /* Medium size for medium screens */
+  }
+  h5 {
+      font-size: 1.25rem; /* Adjust h5 as needed */
+  }
+}
+
+@media (min-width: 960px) {
+  h2 {
+      font-size: 2.5rem; /* Default size for larger screens */
+  }
+  h5 {
+      font-size: 1.5rem; /* Adjust h5 as needed */
+  }
+}
+
