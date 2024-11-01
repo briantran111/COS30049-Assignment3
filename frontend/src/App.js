@@ -28,6 +28,12 @@ function Form() {
     const [formValid, setFormValid] = useState(false);
     const [timeError, setTimeError] = useState(false);
     const [snackbarOpen, setSnackbarOpen] = useState(false);
+    const [flights, setFlights] = useState([]); // New state for flight results
+
+    useEffect(() => {
+        // Reset flights when component mounts or on any cleanup
+        setFlights(null);
+    }, []);
 
     const checkFormValidity = () => {
         setFormValid(selectedDate && startTime && endTime && selectedAirline && !timeError);
@@ -62,6 +68,7 @@ function Form() {
                 const data = await response.json();
                 if (response.ok) {
                     console.log("Flights found:", data);
+                    setFlights(data); // Set flights data
                     setSnackbarOpen(true);
                 } else {
                     console.error("Error finding flights:", data);
@@ -192,8 +199,22 @@ function Form() {
                     Flights found successfully!
                 </Alert>
             </Snackbar>
+            {flights && flights.input_data && (
+                <Box sx={{ mt: 4 }}>
+                    <Typography variant="h5">Flight Prediction Results:</Typography>
+                    <Box sx={{ my: 2, p: 2, border: '1px solid', borderRadius: 1 }}>
+                        <Typography>{flights.message}</Typography>
+                        <Typography>Predicted Price: ${flights.predicted_price}</Typography>
+                        <Typography>Delay Prediction: {flights.delay_prediction}</Typography>
+                        <Typography>Selected Date: {new Date(flights.input_data.selectedDate).toLocaleDateString()}</Typography>
+                        <Typography>Start Time: {new Date(flights.input_data.start_time).toLocaleTimeString()}</Typography>
+                        <Typography>End Time: {new Date(flights.input_data.end_time).toLocaleTimeString()}</Typography>
+                    </Box>
+                </Box>
+            )}
         </Container>
     );
+    
 }
 
 // About page component
