@@ -203,7 +203,6 @@ function Form() {
                 <Box sx={{ mt: 4 }}>
                     <Typography variant="h5">Flight Prediction Results:</Typography>
                     <Box sx={{ my: 2, p: 2, border: '1px solid', borderRadius: 1 }}>
-                        <Typography>{flights.message}</Typography>
                         <Typography>Predicted Price: ${flights.predicted_price}</Typography>
                         <Typography>Delay Prediction: {flights.delay_prediction}</Typography>
                         <Typography>Selected Date: {new Date(flights.input_data.selectedDate).toLocaleDateString()}</Typography>
